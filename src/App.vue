@@ -1,13 +1,25 @@
 <template>
   <div id="app">
-    <nav>
+    <!-- <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-    </nav>
+    </nav> -->
+    <WebHeader></WebHeader>
     <router-view/>
+    <WebFooter></WebFooter>
   </div>
 </template>
-
+<script>
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/js/bootstrap.js'
+import WebHeader from '@/components/WebHeader.vue'
+import WebFooter from '@/components/WebFooter.vue'
+export default {
+  components: {
+    WebHeader,WebFooter
+  },
+}
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

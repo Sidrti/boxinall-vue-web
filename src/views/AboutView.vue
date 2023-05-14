@@ -1,5 +1,13 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+   <WebBanner></WebBanner>
   </div>
 </template>
+<script>
+import WebBanner from '@/components/WebBanner.vue';
+
+
+export default {
+    components: { WebBanner }
+}
+</script>
