@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import PortfolioView from '../views/PortfolioView'
 import ServiceView from '../views/ServiceView'
+import AboutView from '../views/AboutView'
 import ServiceDescriptionView from '../views/ServiceDescriptionView'
 import ContactView from '../views/ContactView'
 

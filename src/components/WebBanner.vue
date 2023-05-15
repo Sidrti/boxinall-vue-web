@@ -47,9 +47,9 @@
                 <div class="row v-center">
                     <div class="col-lg-7">
                         <div class="header-headings">
-                            <span class="text-effect-1">Solution-Oriented Services</span>
-                            <h1 class="mt20 mb30" data-aos="fade-in" data-aos-delay="400" data-aos-duration="1000">Creative Design Company We Create 
-                                <vue-typed-js :strings="['First text', 'Second Text']" class="typed-inline" :startDelay="100" :typeSpeed="50" :backSpeed="100" :backDelay="1000" :loop="true" :showCursor="false">
+                            <span class="text-effect-1">We build that people love</span>
+                            <h1 class="mt20 mb30" data-aos="fade-in" data-aos-delay="400" data-aos-duration="1000">At our organization, we excel at unlocking the power of 
+                                <vue-typed-js :strings="['Mobile Apps', 'Websites','Custum Softwares', 'UI/UX Design']" class="typed-inline" :startDelay="100" :typeSpeed="50" :backSpeed="100" :backDelay="1000" :loop="true" :showCursor="false">
                                     <span
                                         class="typing" id="main" 
                                         data-delay="100" data-deleteDelay="1000">
@@ -57,17 +57,16 @@
                                 </vue-typed-js>
                                     <span class="cursorx"
                                     data-owner="first-typer">|</span></h1>
-                            <p data-aos="fade-in" data-aos-delay="800" data-aos-duration="1000">Niwax is one of the most creative and experienced
-                                mobile app development companies in India.</p>
-            
+                            <p data-aos="fade-in" data-aos-delay="800" data-aos-duration="1000">Schedule a Consultation with Our Team to Discuss Your Idea. If We Believe in It, You Could be One of Our Exclusive Clients This Month. We Can't Wait to Hear About Your Vision! </p>
+
                             <div class="niwaxbtnvideo mt30">
-                                <a href="#" class="niwax-btn2">GET STARTED<i class="fas fa-chevron-right fa-icon"></i></a>
+                                <a href="#" class="niwax-btn2">Lets Discuss Your Idea<i class="fas fa-chevron-right fa-icon"></i></a>
                                 <div class="video-btn  d-flex v-center gap10">
                                     <div class="video-intro-ppx"><a class="video-link play-video"
                                             href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&rel=0"><span
                                                 class="triangle-play"></span></a></div>
                                     <div class="title-hero">
-                                        <p>Play Video</p>
+                                        <p>Play video</p>
                                     </div>
                                 </div>
                             </div>
