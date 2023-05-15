@@ -6,8 +6,7 @@
                     <div class="common-heading ptag">
                         <span>We Have Worked Across Multiple Industries</span>
                         <h2>Industries We Serve</h2>
-                        <p>Successfully delivered digital products Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry.</p>
+                        <p>Our digital solutions are built using state-of-the-art technologies that enable us to deliver industry-leading, scalable, and transformational customer experiences. By combining innovation, expertise, and technology, we help our clients achieve digital transformation and stay ahead of the curve.</p>
                     </div>
                 </div>
             </div>
@@ -42,11 +41,11 @@
                     <h6>eCommerce</h6>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6 col-6" data-aos="fade-in" data-aos-delay="1300" data-aos-duration="1000">
+            <!-- <div class="col-lg-3 col-sm-6 col-6" data-aos="fade-in" data-aos-delay="1300" data-aos-duration="1000">
                 <div class="industry-workfor hoshd"><img src="../assets/images/icons/joystick.svg" alt="img">
                     <h6>Game</h6>
                 </div>
-            </div>
+            </div> -->
             <div class="col-lg-3 col-sm-6 col-6" data-aos="fade-in" data-aos-delay="1500" data-aos-duration="1000">
                 <div class="industry-workfor hoshd"><img src="../assets/images/icons/healthcare.svg" alt="img">
                     <h6>Healthcare</h6>
