@@ -4,6 +4,8 @@ import HomeView from '../views/HomeView.vue'
 import PortfolioView from '../views/PortfolioView'
 import ServiceView from '../views/ServiceView'
 import AboutView from '../views/AboutView'
+import ServiceDescriptionView from '../views/ServiceDescriptionView'
+import ContactView from '../views/ContactView'
 
 
 Vue.use(VueRouter)
@@ -20,6 +22,17 @@ const routes = [
     component: PortfolioView
   },
   {
+    path: '/services',
+    name: 'services',
+    component: ServiceView,
+    // children: [{ path: 'process/:id',component: ServiceDescriptionView }],
+  },
+  {
+    path: '/process/:id',
+    name: 'service-description',
+    component: ServiceDescriptionView,
+  },
+  {
     path: '/about',
     name: 'about',
     // component: AboutView,
@@ -29,14 +42,9 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
   },
   {
-    path: '/service',
-    name: 'service',
-    component: ServiceView
-  },
-  {
-    path: '/about',
-    name: 'about',
-    component: AboutView
+    path: '/contact',
+    name: 'contact',
+    component: ContactView,
   },
 ]
 

@@ -20,7 +20,7 @@
       <section class="service-section-prb pad-tb">
          <div class="container text-start">
             <div class="row upset">
-               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus wow fadeInUp" data-wow-delay=".2s">
+               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus wow fadeInUp" data-wow-delay=".2s" >
                   <div class="service-sec-brp srvc-bg-nx bg-gradient13 text-w">
                      <h4 class="mb10">What we can do for you?</h4>
                      <p>We pride ourselves on our wide range of services that cater to every client's needs, whether it's full-stack development or consultancy. You name it, we provide it.</p>
