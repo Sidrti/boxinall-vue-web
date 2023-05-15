@@ -8,7 +8,7 @@
                             <img src="../assets/images/icons/startup.svg" alt="years" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">15</span><span>+</span>
+                            <span class="counter">6</span><span>+</span>
                             <p>Year In Business</p>
                         </div>
                     </div>
@@ -19,7 +19,7 @@
                             <img src="../assets/images/icons/team.svg" alt="team" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">80</span><span>+</span>
+                            <span class="counter">30</span><span>+</span>
                             <p>Team Members</p>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
                             <img src="../assets/images/icons/deal.svg" alt="happy" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">450</span>
+                            <span class="counter">90</span>
                             <p>Happy Clients</p>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                             <img src="../assets/images/icons/computers.svg" alt="project" class="img-fluid" />
                         </div>
                         <div class="statnumb counter-number">
-                            <span class="counter">48</span><span>k</span>
+                            <span class="counter">170</span><span>+</span>
                             <p>Projects Done</p>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                             <img src="../assets/images/icons/worker.svg" alt="work" class="img-fluid"/>
                         </div>
                         <div class="statnumb">
-                            <span class="counter">95</span><span>k</span>
+                            <span class="counter">17</span><span>k</span>
                             <p>Hours Worked</p>
                         </div>
                     </div>

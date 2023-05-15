@@ -22,10 +22,9 @@
                                                 alt="review service logo"></span> </div>
                                 </div>
                                 <div class="review-text">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum
-                                        has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                        printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>Boxinall successfully built the website, and the client
+                                         loved the designs. The team primarily communicated every 
+                                        process through messages, ensuring seamless engagement. Overall, it was a successful partnership.</p>
                                 </div>
                                 <div class="-client-details-">
                                     <div class="-reviewr">
@@ -33,7 +32,43 @@
                                             class="img-fluid">
                                     </div>
                                     <div class="reviewer-text">
-                                        <h4>Mario Speedwagon</h4>
+                                        <h4>Ayushi Saxena</h4>
+                                        <p>CEO <small>United Arab Emirates</small></p>
+                                        <div class="star-rate">
+                                            <ul>
+                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                            aria-hidden="true"></i></a> </li>
+                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                            aria-hidden="true"></i></a> </li>
+                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                            aria-hidden="true"></i></a> </li>
+                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
+                                                            aria-hidden="true"></i></a> </li>
+                                                <li> <a href="javascript:void(0)"><i class="fas fa-star"
+                                                            aria-hidden="true"></i></a> </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="reviews-card pr-shadow mx-2">
+                                <div class="row v-center">
+                                    <div class="col"> <span class="revbx-lr"><i class="fas fa-quote-left"></i></span> </div>
+                                    <div class="col"> <span class="revbx-rl"><img
+                                                src="../assets/images/client/upwork-logo.png"
+                                                alt="review service logo"></span> </div>
+                                </div>
+                                <div class="review-text">
+                                    <p>Boxinall delivered a website that surpassed the client's existing platform by 200%. The team primarily 
+                                        communicated the process on Microsoft Teams. Above all, their customer service and time management were impressive. </p>
+                                </div>
+                                <div class="-client-details-">
+                                    <div class="-reviewr">
+                                        <img src="../assets/images/client/reviewer-a.jpg" alt="Good Review"
+                                            class="img-fluid">
+                                    </div>
+                                    <div class="reviewer-text">
+                                        <h4>Somiya</h4>
                                         <p>Business Owner, <small>Jaipur</small></p>
                                         <div class="star-rate">
                                             <ul>
@@ -60,10 +95,9 @@
                                                 alt="review service logo"></span> </div>
                                 </div>
                                 <div class="review-text">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum
-                                        has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                        printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>From the get-go, Boxinall fully understood the client's requirements, 
+                                        allowing them to deliver a fully functioning solution in a timely manner. They managed each task well and worked
+                                         with the utmost professionalism, making them an ideal partner for this project.</p>
                                 </div>
                                 <div class="-client-details-">
                                     <div class="-reviewr">
@@ -71,8 +105,8 @@
                                             class="img-fluid">
                                     </div>
                                     <div class="reviewer-text">
-                                        <h4>Mario Speedwagon</h4>
-                                        <p>Business Owner, <small>Jaipur</small></p>
+                                        <h4>Rahul Singh</h4>
+                                        <p>Business Owner, <small>Delhi</small></p>
                                         <div class="star-rate">
                                             <ul>
                                                 <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
@@ -83,7 +117,7 @@
                                                             aria-hidden="true"></i></a> </li>
                                                 <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
                                                             aria-hidden="true"></i></a> </li>
-                                                <li> <a href="javascript:void(0)"><i class="fas fa-star"
+                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
                                                             aria-hidden="true"></i></a> </li>
                                             </ul>
                                         </div>
@@ -98,10 +132,8 @@
                                                 alt="review service logo"></span> </div>
                                 </div>
                                 <div class="review-text">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum
-                                        has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                        printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>Boxinall's deliverable met the client's needs and expectations, even as they evolved over the course of the engagement. They used both GitHub and the client's internal
+                                         project tracker to manage the development process. Boxinall was professional, proficient, and communicative.</p>
                                 </div>
                                 <div class="-client-details-">
                                     <div class="-reviewr">
@@ -109,8 +141,8 @@
                                             class="img-fluid">
                                     </div>
                                     <div class="reviewer-text">
-                                        <h4>Mario Speedwagon</h4>
-                                        <p>Business Owner, <small>Jaipur</small></p>
+                                        <h4>Neeta Trivedi, PhD</h4>
+                                        <p>Business Owner, <small>Bengaluru</small></p>
                                         <div class="star-rate">
                                             <ul>
                                                 <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
@@ -121,45 +153,7 @@
                                                             aria-hidden="true"></i></a> </li>
                                                 <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
                                                             aria-hidden="true"></i></a> </li>
-                                                <li> <a href="javascript:void(0)"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="reviews-card pr-shadow mx-2">
-                                <div class="row v-center">
-                                    <div class="col"> <span class="revbx-lr"><i class="fas fa-quote-left"></i></span> </div>
-                                    <div class="col"> <span class="revbx-rl"><img
-                                                src="../assets/images/client/upwork-logo.png"
-                                                alt="review service logo"></span> </div>
-                                </div>
-                                <div class="review-text">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum
-                                        has been the industry's standard dummy text ever since the 1500s, when an unknown
-                                        printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                </div>
-                                <div class="-client-details-">
-                                    <div class="-reviewr">
-                                        <img src="../assets/images/client/reviewer-a.jpg" alt="Good Review"
-                                            class="img-fluid">
-                                    </div>
-                                    <div class="reviewer-text">
-                                        <h4>Mario Speedwagon</h4>
-                                        <p>Business Owner, <small>Jaipur</small></p>
-                                        <div class="star-rate">
-                                            <ul>
                                                 <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a> </li>
-                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a> </li>
-                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a> </li>
-                                                <li> <a href="javascript:void(0)" class="chked"><i class="fas fa-star"
-                                                            aria-hidden="true"></i></a> </li>
-                                                <li> <a href="javascript:void(0)"><i class="fas fa-star"
                                                             aria-hidden="true"></i></a> </li>
                                             </ul>
                                     </div>
