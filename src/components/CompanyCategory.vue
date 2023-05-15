@@ -22,7 +22,7 @@
       <section class="service-section-prb pad-tb">
          <div class="container text-start">
             <div class="row upset">
-               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus wow fadeInUp" data-wow-delay=".2s">
+               <div  data-tilt data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus wow fadeInUp" data-wow-delay=".2s" >
                   <div class="service-sec-brp srvc-bg-nx bg-gradient13 text-w">
                      <h4 class="mb10">INTEGRATED SERVICES</h4>
                      <p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>

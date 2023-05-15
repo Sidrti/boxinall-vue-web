@@ -10,12 +10,12 @@
           <div class="custom-nav" role="navigation">
             <ul class="nav-list onepge">
               <li><router-link to="/" class="menu-links">Home</router-link></li>
-              <li><a href="service-web.html" class="menu-links">Services</a></li>
-              <li><a to="about.html" class="menu-links">About</a></li>
+              <li><router-link  class="menu-links" to="/services">Services</router-link></li>
+              <li><router-link  class="menu-links" to="/about">About</router-link></li>
               <li><router-link  class="menu-links" to="/portfolio">Portfolio</router-link></li>
               
               <li><a href="#" class="btn-round- btn-br bg-btn"><i class="fas fa-phone-alt"></i></a></li>
-              <li><a href="get-quote.html" class="btn-outline icon-btn">Contact US <i class=""></i></a> </li>
+              <li><router-link  class="btn-outline icon-btn" to="/contact">Contact Us<i class=""></i></router-link> </li>
             </ul>
           </div>
           <div class="mobile-menu2">
