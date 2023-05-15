@@ -8,7 +8,8 @@
                             <img src="../assets/images/icons/startup.svg" alt="years" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">6</span><span>+</span>
+                            <number :to="15" :duration="2" />
+                            <span>+</span>
                             <p>Year In Business</p>
                         </div>
                     </div>
@@ -19,7 +20,7 @@
                             <img src="../assets/images/icons/team.svg" alt="team" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">30</span><span>+</span>
+                            <number :to="80" :duration="3" /><span>+</span>
                             <p>Team Members</p>
                         </div>
                     </div>
@@ -32,7 +33,7 @@
                             <img src="../assets/images/icons/deal.svg" alt="happy" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <span class="counter">90</span>
+                            <number :to="450" :duration="5" />
                             <p>Happy Clients</p>
                         </div>
                     </div>
@@ -43,7 +44,7 @@
                             <img src="../assets/images/icons/computers.svg" alt="project" class="img-fluid" />
                         </div>
                         <div class="statnumb counter-number">
-                            <span class="counter">170</span><span>+</span>
+                            <number :to="48" :duration="2" /><span>k</span>
                             <p>Projects Done</p>
                         </div>
                     </div>
@@ -54,7 +55,7 @@
                             <img src="../assets/images/icons/worker.svg" alt="work" class="img-fluid"/>
                         </div>
                         <div class="statnumb">
-                            <span class="counter">17</span><span>k</span>
+                            <number :to="95" :duration="4" /><span>k</span>
                             <p>Hours Worked</p>
                         </div>
                     </div>
@@ -89,6 +90,6 @@ export default {
             VanillaTilt.init(this.$refs.tilt5,this.options)
             VanillaTilt.init(this.$refs.tilt6,this.options)
         }
-    }
+    },
 }
 </script>

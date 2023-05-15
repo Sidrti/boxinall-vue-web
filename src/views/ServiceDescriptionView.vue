@@ -32,9 +32,9 @@ export default {
   },
   computed: {
     getKey() {
-      if(this.$route.params.id == 'app-development') {
-        return 'app';
-      }
+      // if(this.$route.params.id == 'app-development') {
+      //   return 'app';
+      // }
       return this.$route.params.id
     }
   }
