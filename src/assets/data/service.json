@@ -1,0 +1,122 @@
+[
+    {
+        "title": "App Development",
+        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
+        "to": "/process/app-development",
+        "subTitleList": [
+            {
+                "title": "IPHONE"
+            },
+            {
+                "title": "ANDROID"
+            },
+            {
+                "title": "CROSS PLATFORM"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/apple.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Web Development",
+        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
+        "to": "/process/website-development",
+        "subTitleList": [
+            {
+                "title": "IPHONE"
+            },
+            {
+                "title": "ANDROID"
+            },
+            {
+                "title": "CROSS PLATFORM"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/apple.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Software Development",
+        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
+        "to": "/process/software-development",
+        "subTitleList": [
+            {
+                "title": "IPHONE"
+            },
+            {
+                "title": "ANDROID"
+            },
+            {
+                "title": "CROSS PLATFORM"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/apple.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Chirag Deol",
+        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
+        "to": "/process/chirag-development",
+        "subTitleList": [
+            {
+                "title": "IPHONE"
+            },
+            {
+                "title": "ANDROID"
+            },
+            {
+                "title": "CROSS PLATFORM"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/apple.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            }
+        ]
+    }
+]

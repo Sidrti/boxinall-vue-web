@@ -1,0 +1,82 @@
+{
+    "app": {
+        "title": "Need A Premium & Creative Website Designing?",
+        "subtitle": "From Startup to Enterprise be ready and don't worry about design and user experience.",
+        "overview": {
+            "title": "Online Marketing Services Proven to Increase Leads, Sales, & Revenue",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "hashtags": [
+                {
+                    "name": "# 800+ Mobile Delivered"
+                },
+                {
+                    "name": "# 800+ Mobile Delivered"
+                },
+                {
+                    "name": "# 800+ Mobile Delivered"
+                },
+                {
+                    "name": "# 800+ Mobile Delivered"
+                },
+                {
+                    "name": "# 800+ Mobile Delivered"
+                },
+                {
+                    "name": "# 800+ Mobile Delivered"
+                }
+            ],
+            "iconList":[
+                {
+                    "src":"/image/android.svg",
+                    "alt":"Alt"
+                },
+                {
+                    "src":"/image/apple.svg",
+                    "alt":"Alt"
+                },
+                {
+                    "src":"/image/apple.svg",
+                    "alt":"Alt"
+                }
+            ],
+            "advantages":[
+                {
+                    "title":"Strategize with The Valuable Data and Analytics"
+                },
+                {
+                    "title":"Strategize with The Valuable Data and Analytics"
+                },
+                {
+                    "title":"Strategize with The Valuable Data and Analytics"
+                },
+                {
+                    "title":"Strategize with The Valuable Data and Analytics"
+                },
+                {
+                    "title":"Strategize with The Valuable Data and Analytics"
+                },
+                {
+                    "title":"Strategize with The Valuable Data and Analytics"
+                }
+            ]
+        },
+        "process":{
+            "title":"Our App Development Process",
+            "subTitle":"Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
+            "processList":[
+                {
+                    "title":"Requirement Gathering",
+                    "description":"Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+                    "src":"/image/process-2.jpg",
+                    "alt":"Alt"
+                },
+                {
+                    "title":"Prototype",
+                    "description":"Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+                    "src":"/image/process-2.jpg",
+                    "alt":"Alt"
+                }
+            ]
+        }
+    }
+}

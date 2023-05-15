@@ -1,0 +1,117 @@
+<template>
+    <section class="niwaxcompanytimeline pad-tb">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="common-heading">
+                        <span>The Time Machine</span>
+                        <h2>A Timeline of Our Journey</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="timeline">
+                        <div class="timeline-row niwaxcnnt1">
+                            <div class="timeline-time">
+                                Establishment<small>2005</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>The Company Born</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
+                                    printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt2">
+                            <div class="timeline-time">
+                                New Office<small>2006</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>New Workspace</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
+                                    printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt1">
+                            <div class="timeline-time">
+                                New Horizons<small>2008</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>New Horizons</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
+                                    printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt2">
+                            <div class="timeline-time">
+                                Growing Teams<small>2010</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>We are 2500 and growing</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
+                                    printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt1">
+                            <div class="timeline-time">
+                                Happy Clients<small>2011</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>5K Happy Clients</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
+                                    printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                <div class="thumbs">
+                                    <img class="img-fluid rounded" src="../assets/images/user-thumb/girl.jpg" alt="Niwax">
+                                    <img class="img-fluid rounded" src="../assets/images/user-thumb/girl2.jpg" alt="Niwax">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt2">
+                            <div class="timeline-time">
+                                Awards<small> 2014</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>Academy Sward for Best Company</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s.</p>
+                                <div class="thumbs">
+                                    <img class="img-fluid rounded" src="../assets/images/icons/badge.svg" alt="Niwax">
+                                    <img class="img-fluid rounded" src="../assets/images/icons/badge.svg" alt="Niwax">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt1">
+                            <div class="timeline-time">
+                                New Milestone<small>2020</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>A New Milestone Achieved</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-row niwaxcnnt1">
+                            <div class="timeline-time">
+                                Happy Clients<small>2021</small>
+                            </div>
+                            <div class="timeline-content">
+                                <h4>5K Happy Clients</h4>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+                                    has been the industry's standard dummy text ever since the 1500s, when an unknown
+                                printer took a galley of type and scrambled it to make a type specimen book. </p>
+                            <div class="thumbs">
+                                <img class="img-fluid rounded" src="../assets/images/user-thumb/girl.jpg" alt="Niwax">
+                                <img class="img-fluid rounded" src="../assets/images/user-thumb/girl2.jpg" alt="Niwax">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section></template>
