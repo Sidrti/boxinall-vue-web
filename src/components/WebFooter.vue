@@ -27,9 +27,10 @@
                 <div class="row justify-content-between">
                     <div class="col-lg-3 col-sm-6  ftr-brand-pp">
                         <a class="navbar-brand mt30 mb25" href="#"> <img src="../assets/images/logo.png" alt="Logo" width="100" /></a>
-                        <p>News letter dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Enter
-                            your email</p>
-                        <a href="#" class="btn-main bg-btn3 lnk mt20">Become Partner <i
+                        <p>We offer 360° Mobile & Web solutions that help you reach your target market and transform your ideas into top-notch products. Since 2018, we have dominated the market for mobile apps and practical business and marketing solutions. 
+
+</p>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSPwE-wKtjYy8fT6ju4oNYX_VpPP_A542v965TBPIYaw1mDQ/viewform?usp=sf_link" class="btn-main bg-btn3 lnk mt20">Vendor Registration <i
                                 class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                     </div>
                     <div class="col-lg-3 col-sm-6">
@@ -37,27 +38,28 @@
                         <ul class="footer-address-list ftr-details">
                             <li>
                                 <span><i class="fas fa-envelope"></i></span>
-                                <p>Email <span> <a href="mailto:info@businessname.com">info@businessname.com</a></span></p>
+                                <p>Email <span> <a href="mailto:info@businessname.com">info@boxinallsoftech.com</a></span></p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone-alt"></i></span>
-                                <p>Phone <span> <a href="tel:+10000000000">+1 0000 000 000</a></span></p>
+                                <p>Phone <span> <a href="tel:+10000000000">+91 827-960-7423</a></span></p>
                             </li>
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>Address <span> 123 Business Centre London SW1A 1AA</span></p>
+                                <p>Address <span>Gaur city 2 16 Avenue, Noida, Uttar Pradesh,
+India, 201009</span></p>
                             </li>
                         </ul>
                     </div>
                     <div class="col-lg-2 col-sm-6">
-                        <h5>Company</h5>
+                        <h5>Services</h5>
                         <ul class="footer-address-list link-hover">
-                            <li><a href="get-quote.html">Contact</a></li>
-                            <li><a href="javascript:void(0)">Customer's FAQ</a></li>
-                            <li><a href="javascript:void(0)">Refund Policy</a></li>
-                            <li><a href="javascript:void(0)">Privacy Policy</a></li>
-                            <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-                            <li><a href="javascript:void(0)">License & Copyright</a></li>
+                            <li><a href="get-quote.html">Mobile App Development</a></li>
+                            <li><a href="javascript:void(0)">Web Development</a></li>
+                            <li><a href="javascript:void(0)">User Interface Design</a></li>
+                            <li><a href="javascript:void(0)">Custum Software Development</a></li>
+                            <li><a href="javascript:void(0)">CMS Development</a></li>
+                            <li><a href="javascript:void(0)">OTT App Development</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-4 col-sm-6 footer-blog-">
@@ -89,8 +91,7 @@
                 <div class="row">
                     <div class="col-lg-4 v-center">
                         <h5 class="mb10">Top App Development Companies</h5>
-                        <p>News letter dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Enter
-                            your email</p>
+                        <p>We are believers of change! A change driven by technology and innovation</p>
                     </div>
                     <div class="col-lg-8 v-center">
                         <ul class="footer-badges-">

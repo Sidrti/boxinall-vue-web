@@ -18,11 +18,11 @@
                         <div class="info-text-div">
                             <h4>India</h4>
                             <h6 class="mt10">Registered Office</h6>
-                            <p>232, 21st East Street, Kamaraj Nagar, Jaipur, Rajasthan 303030</p>
+                            <p>Gaur City 2, Greater Noida, Uttar Pradesh, India, 201009</p>
                             <ul class="-address-list mt10">
-                                <li><a href="mailto:info@businessname.com"><i class="fas fa-envelope"></i>
-                                        info@businessname.com</a></li>
-                                <li><a href="tel:+10000000000"><i class="fas fa-phone-alt"></i> +1 0000 000 000</a> </li>
+                                <li><a href="mailto:info@boxinallsoftech.com"><i class="fas fa-envelope"></i>
+                                        info@boxinallsoftech.com</a></li>
+                                <!-- <li><a href="tel:+10000000000"><i class="fas fa-phone-alt"></i> +1 0000 000 000</a> </li> -->
                             </ul>
                         </div>
                     </div>
@@ -33,13 +33,13 @@
                             <img src="../assets/images/location/italy.png" alt="location" class="img-fluid" />
                         </div>
                         <div class="info-text-div">
-                            <h4>Italy</h4>
+                            <h4>USA Office</h4>
                             <h6 class="mt10">Registered Office</h6>
-                            <p>9988 Piazzetta Scalette Rubiani 99, Rome, 84090</p>
+                            <p>355 SOUTH GRAND AVE., SUITE 2450, LOS ANGELES, CA 90071</p>
                             <ul class="-address-list mt10">
-                                <li><a href="mailto:info@businessname.com"><i class="fas fa-envelope"></i>
-                                        info@businessname.com</a></li>
-                                <li><a href="tel:+10000000000"><i class="fas fa-phone-alt"></i> +1 0000 000 000</a> </li>
+                                <li><a href="mailto:info@boxinallsoftech.com"><i class="fas fa-envelope"></i>
+                                        info@boxinallsoftech.com</a></li>
+                                <!-- <li><a href="tel:+10000000000"><i class="fas fa-phone-alt"></i> +1 0000 000 000</a> </li> -->
                             </ul>
                         </div>
                     </div>
@@ -50,13 +50,14 @@
                             <img src="../assets/images/location/paris.png" alt="location" class="img-fluid" />
                         </div>
                         <div class="info-text-div">
-                            <h4>Paris</h4>
+                            <h4>Australia</h4>
                             <h6 class="mt10">Registered Office</h6>
-                            <p>603 FA Forest Avenue, New York, USA 10021</p>
+                            <p>560 davis road,
+tarneit VIC</p>
                             <ul class="-address-list mt10">
-                                <li><a href="mailto:info@businessname.com"><i class="fas fa-envelope"></i>
-                                        info@businessname.com</a></li>
-                                <li><a href="tel:+10000000000"><i class="fas fa-phone-alt"></i> +1 0000 000 000</a> </li>
+                                <li><a href="mailto:info@boxinallsoftech.com"><i class="fas fa-envelope"></i>
+                                        info@boxinallsoftech.com</a></li>
+                                <!-- <li><a href="tel:+10000000000"><i class="fas fa-phone-alt"></i> +1 0000 000 000</a> </li> -->
                             </ul>
                         </div>
                     </div>

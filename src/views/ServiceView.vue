@@ -38,7 +38,7 @@ export default {
     return {
       servicesList: data,
       bannerData:{
-        "title": "Need A Premium & Creative Website Designing?",
+        "title": "We Create Digital Products That Aid in the Growth of Your Business ",
         "subtitle": "From Startup to Enterprise be ready and don't worry about design and user experience.",
       }
     }

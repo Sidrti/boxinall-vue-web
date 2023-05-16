@@ -5,10 +5,9 @@
                 <div class="col-lg-6 v-center">
                     <div class="hero-heading-sec2 niwax" data-rellax-speed="3">
                         <h1 class="" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">Top Rated Mobile App Development Company</h1>
-                        <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Niwax is one of the most creative and experienced mobile
-                            app development companies in India.</p>
+                        <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a Consultation with Our Team to Discuss Your Idea. If We Believe in It, You Could be One of Our Exclusive Clients This Month. We Can't Wait to Hear About Your Vision! </p>
                         <div class="content-sec  d-flex mt30 v-center text-w" data-aos="fadeIn" :data-aos-delay="600" data-aos-duration="1000">
-                            <div class="mr25"><a href="#" class="btn-main bg-btn4 lnk">GET STARTED<i
+                            <div class="mr25"><a href="#" class="btn-main bg-btn4 lnk">Lets Discuss your Idea<i
                                         class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a></div>
                             <div class="video-intro-pp v-center"><a class="video-link play-video"
                                     href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0"><span
@@ -33,10 +32,50 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 v-center">
-                    <div class="app-hero-bnr" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000"> <img
+                <div class="col-lg-5 v-center">
+                    
+            <div>
+              <div class="form-block formcover shadow">
+                <h4>Request a Free Quote</h4>
+                <form id="contactForm" data-bs-toggle="validator" class="shake mt30">
+                  <div class="row">
+                    <div class="form-group col-sm-6">
+                      <input type="text"  id="name" placeholder="Enter name" required data-error="Please fill Out">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                    <div class="form-group col-sm-6">
+                      <input type="email"  id="email" placeholder="Enter email" required>
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="form-group col-sm-6">
+                      <input type="text" id="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                    <div class="form-group col-sm-6">
+                      <select name="Dtype" id="Dtype" required>
+                        <option value="">Select Requirement</option>
+                        <option value="web">web</option>
+                        <option value="graphic">graphic</option>
+                        <option value="video">video</option>
+                      </select>
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <textarea id="message" rows="5" placeholder="Enter your message" required></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                  <button type="submit" id="form-submit" class="btn btn-main bg-btn3">Submit</button>
+                  <div id="msgSubmit" class="h3 text-center hidden"></div>
+                  <div class="clearfix"></div>
+                </form>
+              </div>
+            </div>
+                    <!-- <div class="app-hero-bnr" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000"> <img
                             src="../assets/images/hero/mobile_hero_banner.png" alt="niwax mobile app development company"
-                            class="img-fluid"> </div>
+                            class="img-fluid"> </div> -->
                 </div>
             </div>
         </div>

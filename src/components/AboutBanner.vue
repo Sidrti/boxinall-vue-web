@@ -12,8 +12,12 @@
                 </ul>
               </div> -->
               <div class="bread-title">
-                <h2>About Niwax Company</h2>
-                <p class="pt20">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                <h2>We are Powering Mobile App, Websites and Custum softwares</h2>
+                <p class="pt20">Boxinall is widely recognized as a top provider of IT services, 
+                  with a highly structured approach that delivers effective solutions to a range of businesses
+                   facing challenges in the information and technology sector. Our professional team is dedicated 
+                   to providing tangible results that help our clients achieve their goals and stay ahead of the 
+                   competition</p>
                 <a href="#" class="btn-main bg-btn lnk mt30">Contact Us <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
               </div>
             </div>

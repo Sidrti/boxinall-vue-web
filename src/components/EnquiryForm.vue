@@ -3,14 +3,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8">
-            <h2>
+            <!-- <h2>
                 <vue-typed-js :strings="['Hello !','नमस्ते', 'Hola','Bonjour','Guten tag','Salve','Nǐn hǎo','Olá','Salaam Alaikum','Konnichiwa']" class="typed-inline" :startDelay="100" :typeSpeed="50" :backSpeed="100" :backDelay="1000" :loop="true" :showCursor="false">
                     <span
                         class="typing mb-5" id="main" 
                         data-delay="100" data-deleteDelay="1000">
                     </span> 
                 </vue-typed-js>
-            </h2>
+            </h2> -->
           </div>
         </div>
         <div class="row justify-content-between">
