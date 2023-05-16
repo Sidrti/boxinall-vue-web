@@ -5,9 +5,8 @@
                 <div class="col-lg-8">
                     <div class="common-heading ptag">
                         <span>We Deliver Our Best</span>
-                        <h2>Why Choose Niwax</h2>
-                        <p class="mb30">Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel
-                            hendrerit nisi. Vestibulum eget risus velit.</p>
+                        <h2>Why Choose Boxinall</h2>
+                        <p class="mb30"></p>
                     </div>
                 </div>
             </div>
@@ -17,7 +16,7 @@
                         <div class="s-card-icon"><img src="../assets/images/icons/teama.svg" alt="service" class="img-fluid"></div>
                         <div class="s-block-content">
                             <h4>Reliable Service. In House Team</h4>
-                            <p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -26,7 +25,7 @@
                         <div class="s-card-icon"><img src="../assets/images/icons/link.svg" alt="service" class="img-fluid"></div>
                         <div class="s-block-content">
                             <h4>Trusted by People Like You</h4>
-                            <p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -35,7 +34,7 @@
                         <div class="s-card-icon"><img src="../assets/images/icons/tech.svg" alt="service" class="img-fluid"></div>
                         <div class="s-block-content">
                             <h4>Complete Technical Competency</h4>
-                            <p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+                            <p>.</p>
                         </div>
                     </div>
                 </div>
@@ -44,7 +43,7 @@
                         <div class="s-card-icon"><img src="../assets/images/icons/hi.svg" alt="service" class="img-fluid"></div>
                         <div class="s-block-content">
                             <h4>Friendly & Cordial in Nature</h4>
-                            <p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -52,8 +51,8 @@
                     <div class="s-block wide-sblock">
                         <div class="s-card-icon"><img src="../assets/images/icons/badge.svg" alt="service" class="img-fluid"></div>
                         <div class="s-block-content">
-                            <h4>Excellent Quality Delivered on Time</h4>
-                            <p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+                            <h4>Excellent Quality Delivered on Time and in Budget</h4>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +61,7 @@
                         <div class="s-card-icon"><img src="../assets/images/icons/tin.svg" alt="service" class="img-fluid"></div>
                         <div class="s-block-content">
                             <h4>Effective & Continuous Communication</h4>
-                            <p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>

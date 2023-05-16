@@ -10,15 +10,10 @@
                 <div class="col-lg-8 block-1">
                     <div class="common-heading text-l pl25">
                         <span>Overview</span>
-                        <h2>Creative Web Design Service</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                            the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                            of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the
-                            printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. is simply dummy text of the printing and typesetting industry. </p>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply
-                            dummy text of the printing and typesetting industry. is simply dummy text of the printing and
-                            typesetting industry.</p>
+                        <h2>Get Unwavering Support From Ideation to Post-Launch</h2>
+                        <p>In order to guarantee a smooth end-to-end software development process, we have the best people and technologies. We ensure that your product is developed, tested, and deployed to scale with your business, regardless of its size or industry, as a complete cycle product development service provider.
+
+</p>
                     </div>
             </div>
         </div>

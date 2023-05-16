@@ -1,37 +1,7 @@
 [
     {
-        "title": "App Development",
-        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
-        "to": "/process/app-development",
-        "subTitleList": [
-            {
-                "title": "IPHONE"
-            },
-            {
-                "title": "ANDROID"
-            },
-            {
-                "title": "CROSS PLATFORM"
-            }
-        ],
-        "iconsList": [
-            {
-                "src": "/image/android.svg",
-                "alt":"alt"
-            },
-            {
-                "src": "/image/apple.svg",
-                "alt":"alt"
-            },
-            {
-                "src": "/image/android.svg",
-                "alt":"alt"
-            }
-        ]
-    },
-    {
-        "title": "Web Development",
-        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
+        "title": "Mobile App Development",
+        "description": "We create mobile applications that benefit organisations by enhancing engagement and operational effectiveness. Hire Boxinall certified mobile app developers, who thrive at providing....",
         "to": "/process/website-development",
         "subTitleList": [
             {
@@ -60,18 +30,18 @@
         ]
     },
     {
-        "title": "Software Development",
-        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
-        "to": "/process/software-development",
+        "title": "Web Development",
+        "description": "We offer a variety of services. To give the greatest web solution, we at Boxinall go above and beyond to fully comprehend the goals and particular business issues of our clients. ",
+        "to": "/process/website-development",
         "subTitleList": [
             {
-                "title": "IPHONE"
+                "title": "React"
             },
             {
-                "title": "ANDROID"
+                "title": "vue.js"
             },
             {
-                "title": "CROSS PLATFORM"
+                "title": "Wordpress"
             }
         ],
         "iconsList": [
@@ -90,18 +60,76 @@
         ]
     },
     {
-        "title": "Chirag Deol",
-        "description": "Design and develop a creative website with our microscopic detailing and scrupulous strategies.",
+        "title": "Software Development",
+        "description": "We provide a wide variety of software development services that are tailored to your unique business requirements as a custom software development firm. ",
+        "to": "/process/software-development",
+        "subTitleList": [
+            {
+                "title": "PHP"
+            },
+            {
+                "title": "Node.js"
+            },
+            {
+                "title": "Java"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/apple.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "UI/UX Design",
+        "description": "Our skilled team of design strategists visualises original concepts and transforms them into final designs for our clients. They do extensive research and create an understandable visual language. ",
         "to": "/process/chirag-development",
         "subTitleList": [
             {
-                "title": "IPHONE"
+                "title": "Figma"
             },
             {
-                "title": "ANDROID"
+                "title": "Abobe XD"
+            }
+            
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
             },
             {
-                "title": "CROSS PLATFORM"
+                "src": "/image/apple.svg",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/android.svg",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Digital Marketing",
+        "description": "With the help of our revenue-driven digital marketing services, we can assist you in expanding your company and achieving your online marketing objectives in the near future. Get well-defined online marketing strategy and execution to inject ",
+        "to": "/process/chirag-development",
+        "subTitleList": [
+            {
+                "title": "Web Analytics"
+            },
+            {
+                "title": "SEO"
+            },
+            {
+                "title": "SMM"
             }
         ],
         "iconsList": [
