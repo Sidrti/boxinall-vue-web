@@ -10,8 +10,10 @@ import '@/assets/css/darkmode.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import VueTypedJs from 'vue-typed-js';
+import VueNumber from "vue-number-animation";
 
 AOS.init();
+Vue.use(VueNumber)
 Vue.use(VueTypedJs)
 Vue.component('VueOwlCarousel', VueOwlCarousel)
 Vue.config.productionTip = false

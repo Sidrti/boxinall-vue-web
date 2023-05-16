@@ -1,5 +1,5 @@
 <template>
-    <header class="nav-bg-w main-header navfix fixed-top menu-white" :class="{ sticky: isSticky }">
+    <header class="nav-bg-b main-header navfix fixed-top menu-white" :class="{ sticky: isSticky }">
       <div class="container m-pad">
         <div class="menu-header">
           <div class="dsk-logo"><a class="nav-brand" href="digital-agency.html">
@@ -14,8 +14,11 @@
               <li><router-link  class="menu-links" to="/about">About</router-link></li>
               <li><router-link  class="menu-links" to="/portfolio">Portfolio</router-link></li>
               
-              <li><a href="#" class="btn-round- btn-br bg-btn"><i class="fas fa-phone-alt"></i></a></li>
-              <li><router-link  class="btn-outline icon-btn" to="/contact">Contact Us<i class=""></i></router-link> </li>
+              <!-- <li><a href="#" class="btn-round- btn-br bg-btn"><i class="fas fa-phone-alt"></i></a></li>
+              <div class="cta-card mt40">							
+							<a href="#" class="btn-outline lnk">Request A Quote<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+						</div> -->
+              <li><router-link  class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
             </ul>
           </div>
           <div class="mobile-menu2">
@@ -70,7 +73,7 @@ export default {
   name: 'WebHeader',
   data() {
     return {
-      isSticky: false,
+      isSticky: false, 
     };
   },
   mounted() {
