@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-      <CompanyPortfolio></CompanyPortfolio>
+      <CompanyPortfolio :data="portfolioList"></CompanyPortfolio>
     </div>
   </template>
   
