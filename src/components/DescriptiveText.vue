@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="servie-key-points">
-                        <h4>Advantages of Digital Marketing</h4>
+                        <h4>Technology Stack</h4>
                         <ul class="key-points mt20">
                             <li v-for="item,index in data.overview.advantages" :key="index">{{ item.title }}</li>
                             <!-- <li >Strategize with The Valuable Data and Analytics</li>

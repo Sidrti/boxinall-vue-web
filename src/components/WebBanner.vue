@@ -13,7 +13,7 @@
                                     href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0"><span
                                         class="triangle-play"></span></a></div>
                             <div class="title-hero-oth v-center">
-                                <p>See live demo</p>
+                                <p>See liv demo</p>
                             </div>
                         </div>
                         <div class="awrd-sec text-w mt40" data-aos="fadeIn" :data-aos-delay="500" >
