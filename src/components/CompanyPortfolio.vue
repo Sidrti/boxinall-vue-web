@@ -11,18 +11,16 @@
             </div>
             <div class="row mt60">
 
-                <div class="col-lg-12 col-sm-12 wptbb">
-                    <div class="pbwide shadow bg-gradient1">
+                <div class="col-lg-12 col-sm-12 wptbb" v-for="item, index in filteredPortfolioList" :key="index">
+                    <div class="pbwide shadow" :class="item.bgClass">
                         <div class="portfolio-item-info-tt">
-                            <div class="logowide mb20"><img src="../assets/images/client/customer-logo-5.png" alt="logo"
-                                    class="img-fluid"></div>
-                            <div class="widebloktag"><span>Design</span> <span>Coding</span> <span>Design</span> </div>
-                            <h3 class="mt30 mb30">Weather & Radar - Accurate Weather Forecast</h3>
+                            <div class="logowide mb20"><img :src="item.secondaryImg" alt="logo" class="img-fluid"></div>
+                            <div class="widebloktag"><span v-for="i, indx in item.stack" :key="'stack' + indx">{{ i
+                            }}</span>
+                            </div>
+                            <h3 class="mt30 mb30">{{ item.title }}</h3>
                             <ul class="info-list-ul">
-                                <li>Product Strategy</li>
-                                <li>Product UI/UX Design</li>
-                                <li>Branding Design</li>
-                                <li>Design System</li>
+                                <li v-for="it, i in item.description" :key="i">{{ it }}</li>
                             </ul>
                             <a href="#" class="btn-outline lnk mt30">View Case Study <i
                                     class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
@@ -31,11 +29,9 @@
                             <div class="img-wide-blocktt tilt-outer">
                                 <div class="innerwidedevice tilt-inner" data-tilt data-tilt-max="4" data-tilt-speed="1000"
                                     data-tilt-perspective="2000" ref="tilt1">
-                                    <div class="desktopblock shadow1"><img
-                                            src="../assets/images/portfolio/portfolio-wide-1.jpg" alt="img"
+                                    <div class="desktopblock shadow1"><img :src="item.primaryWebImg" alt="img"
                                             class="img-fluid"> </div>
-                                    <div class="mobileblock shadow1"><img
-                                            src="../assets/images/portfolio/portfolio-wide-1a.jpg" alt="img"
+                                    <div class="mobileblock shadow1"><img :src="item.primaryMobileImg" alt="img"
                                             class="img-fluid"> </div>
                                 </div>
                             </div>
@@ -44,7 +40,7 @@
                 </div>
 
 
-                <div class="col-lg-12 col-sm-12 wptbb">
+                <!-- <div class="col-lg-12 col-sm-12 wptbb">
                     <div class="pbwide shadow bg-gradient2">
                         <div class="portfolio-item-info-tt">
                             <div class="logowide mb20"><img src="../assets/images/client/customer-logo-3.png" alt="logo"
@@ -138,12 +134,13 @@
                         </div>
                     </div>
                 </div>
+                </div> -->
             </div>
         </div>
-    </div>
-</section>
+    </section>
 </template>
 <script>
+import portfolio from '../assets/data/portfolio.json'
 import VanillaTilt from 'vanilla-tilt';
 export default {
     mounted() {
@@ -151,10 +148,22 @@ export default {
     },
     methods: {
         initTint() {
-            VanillaTilt.init(this.$refs.tilt1,{})
-            VanillaTilt.init(this.$refs.tilt2,{})
-            VanillaTilt.init(this.$refs.tilt3,{})
-            VanillaTilt.init(this.$refs.tilt4,{})
+            VanillaTilt.init(this.$refs.tilt1, {})
+            VanillaTilt.init(this.$refs.tilt2, {})
+            VanillaTilt.init(this.$refs.tilt3, {})
+            VanillaTilt.init(this.$refs.tilt4, {})
+        }
+    },
+    data() {
+        return {
+            portfolioList: portfolio ? portfolio : []
+        }
+    },
+    computed: {
+        filteredPortfolioList() {
+            return this.portfolioList.filter(item => {
+                return item.pageVisibleInUrl === this.$route.path || item.pageVisibleInUrl === '*';
+            });
         }
     }
 }

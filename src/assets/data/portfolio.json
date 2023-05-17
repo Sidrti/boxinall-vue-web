@@ -1,0 +1,35 @@
+[
+    {
+        "index":1,
+        "title":"Weather1 & Radar - Accurate Weather Forecast",
+        "stack":["Design","Coding","UI"],
+        "primaryWebImg":"/image/portfolio-wide-1.jpg",
+        "primaryMobileImg":"/image/portfolio-wide-1a.jpg",
+        "secondaryImg":"/image/customer-logo-5.png",
+        "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
+        "pageVisibleInUrl":"*",
+        "bgClass":"bg-gradient1"
+    },
+    {
+        "index":2,
+        "title":"Weather2 & Radar - Accurate Weather Forecast",
+        "stack":["Design","Coding","UI"],
+        "primaryWebImg":"/image/portfolio-wide-1.jpg",
+        "primaryMobileImg":"/image/portfolio-wide-1a.jpg",
+        "secondaryImg":"/image/customer-logo-5.png",
+        "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
+        "pageVisibleInUrl":"/",
+        "bgClass":"bg-gradient2"
+    },
+    {
+        "index":3,
+        "title":"Weather3 & Radar - Accurate Weather Forecast",
+        "stack":["Design","Coding","UI"],
+        "primaryWebImg":"/image/portfolio-wide-1.jpg",
+        "primaryMobileImg":"/image/portfolio-wide-1a.jpg",
+        "secondaryImg":"/image/customer-logo-5.png",
+        "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradient3"
+    }
+]
