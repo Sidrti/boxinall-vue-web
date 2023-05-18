@@ -6,6 +6,7 @@ import ServiceView from '../views/ServiceView'
 import AboutView from '../views/AboutView'
 import ServiceDescriptionView from '../views/ServiceDescriptionView'
 import ContactView from '../views/ContactView'
+import CaseStudyView from '../views/CaseStudyView'
 
 
 Vue.use(VueRouter)
@@ -45,6 +46,11 @@ const routes = [
     path: '/contact',
     name: 'contact',
     component: ContactView,
+  },
+  {
+    path: '/case-study/:id',
+    name: 'case-study',
+    component: CaseStudyView,
   },
 ]
 

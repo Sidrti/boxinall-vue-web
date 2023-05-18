@@ -1,0 +1,41 @@
+{
+    "dating-application":{
+        "title":"Case Studyy",
+        "title2":"On Demand Sex Worker",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. is simply dummy text of the printing and typesetting industry. ",
+        "icons":["/image/android.svg","/image/apple.svg","/image/android.svg"],
+        "primaryImgSrc":"/image/app-intro.png",
+        "features":{
+            "title":"As per client's need Boxinall has developed Food Delivery App",
+            "subTitle1":"App Features",
+            "description1":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Nullam porta nulla in sapien molestie, ut finibus nisi euismod.","Curabitur euismod elit sed venenatis porttitor.","Morbi convallis dolor ut tincidunt porttitor.","Phasellus eleifend massa non enim elementum, a venenatis erat sollicitudin.","Aenean sit amet elit euismod, aliquam quam eu, semper tellus.","Maecenas sed ligula tristique, vestibulum tellus nec, dictum nisl."],
+            "subTitle2":"Admin Features",
+            "description2":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Nullam porta nulla in sapien molestie, ut finibus nisi euismod.","Curabitur euismod elit sed venenatis porttitor.","Morbi convallis dolor ut tincidunt porttitor.","Phasellus eleifend massa non enim elementum, a venenatis erat sollicitudin.","Aenean sit amet elit euismod, aliquam quam eu, semper tellus.","Maecenas sed ligula tristique, vestibulum tellus nec, dictum nisl."]
+        },
+        "challenges":{
+            "title":"Challenges",
+            "subTitle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "primaryImgSrc":"/image/app-view.png",
+            "description" :["Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit."]
+        }
+    },
+    "food-delivery-application":{
+        "title":"Case Study",
+        "title2":"On Demand Sex Worker",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. is simply dummy text of the printing and typesetting industry. ",
+        "icons":["/image/android.svg","/image/apple.svg","/image/android.svg"],
+        "features":{
+            "title1":"As per client's need Boxinall has developed Food Delivery App",
+            "subTitle1":"App Features",
+            "description1":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Nullam porta nulla in sapien molestie, ut finibus nisi euismod.","Curabitur euismod elit sed venenatis porttitor.","Morbi convallis dolor ut tincidunt porttitor.","Phasellus eleifend massa non enim elementum, a venenatis erat sollicitudin.","Aenean sit amet elit euismod, aliquam quam eu, semper tellus.","Maecenas sed ligula tristique, vestibulum tellus nec, dictum nisl."],
+            "subTitle2":"Admin Features",
+            "description2":["Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Nullam porta nulla in sapien molestie, ut finibus nisi euismod.","Curabitur euismod elit sed venenatis porttitor.","Morbi convallis dolor ut tincidunt porttitor.","Phasellus eleifend massa non enim elementum, a venenatis erat sollicitudin.","Aenean sit amet elit euismod, aliquam quam eu, semper tellus.","Maecenas sed ligula tristique, vestibulum tellus nec, dictum nisl."]
+        },
+        "challenges":{
+            "title":"Challenges",
+            "subTitle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "primaryImgSrc":"/image/app-view.png",
+            "description" :["Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit.","Lorem ipsum dolor sit amet, consectetur adipiscing elit."]
+        }
+    }
+}

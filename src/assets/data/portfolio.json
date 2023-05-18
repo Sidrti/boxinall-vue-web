@@ -8,7 +8,8 @@
         "secondaryImg":"/image/customer-logo-5.png",
         "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
         "pageVisibleInUrl":"*",
-        "bgClass":"bg-gradient1"
+        "bgClass":"bg-gradient1",
+        "to":"/case-study/dating-application"
     },
     {
         "index":2,
@@ -19,7 +20,8 @@
         "secondaryImg":"/image/customer-logo-5.png",
         "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
         "pageVisibleInUrl":"/",
-        "bgClass":"bg-gradient2"
+        "bgClass":"bg-gradient2",
+        "to":"/case-study/dating-application"
     },
     {
         "index":3,
@@ -30,6 +32,7 @@
         "secondaryImg":"/image/customer-logo-5.png",
         "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
         "pageVisibleInUrl":"/portfolio",
-        "bgClass":"bg-gradient3"
+        "bgClass":"bg-gradient3",
+        "to":"/case-study/dating-application"
     }
 ]
