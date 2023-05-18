@@ -42,6 +42,7 @@ export default {
         "subtitle": "From Startup to Enterprise be ready and don't worry about design and user experience.",
       }
     }
-  }
+  },
+  
 }
 </script>

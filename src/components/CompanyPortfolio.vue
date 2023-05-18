@@ -22,8 +22,8 @@
                             <ul class="info-list-ul">
                                 <li v-for="it, i in item.description" :key="i">{{ it }}</li>
                             </ul>
-                            <a href="#" class="btn-outline lnk mt30">View Case Study <i
-                                    class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                            <router-link class="btn-outline lnk mt30" :to="item.to"> View Case Study<i
+                                    class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></router-link>
                         </div>
                         <div class="portfolio-wide-image">
                             <div class="img-wide-blocktt tilt-outer">
