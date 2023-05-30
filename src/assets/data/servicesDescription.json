@@ -27,15 +27,15 @@
             ],
             "iconList":[
                 {
-                    "src":"/image/android.svg",
+                    "src":"/image/android.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/ios.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/atom.png",
                     "alt":"Alt"
                 }
             ],
@@ -67,74 +67,74 @@
                 {
                     "title":"Define Your Idea",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process1.png",
                     "alt":"Alt"
                 },
                
                 {
                     "title":"Technical Requirement Gathering",
                     "description":"We send you a business proposal outlining cost estimates, scope of work and much more.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Business prposal",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process3.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Find The Best Solution ",
                     "description":"Well crafted proposal on how to reach your goals. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process4.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"We assign a dedicated Project Manager",
                     "description":"We assign a dedicated account manager to you.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process5.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Assign a development Team ",
                     "description":"Well crafted proposal on how to reach your goals. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process6.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Create Scrum Sheet for Agile Framework (Jeera)",
                     "description":"We assign a dedicated account manager to you.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process7.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Start Your Project - Wireframing and Prototyping ",
                     "description":"Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process8.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"UI/UX Design",
                     "description":"    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process9.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Development ",
                     "description":"    Select the appropriate technology stack (programming languages, frameworks, etc.). Implement the front-end and back-end functionalities. Integrate APIs and third-party services as needed. Conduct regular code reviews and testing during development.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process10.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Testing and Quality Assurance",
                     "description":"       Perform functional testing to ensure all features work as expected.  Conduct compatibility testing across different devices and operating systems.  Test the app's performance, security, and usability.  Address any identified bugs or issues..",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process11.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Deployment and Release",
                     "description":"      Prepare the app for deployment to the desired app stores (e.g., Apple App Store, Google Play Store). Create developer accounts and fulfill submission requirements.  Generate release builds and upload the app for review.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process12.png",
                     "alt":"Alt"
                 }
             ]
@@ -168,15 +168,15 @@
             ],
             "iconList":[
                 {
-                    "src":"/image/android.svg",
+                    "src":"/image/php.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/react.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/wordpress.png",
                     "alt":"Alt"
                 }
             ],
@@ -208,62 +208,62 @@
                 {
                     "title":"Define Your Idea",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process1.png",
                     "alt":"Alt"
                 },
                
                 {
                     "title":"Technical Requirement Gathering",
                     "description":"We send you a business proposal outlining cost estimates, scope of work and much more.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Business prposal",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process3.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Find The Best Solution ",
                     "description":"Well crafted proposal on how to reach your goals. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process4.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"DEDICATED ACCOUNT MANAGER",
+                    "title":"Dedicated project Manager",
                     "description":"We assign a dedicated account manager to you.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process5.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Start Your Project - Wireframing and Prototyping ",
                     "description":"Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process6.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"UI/UX Design",
                     "description":"    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process7.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Development ",
                     "description":"    Select the appropriate technology stack (programming languages, frameworks, etc.). Implement the front-end and back-end functionalities. Integrate APIs and third-party services as needed. Conduct regular code reviews and testing during development.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process9.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Testing and Quality Assurance",
                     "description":"       Perform functional testing to ensure all features work as expected.  Conduct compatibility testing across different devices and operating systems.  Test the app's performance, security, and usability.  Address any identified bugs or issues..",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process10.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Deployment and Release",
                     "description":"      Prepare the app for deployment to the desired app stores (e.g., Apple App Store, Google Play Store). Create developer accounts and fulfill submission requirements.  Generate release builds and upload the app for review.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process12.png",
                     "alt":"Alt"
                 }
             ]
@@ -298,15 +298,15 @@
             ],
             "iconList":[
                 {
-                    "src":"/image/android.svg",
+                    "src":"/image/brands.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/node.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/java.png",
                     "alt":"Alt"
                 }
             ],
@@ -333,68 +333,68 @@
                 {
                     "title":"Define Your Idea",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process1.png",
                     "alt":"Alt"
                 },
                
                 {
                     "title":"Technical Requirement Gathering",
                     "description":"We send you a business proposal outlining cost estimates, scope of work and much more.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Business prposal",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process3.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Find The Best Solution ",
                     "description":"Well crafted proposal on how to reach your goals. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process4.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"DEDICATED ACCOUNT MANAGER",
                     "description":"We assign a dedicated account manager to you.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process5.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Start Your Project - Wireframing and Prototyping ",
                     "description":"Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process6.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"UI/UX Design",
                     "description":"    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process7.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Development ",
                     "description":"    Select the appropriate technology stack (programming languages, frameworks, etc.). Implement the front-end and back-end functionalities. Integrate APIs and third-party services as needed. Conduct regular code reviews and testing during development.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process8.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Testing and Quality Assurance",
                     "description":"       Perform functional testing to ensure all features work as expected.  Conduct compatibility testing across different devices and operating systems.  Test the app's performance, security, and usability.  Address any identified bugs or issues..",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process9.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Deployment and Release",
                     "description":"      Prepare the app for deployment to the desired app stores (e.g., Apple App Store, Google Play Store). Create developer accounts and fulfill submission requirements.  Generate release builds and upload the app for review.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process12.png",
                     "alt":"Alt"
                 }
             ]
         }
     },      
-    "chirag-development": {
+    "user-interface-design": {
         "title": "Design things that make people feel things  ",
         "subtitle": "We offer a variety of services. To give the greatest web app solution, we at Boxinall go above and beyond to fully comprehend the goals and particular business issues of our clients.  ",
         "overview": {
@@ -422,15 +422,15 @@
             ],
             "iconList":[
                 {
-                    "src":"/image/android.svg",
+                    "src":"/image/figma.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/adobe.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/after.png",
                     "alt":"Alt"
                 }
             ],
@@ -448,68 +448,56 @@
             ]
         },
         "process":{
-            "title":"Our App Development Process",
+            "title":"Our Design Process",
             "subTitle":"Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
             "processList":[
                 {
                     "title":"Define Your Idea",
                     "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process1.png",
                     "alt":"Alt"
                 },
                
                 {
-                    "title":"Technical Requirement Gathering",
-                    "description":"We send you a business proposal outlining cost estimates, scope of work and much more.",
-                    "src":"/image/process-2.jpg",
+                    "title":"Requirement Gathering",
+                    "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities.",
+                    "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Business prposal",
-                    "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
-                    "src":"/image/process-2.jpg",
+                    "description":"We send you a business proposal outlining cost estimates, scope of work and much more. ",
+                    "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Find The Best Solution ",
                     "description":"Well crafted proposal on how to reach your goals. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process4.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"DEDICATED ACCOUNT MANAGER",
+                    "title":"Dedicated UI/UX Designer",
                     "description":"We assign a dedicated account manager to you.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process8.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Start Your Project - Wireframing and Prototyping ",
                     "description":"Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/mobile-process9.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"UI/UX Design",
                     "description":"    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/pf16.png",
                     "alt":"Alt"
-                },
-                {
-                    "title":"Development ",
-                    "description":"    Select the appropriate technology stack (programming languages, frameworks, etc.). Implement the front-end and back-end functionalities. Integrate APIs and third-party services as needed. Conduct regular code reviews and testing during development.",
-                    "src":"/image/process-2.jpg",
-                    "alt":"Alt"
-                },
-                {
-                    "title":"Testing and Quality Assurance",
-                    "description":"       Perform functional testing to ensure all features work as expected.  Conduct compatibility testing across different devices and operating systems.  Test the app's performance, security, and usability.  Address any identified bugs or issues..",
-                    "src":"/image/process-2.jpg",
-                    "alt":"Alt"
-                },
+                },              
                 {
                     "title":"Deployment and Release",
-                    "description":"      Prepare the app for deployment to the desired app stores (e.g., Apple App Store, Google Play Store). Create developer accounts and fulfill submission requirements.  Generate release builds and upload the app for review.",
-                    "src":"/image/process-2.jpg",
+                    "description":"Prepare the app for deployment to the desired app stores",
+                    "src":"/image/pf17.png",
                     "alt":"Alt"
                 }
             ]
@@ -544,15 +532,15 @@
             ],
             "iconList":[
                 {
-                    "src":"/image/android.svg",
+                    "src":"/image/seo.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/analytics.png",
                     "alt":"Alt"
                 },
                 {
-                    "src":"/image/apple.svg",
+                    "src":"/image/social-media.png",
                     "alt":"Alt"
                 }
             ],
@@ -576,26 +564,26 @@
                 {
                     "title":"Search Engine Optimization",
                     "description":"An continual procedure called search engine optimisation keeps your brand prominent and at the forefront of your clients' minds. We collaborate closely with our clients in order to fully comprehend their businesses and to generate qualified organic traffic for their websites using strong branded material that is optimised for the right keywords.                    ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/digital1.png",
                     "alt":"Alt"
                 },
                
                 {
                     "title":"Management Of Your PPC Campaigns",
                     "description":"These days, you need to concentrate on a variety of PPC networks and channels. You may have a lot of keywords targeting different geo-locations and different products and services even on the same channel.                    ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/digital2.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Use Social Media Marketing Agency Services to Promote Your Brand                    ",
                     "description":" Keep up with discussions on Facebook, Instagram, Twitter, LinkedIn, and other important social networking sites to impact and continuously engage your audience.                    ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/digital3.png",
                     "alt":"Alt"
                 },
                 {
                     "title":"Web Analytics Service",
                     "description":"Spending time and money on a marketing plan that doesn't promote business expansion and success is a waste. You can learn through digital analytics what aspects of your website and content marketing strategy are effective and ineffective. There isn't much room for error, and this can be a difficult process.                    ",
-                    "src":"/image/process-2.jpg",
+                    "src":"/image/digital4.png",
                     "alt":"Alt"
                 }
                 

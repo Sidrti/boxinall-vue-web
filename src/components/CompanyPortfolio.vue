@@ -14,8 +14,9 @@
                 <div class="col-lg-12 col-sm-12 wptbb" v-for="item, index in filteredPortfolioList" :key="index">
                     <div class="pbwide shadow" :class="item.bgClass">
                         <div class="portfolio-item-info-tt">
-                            <div class="logowide mb20"><img :src="item.secondaryImg" alt="logo" class="img-fluid"></div>
-                            <div class="widebloktag"><span v-for="i, indx in item.stack" :key="'stack' + indx">{{ i
+                            <!-- <div class="logowide mb20"><img :src="item.secondaryImg" alt="logo" class="img-fluid"></div> -->
+                            <div class="widebloktag">
+                                <span v-for="i, indx in item.stack" :key="'stack' + indx">{{ i
                             }}</span>
                             </div>
                             <h3 class="mt30 mb30">{{ item.title }}</h3>

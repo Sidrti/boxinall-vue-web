@@ -1,16 +1,18 @@
 <template>
-    <section class="bg-gradient1 pad-tb">
-        <div class="container text-start">
+    <section class="testimonial pad-tb">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="common-heading ptag">
                         <span>Reviews</span>
                         <h2>Client Testimonials Slider</h2>
                         <p class="mb30">Check our customers success stories.</p>
+                        <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="4" data-height="auto" data-nofollow="true" data-expandifr="true" data-scale="100" data-reviews="2149614,2131390,2074989,2046786,2009799" data-clutchcompany-id="1800147"></div>
+                       
                     </div>
                 </div>
             </div>
-            <div class="row">
+           
+            <!-- <div class="row">
                 <div class="col-md-12 mt30">
                     <div class="niwax-review-slider center-dots">
                         <VueOwlCarousel :items="2" :nav="false" :autoplay="true" :autoplaySpeed="2500" :loop="true" :dots="false">
@@ -163,6 +165,6 @@
                     </VueOwlCarousel>
                 </div>
             </div>
-        </div>
-    </div>
+        </div> -->
+  
 </section></template>

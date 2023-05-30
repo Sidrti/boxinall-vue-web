@@ -26,7 +26,7 @@
             <div class="container text-start">
                 <div class="row justify-content-between">
                     <div class="col-lg-3 col-sm-6  ftr-brand-pp">
-                        <a class="navbar-brand mt30 mb25" href="#"> <img src="../assets/images/logo.png" alt="Logo" width="100" /></a>
+                        <a class="navbar-brand mt30 mb25" href="#"> <img src="../assets/images/black_logo.png" alt="Logo" width="100" /></a>
                         <p>We offer 360° Mobile & Web solutions that help you reach your target market and transform your ideas into top-notch products. Since 2018, we have dominated the market for mobile apps and practical business and marketing solutions. 
 
 </p>
@@ -54,12 +54,12 @@ India, 201009</span></p>
                     <div class="col-lg-2 col-sm-6">
                         <h5>Services</h5>
                         <ul class="footer-address-list link-hover">
-                            <li><a href="get-quote.html">Mobile App Development</a></li>
-                            <li><a href="javascript:void(0)">Web Development</a></li>
-                            <li><a href="javascript:void(0)">User Interface Design</a></li>
-                            <li><a href="javascript:void(0)">Custum Software Development</a></li>
-                            <li><a href="javascript:void(0)">CMS Development</a></li>
-                            <li><a href="javascript:void(0)">OTT App Development</a></li>
+                            <li>Mobile App Development</li>
+                            <li>Web Development</li>
+                            <li>User Interface Design</li>
+                            <li>Custum Software Development</li>
+                            <li>CMS Development</li>
+                            <li>OTT App Development</li>
                         </ul>
                     </div>
                     <div class="col-lg-4 col-sm-6 footer-blog-">
@@ -95,10 +95,10 @@ India, 201009</span></p>
                     </div>
                     <div class="col-lg-8 v-center">
                         <ul class="footer-badges-">
-                            <li><a href="#"><img src="../assets/images/about/badges-a.png" alt="badges"></a></li>
-                            <li><a href="#"><img src="../assets/images/about/badges-b.png" alt="badges"></a></li>
-                            <li><a href="#"><img src="../assets/images/about/badges-c.png" alt="badges"></a></li>
-                            <li><a href="#"><img src="../assets/images/about/badges-d.png" alt="badges"></a></li>
+                            <li><img src="../assets/images/icons/business of apps.png" alt="badges"></li>
+                            <li><img src="../assets/images/icons/clutch.png" alt="badges"></li>
+                            <li><img src="../assets/images/icons/goodfirms.png" alt="badges"></li>
+                            <li><img src="../assets/images/icons/mobile.png" alt="badges"></li>
                         </ul>
                     </div>
                 </div>
@@ -110,20 +110,16 @@ India, 201009</span></p>
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="footer-social-media-icons">
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-pinterest-p"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-vimeo-v"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-dribbble"></i></a>
-                                <a href="javascript:void(0)" target="blank"><i class="fab fa-behance"></i></a>
+                                <a href="https://www.facebook.com/boxinall" target="blank"><i class="fab fa-facebook"></i></a>
+                                <a href="https://twitter.com/Boxinall?s=09" target="blank"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/boxinall_/?igshid=1s)xkxoumwfia" target="blank"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/boxinall-softech-pvt-ltd/" target="blank"><i class="fab fa-linkedin"></i></a>
+                                
                             </div>
                             <div class="footer-">
                                 <p>© 2020-2022. All Rights Reserved By <a
-                                        href="https://themeforest.net/user/rajesh-doot/portfolio" target="blank">Rajesh
-                                        Doot</a></p>
+                                        href="" target="blank">Boxinall
+                                        Softech</a></p>
                             </div>
                         </div>
                     </div>

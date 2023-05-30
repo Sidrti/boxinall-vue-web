@@ -1,7 +1,7 @@
 [
     {
         "title": "Mobile App Development",
-        "description": "We create mobile applications that benefit organisations by enhancing engagement and operational effectiveness. Hire Boxinall certified mobile app developers, who thrive at providing....",
+        "description": "We create mobile applications that benefit organisations by enhancing engagement and operational effectiveness. Hire Boxinall certified mobile app developers,",
         "to": "/process/mobile-app-development",
         "subTitleList": [
             {
@@ -16,15 +16,15 @@
         ],
         "iconsList": [
             {
-                "src": "/image/android.svg",
+                "src": "/image/android.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/apple.svg",
+                "src": "/image/ios.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/android.svg",
+                "src": "/image/atom.png",
                 "alt":"alt"
             }
         ]
@@ -46,15 +46,15 @@
         ],
         "iconsList": [
             {
-                "src": "/image/android.svg",
+                "src": "/image/brands.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/apple.svg",
+                "src": "/image/react.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/android.svg",
+                "src": "/image/wordpress.png",
                 "alt":"alt"
             }
         ]
@@ -76,15 +76,15 @@
         ],
         "iconsList": [
             {
-                "src": "/image/android.svg",
+                "src": "/image/php.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/apple.svg",
+                "src": "/image/node.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/android.svg",
+                "src": "/image/java.png",
                 "alt":"alt"
             }
         ]
@@ -92,7 +92,7 @@
     {
         "title": "UI/UX Design",
         "description": "Our skilled team of design strategists visualises original concepts and transforms them into final designs for our clients. They do extensive research and create an understandable visual language. ",
-        "to": "/process/chirag-development",
+        "to": "/process/user-interface-design",
         "subTitleList": [
             {
                 "title": "Figma"
@@ -104,22 +104,22 @@
         ],
         "iconsList": [
             {
-                "src": "/image/android.svg",
+                "src": "/image/adobe.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/apple.svg",
+                "src": "/image/after.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/android.svg",
+                "src": "/image/figma.png",
                 "alt":"alt"
             }
         ]
     },
     {
         "title": "Digital Marketing",
-        "description": "With the help of our revenue-driven digital marketing services, we can assist you in expanding your company and achieving your online marketing objectives in the near future. Get well-defined online marketing strategy and execution to inject ",
+        "description": "With the help of our revenue-driven digital marketing services, we can assist you in expanding your company and achieving your online marketing objectives in the near future. Get well-defined online marketing strategy... ",
         "to": "/process/digital-marketing",
         "subTitleList": [
             {
@@ -134,15 +134,15 @@
         ],
         "iconsList": [
             {
-                "src": "/image/android.svg",
+                "src": "/image/analytics.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/apple.svg",
+                "src": "/image/seo.png",
                 "alt":"alt"
             },
             {
-                "src": "/image/android.svg",
+                "src": "/image/social-media.png",
                 "alt":"alt"
             }
         ]

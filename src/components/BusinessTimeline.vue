@@ -14,7 +14,7 @@
                     <div class="timeline">
                         <div class="timeline-row niwaxcnnt1">
                             <div class="timeline-time">
-                                Establishment<small>2005</small>
+                                Establishment<small>2018</small>
                             </div>
                             <div class="timeline-content">
                                 <h4>Inception</h4>
@@ -27,7 +27,7 @@ successful services to over 150 clients globally.
                         </div>
                         <div class="timeline-row niwaxcnnt2">
                             <div class="timeline-time">
-                                New Office<small>2006</small>
+                                New Office<small>2019</small>
                             </div>
                             <div class="timeline-content">
                                 <h4>Recognition</h4>
@@ -36,7 +36,7 @@ successful services to over 150 clients globally.
                         </div>
                         <div class="timeline-row niwaxcnnt1">
                             <div class="timeline-time">
-                                New Horizons<small>2008</small>
+                                New Horizons<small>2021</small>
                             </div>
                             <div class="timeline-content">
                                 <h4>New partners and markets</h4>
@@ -47,7 +47,7 @@ As a leading app and software development company, we have a wide-ranging reach 
                         </div>
                         <div class="timeline-row niwaxcnnt2">
                             <div class="timeline-time">
-                                Growing Teams<small>2010</small>
+                                Growing Teams<small>2021</small>
                             </div>
                             <div class="timeline-content">
                                 <h4>Awards and Appreciations</h4>

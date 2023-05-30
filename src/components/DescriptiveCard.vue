@@ -13,14 +13,14 @@
         <div class="service-card-app hoshd">
             <h4>{{ data.title }}</h4>
             <ul class="-service-list mt10">
-                <li v-for="item,index in data.subTitleList" :key="'subtitle'+index" > <a href="#">{{ item.title }}</a> </li>
+                <li v-for="item,index in data.subTitleList" :key="'subtitle'+index" > {{ item.title }} </li>
             </ul>
             <div class="tec-icon mt30">
                 <ul class="servc-icon-sldr">
                     <li v-for="item,index in data.iconsList" :key="'icon'+index">
-                        <a href="#">
+                        
                             <div class="img-iconbb"><img :src="item.src" :alt="item.alt"></div>
-                        </a>
+                        
                     </li>
                     <!-- <li><a href="#">
                             <div class="img-iconbb"><img src="../assets/images/icons/apple.svg" alt="img"></div>

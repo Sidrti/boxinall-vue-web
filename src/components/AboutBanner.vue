@@ -24,8 +24,8 @@
           </div>
           <div class="col-lg-7 v-center">
             <div class="img-design h-scl-">
-              <div class="imgac "> <img src="../assets/images/banner/office-view-2.jpg" alt="creative agnecy html template" class="ag-dg1 img-fluid h-scl-base"></div>
-              <div class="imgac h-scl-base"><img src=",../assets/images/banner/office-view-1.jpg" alt="creative agnecy html template" class="ag-dg2 img-fluid "></div>
+              <div class="imgac "> <img src="../assets/images/banner/about5.png" alt="creative agnecy html template" class="ag-dg1 img-fluid h-scl-base"></div>
+              <div class="imgac h-scl-base"><img src="../assets/images/banner/about2.png" alt="creative agnecy html template" class="ag-dg2 img-fluid "></div>
             </div>
           </div>
         </div>

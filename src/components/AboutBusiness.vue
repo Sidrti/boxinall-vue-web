@@ -13,7 +13,7 @@
             <div class="row justify-content-center niwaxgap40">
                 <div class="col-lg-5 v-center order1">
                     <div class="image-block">
-                        <img src="../assets/images/about/leadership.jpg" alt="about us Niwax" class="img-fluid" />
+                        <img src="../assets/images/about/about6.png" alt="about us Niwax" class="img-fluid" />
                     </div>
                 </div>
 
@@ -44,7 +44,7 @@
 
                 <div class="col-lg-5 v-center order1">
                     <div class="image-block">
-                        <img src="../assets/images/about/collaboration.jpg" alt="about us Niwax" class="img-fluid" />
+                        <img src="../assets/images/about/about3.png" alt="about us Niwax" class="img-fluid" />
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
 
                 <div class="col-lg-5 v-center order1">
                     <div class="image-block">
-                        <img src="../assets/images/about/transparency.jpg" alt="about us Niwax" class="img-fluid" />
+                        <img src="../assets/images/about/about4.png" alt="about us Niwax" class="img-fluid" />
                     </div>
                 </div>
 

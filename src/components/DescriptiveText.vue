@@ -16,10 +16,10 @@
                         </ul>
                         <div class="tec-icon mt30">
                             <ul class="servc-icon-sldr">
-                                <li v-for="item,index in data.overview.iconList" :key="index"><a href="#">
+                                <li v-for="item,index in data.overview.iconList" :key="index">
                                         <div class="img-iconbb"><img :src="item.src" :alt="item.alt">
                                         </div>
-                                    </a></li>
+                                    </li>
                                 <!-- <li><a href="#">
                                         <div class="img-iconbb"><img src="../assets/images/icons/android.svg" alt="img">
                                         </div>
@@ -33,7 +33,7 @@
                                     </a></li> -->
                             </ul>
                         </div>
-                        <a href="#" class="btn-main bg-btn2 lnk mt30">Request A Quote <i
+                        <a href="#/contact" class="btn-main bg-btn2 lnk mt30">Request A Quote <i
                                 class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                     </div>
                 </div>

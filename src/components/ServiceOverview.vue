@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="image-block upset bg-shape wow fadeIn">
-                        <img src="../assets/images/about/square-image-1.jpg" alt="image" class="img-fluid" />
+                        <img src="../assets/images/about/about1.png" alt="image" class="img-fluid" />
                     </div>
                 </div>
                 <div class="col-lg-8 block-1">

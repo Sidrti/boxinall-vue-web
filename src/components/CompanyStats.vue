@@ -8,7 +8,7 @@
                             <img src="../assets/images/icons/startup.svg" alt="years" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <number :to="15" :duration="2" />
+                            <number :to="6" :duration="2" />
                             <span>+</span>
                             <p>Year In Business</p>
                         </div>
@@ -20,7 +20,7 @@
                             <img src="../assets/images/icons/team.svg" alt="team" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <number :to="80" :duration="3" /><span>+</span>
+                            <number :to="20" :duration="3" /><span>+</span>
                             <p>Team Members</p>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <img src="../assets/images/icons/deal.svg" alt="happy" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <number :to="450" :duration="5" />
+                            <number :to="80" :duration="5" />
                             <p>Happy Clients</p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                             <img src="../assets/images/icons/computers.svg" alt="project" class="img-fluid" />
                         </div>
                         <div class="statnumb counter-number">
-                            <number :to="48" :duration="2" /><span>k</span>
+                            <number :to="230" :duration="2" /><span>+</span>
                             <p>Projects Done</p>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             <img src="../assets/images/icons/worker.svg" alt="work" class="img-fluid"/>
                         </div>
                         <div class="statnumb">
-                            <number :to="95" :duration="4" /><span>k</span>
+                            <number :to="17" :duration="4" /><span>k</span>
                             <p>Hours Worked</p>
                         </div>
                     </div>

@@ -45,5 +45,3 @@
         </div>
     </section>
 </template>
-<script>
-</script>

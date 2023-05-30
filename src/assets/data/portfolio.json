@@ -1,38 +1,62 @@
 [
     {
         "index":1,
-        "title":"Weather1 & Radar - Accurate Weather Forecast",
-        "stack":["Design","Coding","UI"],
-        "primaryWebImg":"/image/portfolio-wide-1.jpg",
-        "primaryMobileImg":"/image/portfolio-wide-1a.jpg",
-        "secondaryImg":"/image/customer-logo-5.png",
-        "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
+        "title":"uDates- Dating & Chat",
+        "stack":["figma Design","Mobile App","Android","iOS"],
+        "primaryWebImg":"/image/pf3.png",
+        "primaryMobileImg":"/image/pf1.png",
+        
+        "description":["React Native","React","PHP","MySQL"],
         "pageVisibleInUrl":"*",
         "bgClass":"bg-gradient1",
         "to":"/case-study/dating-application"
     },
     {
         "index":2,
-        "title":"Weather2 & Radar - Accurate Weather Forecast",
-        "stack":["Design","Coding","UI"],
-        "primaryWebImg":"/image/portfolio-wide-1.jpg",
-        "primaryMobileImg":"/image/portfolio-wide-1a.jpg",
-        "secondaryImg":"/image/customer-logo-5.png",
+        "title":"Doctor Appointment Design",
+        "stack":["Design","Figma","UI","UX"],
+        "primaryWebImg":"/image/pf5.png",
+        "primaryMobileImg":"/image/pf4.png",
+       
         "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
-        "pageVisibleInUrl":"/",
+        "pageVisibleInUrl":"*",
         "bgClass":"bg-gradient2",
-        "to":"/case-study/dating-application"
+        "to":"/case-study/doctor-appointment-application"
     },
     {
         "index":3,
-        "title":"Weather3 & Radar - Accurate Weather Forecast",
-        "stack":["Design","Coding","UI"],
-        "primaryWebImg":"/image/portfolio-wide-1.jpg",
-        "primaryMobileImg":"/image/portfolio-wide-1a.jpg",
-        "secondaryImg":"/image/customer-logo-5.png",
-        "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
-        "pageVisibleInUrl":"/portfolio",
+        "title":"Real-estate-website",
+        "stack":["Design","Wordpress"],
+        "primaryWebImg":"/image/pf6.png",
+        "primaryMobileImg":"/image/pf7.png",
+       
+        "description":["HTML","MySQL","Wordpress"],
+        "pageVisibleInUrl":"*",
         "bgClass":"bg-gradient3",
-        "to":"/case-study/dating-application"
+        "to":"/case-study/real-estate-website"
+    },
+    {
+        "index":3,
+        "title":"Event Management App",
+        "stack":["Figma","UI/UX"],
+        "primaryWebImg":"/image/pf10.png",
+        "primaryMobileImg":"/image/pf8.png",
+       
+        "description":["HTML","MySQL","Wordpress"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradientevent",
+        "to":"/case-study/event-management-aPP"
+    },
+    {
+        "index":3,
+        "title":"Travel Flight Booking Website.",
+        "stack":["Website","PHP"],
+        "primaryWebImg":"/image/pf13.png",
+        "primaryMobileImg":"/image/pf14.png",
+        
+        "description":["HTML","MySQL","Wordpress"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradientbigvalue",
+        "to":"/case-study/travel-booking-system"
     }
 ]
