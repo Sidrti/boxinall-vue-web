@@ -202,7 +202,7 @@
             ]
         },
         "process":{
-            "title":"Our App Development Process",
+            "title":"Our Website Development Process",
             "subTitle":"Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
             "processList":[
                 {
@@ -327,7 +327,7 @@
             ]
         },
         "process":{
-            "title":"Our App Development Process",
+            "title":"Our Software Development Process",
             "subTitle":"Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
             "processList":[
                 {
@@ -452,51 +452,51 @@
             "subTitle":"Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
             "processList":[
                 {
-                    "title":"Define Your Idea",
-                    "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
+                    "title":"Research and Analysis",
+                    "description":"     Define the project goals and objectives., Conduct user research to understand the target audience, their needs, and behaviors. Analyze competitors and industry trends. Create user personas and user scenarios. ",
                     "src":"/image/mobile-process1.png",
                     "alt":"Alt"
                 },
                
                 {
-                    "title":"Requirement Gathering",
-                    "description":" Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities.",
+                    "title":"Information Architecture",
+                    "description":"    Structure the content and functionality of the interface.            Create site maps or flowcharts to visualize the navigation and user flow.                Develop a clear hierarchy and organization of information.",
                     "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"Business prposal",
-                    "description":"We send you a business proposal outlining cost estimates, scope of work and much more. ",
+                    "title":"Wireframing:",
+                    "description":"    Create low-fidelity wireframes that outline the layout and structure of key screens or pages, Focus on content placement, functionality, and user interaction without detailed visuals. Iterate and gather feedback to refine the wireframes. ",
                     "src":"/image/mobile-process2.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"Find The Best Solution ",
-                    "description":"Well crafted proposal on how to reach your goals. ",
+                    "title":"Visual Design ",
+                    "description":"    Develop the visual style and aesthetic of the interface.  Define the color scheme, typography, and visual elements.  Create high-fidelity mockups or prototypes using design tools like Sketch, Figma, or Adobe  Ensure visual consistency and adherence to brand guidelines.",
                     "src":"/image/mobile-process4.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"Dedicated UI/UX Designer",
-                    "description":"We assign a dedicated account manager to you.",
+                    "title":"Prototyping",
+                    "description":"    Create interactive prototypes to simulate user interactions and flows.                  Use tools like InVision, Proto.io, or Framer to build interactive experiences.                  Test the prototype with users to gather feedback and identify usability issues.                   Iterate and refine the design based on the testing results.",
                     "src":"/image/mobile-process8.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"Start Your Project - Wireframing and Prototyping ",
-                    "description":"Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
+                    "title":"Testing and Iteration ",
+                    "description":"    Conduct usability testing with representative users.     Observe user behavior and collect feedback to identify pain points and areas for improvement.              Iterate on the design based on user feedback, making necessary adjustments. ",
                     "src":"/image/mobile-process9.png",
                     "alt":"Alt"
                 },
                 {
-                    "title":"UI/UX Design",
-                    "description":"    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
+                    "title":"Development and Handoff",
+                    "description":"     Collaborate with developers to ensure a smooth transition from design to implementation.                  Provide detailed design specifications, style guides, and assets to guide the development process.                   Maintain communication and address any design-related questions during development.",
                     "src":"/image/pf16.png",
                     "alt":"Alt"
                 },              
                 {
-                    "title":"Deployment and Release",
-                    "description":"Prepare the app for deployment to the desired app stores",
+                    "title":"Evaluation and Iteration:",
+                    "description":"    After launch, collect user feedback and analytics data to evaluate the effectiveness of the design.  Identify areas for improvement and iterate on the design to enhance the user experience.",
                     "src":"/image/pf17.png",
                     "alt":"Alt"
                 }
