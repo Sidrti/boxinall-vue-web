@@ -14,7 +14,7 @@
                         <p>{{ data.about }}</p>
                     </div>
                     <div class="project-platform mt60 pl25 text-start">
-                        <div v-for="item,index in data.icons" :key="index" class="project-platform-used -shadow"><a href="#"><img :src="item"
+                        <div v-for="item,index in data.icons" :key="index" class="project-platform-used -shadow"><a><img :src="item"
                                     alt="technology"></a></div>
                     </div>
             </div>

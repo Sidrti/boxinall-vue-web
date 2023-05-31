@@ -1,5 +1,5 @@
 <template>
-        <section class="missionvision dark-bg4 pad-tb bg-gradient3">
+        <section class="missionvision dark-bg4 pad-tb mission">
       <div class="container text-start">
         <div class="row">
           <div class="col-lg-6 col-sm-12">

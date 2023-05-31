@@ -7,26 +7,26 @@
                         <h1 class="" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">Top Rated Mobile App Development Company</h1>
                         <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a Consultation with Our Team to Discuss Your Idea. If We Believe in It, You Could be One of Our Exclusive Clients This Month. We Can't Wait to Hear About Your Vision! </p>
                         <div class="content-sec  d-flex mt30 v-center text-w" data-aos="fadeIn" :data-aos-delay="600" data-aos-duration="1000">
-                            <div class="mr25"><a href="#" class="btn-main bg-btn4 lnk">Lets Discuss your Idea<i
+                            <div class="mr25"><a href="#/contact" class="btn-main bg-btn4 lnk">Lets Discuss your Idea<i
                                         class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a></div>
-                            <div class="video-intro-pp v-center"><a class="video-link play-video"
+                            <!-- <div class="video-intro-pp v-center"><a class="video-link play-video"
                                     href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0"><span
                                         class="triangle-play"></span></a></div>
                             <div class="title-hero-oth v-center">
                                 <p>See liv demo</p>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="awrd-sec text-w mt40" data-aos="fadeIn" :data-aos-delay="500" >
                             <h5>Our Achievements</h5>
                                 <VueOwlCarousel class="bages-slider mt20" :autoplay="true" :nav="false" :loop="true" :items= "3" :autoplaySpeed="2000" :dots="false" :autoplayTimeout="1900">
                                            
-                                <div class="img-badge- margin-right20"><a href="#"> <img src="../assets/images/icons/badge1.png"
+                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/clutch.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
-                                <div class="img-badge- margin-right20"><a href="#"> <img src="../assets/images/icons/badge2.png"
+                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/mobile.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
-                                <div class="img-badge- margin-right20"><a href="#"> <img src="../assets/images/icons/badge3.png"
+                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/business of apps.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
-                                <div class="img-badge- margin-right20"><a href="#"> <img src="../assets/images/icons/badge3.png"
+                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/goodfirms.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
                                 </VueOwlCarousel>
                         </div>

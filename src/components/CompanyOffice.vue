@@ -13,7 +13,7 @@
                 <div class="col-lg-4 col-sm-6 shape-loc" data-wow-delay=".2s" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">
                     <div class="office-card hoshd">
                         <div class="landscp">
-                            <img src="../assets/images/location/india-img.png" alt="location" class="img-fluid" />
+                            <img src="../assets/images/location/india.png" alt="location" class="img-fluid" />
                         </div>
                         <div class="info-text-div">
                             <h4>India</h4>
@@ -30,7 +30,7 @@
                 <div class="col-lg-4 col-sm-6 shape-loc" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">
                     <div class="office-card hoshd">
                         <div class="landscp">
-                            <img src="../assets/images/location/italy.png" alt="location" class="img-fluid" />
+                            <img src="../assets/images/location/usa.png" alt="location" class="img-fluid" />
                         </div>
                         <div class="info-text-div">
                             <h4>USA Office</h4>
@@ -47,13 +47,12 @@
                 <div class="col-lg-4 col-sm-6 shape-loc" data-aos="fadeIn" :data-aos-delay="600" data-aos-duration="1000">
                     <div class="office-card hoshd">
                         <div class="landscp">
-                            <img src="../assets/images/location/paris.png" alt="location" class="img-fluid" />
+                            <img src="../assets/images/location/Austrilia.png" alt="location" class="img-fluid" />
                         </div>
                         <div class="info-text-div">
                             <h4>Australia</h4>
                             <h6 class="mt10">Registered Office</h6>
-                            <p>560 davis road,
-tarneit VIC</p>
+                            <p>560 davis road,<br> tarneit VIC</p>
                             <ul class="-address-list mt10">
                                 <li><a href="mailto:info@boxinallsoftech.com"><i class="fas fa-envelope"></i>
                                         info@boxinallsoftech.com</a></li>

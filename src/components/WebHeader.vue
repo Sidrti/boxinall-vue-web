@@ -4,8 +4,8 @@
     <div class="container m-pad">
       <div class="menu-header">
         <div class="dsk-logo"><a class="nav-brand" href="digital-agency.html">
-            <img src="../assets/../assets/images/white-logo.png" alt="Logo" class="mega-white-logo" />
-            <img src="../assets/../assets/images/logo.png" alt="Logo" class="mega-darks-logo" />
+            <img src="../assets/../assets/images/biaLOGO.png" alt="Logo" class="mega-white-logo" />
+            <img src="../assets/../assets/images/black_logo.png" alt="Logo" class="mega-darks-logo" />
           </a>
         </div>
         <div class="custom-nav" role="navigation">
@@ -142,37 +142,37 @@
           <div class="media mt15">
             <div class="icondive"><img src="../assets/images/icons/call.svg" alt="icon"></div>
             <div class="media-body getintouchinfo">
-              <a href="tel:123456790">+91-123 4567 890 <span>Mon-Fri 9am - 6pm</span></a>
+              <a href="tel:+918279607423">+91-827 9607 423 <span>Mon-Fri 9am - 6pm</span></a>
             </div>
           </div>
           <div class="media mt15">
             <div class="icondive"><img src="../assets/images/icons/whatsapp.svg" alt="icon"></div>
             <div class="media-body getintouchinfo">
-              <a href="tel:123456790">+91-123 4567 890 <span>Mon-Fri 9am - 6pm</span></a>
+              <a href="tel:+918279607423">+91-827 9607 423 <span>Mon-Fri 9am - 6pm</span></a>
             </div>
           </div>
           <div class="media mt15">
             <div class="icondive"><img src="../assets/images/icons/mail.svg" alt="icon"></div>
             <div class="media-body getintouchinfo">
-              <a href="mailto:info@website.com">info@website.com <span>Online Support</span></a>
+              <a href="mailto:info@boxinallsoftech.com">info@boxinallsoftech.com <span>Online Support</span></a>
             </div>
           </div>
           <div class="media mt15">
             <div class="icondive"><img src="../assets/images/icons/map.svg" alt="icon"></div>
             <div class="media-body getintouchinfo">
-              <a href="mailto:info@website.com">Jaipur, Rajasthan, India<span>Visit Our Office</span></a>
+              <a href="mailto:info@website.com">Gaur City 2, 16th Avenue, Noida, India<span>Visit Our Office</span></a>
             </div>
           </div>
         </div>
         <div class="contact-data mt30">
           <h4>Follow Us On:</h4>
           <div class="social-media-linkz mt10">
-            <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
-            <a href="javascript:void(0)" target="blank"><i class="fab fa-twitter"></i></a>
-            <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
-            <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
-            <a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
-            <a href="javascript:void(0)" target="blank"><i class="fab fa-pinterest-p"></i></a>             			  
+            <a href="https://www.facebook.com/boxinall" target="blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com/Boxinall?s=09" target="blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/boxinall_/?igshid=1s)xkxoumwfia" target="blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/company/boxinall-softech-pvt-ltd/" target="blank"><i class="fab fa-linkedin"></i></a>
+            <!-- <a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
+            <a href="javascript:void(0)" target="blank"><i class="fab fa-pinterest-p"></i></a>             			   -->
           </div>
         </div>
       </div>
