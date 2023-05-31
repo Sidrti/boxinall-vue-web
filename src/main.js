@@ -5,8 +5,7 @@ import store from './store'
 import VueOwlCarousel from 'vue-owl-carousel'
 import '@/assets/css/style.css'
 import '@/assets/css/responsive.css'
-import '@/assets/css/darkmode.css'
-// import '@/assets/css/plugin.min.css'
+// import '@/assets/css/darkmode.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import VueTypedJs from 'vue-typed-js';
