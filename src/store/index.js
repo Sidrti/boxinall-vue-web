@@ -1,17 +1,12 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
+import contactModule from './contact.module'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
-  modules: {
-  }
-})
+const store = new Vuex.Store({
+    modules: {
+      contact: contactModule,
+    }
+  })
+export default store;

@@ -4,9 +4,13 @@
             <div class="row">
                 <div class="col-lg-6 v-center">
                     <div class="hero-heading-sec2 niwax" data-rellax-speed="3">
-                        <h1 class="" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">Top Rated Mobile App Development Company</h1>
-                        <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a Consultation with Our Team to Discuss Your Idea. If We Believe in It, You Could be One of Our Exclusive Clients This Month. We Can't Wait to Hear About Your Vision! </p>
-                        <div class="content-sec  d-flex mt30 v-center text-w" data-aos="fadeIn" :data-aos-delay="600" data-aos-duration="1000">
+                        <h1 class="" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">Top Rated Mobile App
+                            Development Company</h1>
+                        <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a Consultation
+                            with Our Team to Discuss Your Idea. If We Believe in It, You Could be One of Our Exclusive
+                            Clients This Month. We Can't Wait to Hear About Your Vision! </p>
+                        <div class="content-sec  d-flex mt30 v-center text-w" data-aos="fadeIn" :data-aos-delay="600"
+                            data-aos-duration="1000">
                             <div class="mr25"><a href="#/contact" class="btn-main bg-btn4 lnk">Lets Discuss your Idea<i
                                         class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a></div>
                             <!-- <div class="video-intro-pp v-center"><a class="video-link play-video"
@@ -16,63 +20,68 @@
                                 <p>See liv demo</p>
                             </div> -->
                         </div>
-                        <div class="awrd-sec text-w mt40" data-aos="fadeIn" :data-aos-delay="500" >
+                        <div class="awrd-sec text-w mt40" data-aos="fadeIn" :data-aos-delay="500">
                             <h5>Our Achievements</h5>
-                                <VueOwlCarousel class="bages-slider mt20" :autoplay="true" :nav="false" :loop="true" :items= "3" :autoplaySpeed="2000" :dots="false" :autoplayTimeout="1900">
-                                           
+                            <VueOwlCarousel class="bages-slider mt20" :autoplay="true" :nav="false" :loop="true" :items="3"
+                                :autoplaySpeed="2000" :dots="false" :autoplayTimeout="1900">
+
                                 <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/clutch.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
                                 <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/mobile.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
-                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/business of apps.png"
+                                <div class="img-badge- margin-right20"><a> <img
+                                            src="../assets/images/icons/business of apps.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
                                 <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/goodfirms.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
-                                </VueOwlCarousel>
+                            </VueOwlCarousel>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5 v-center">
-                    
-            <div>
-              <div class="form-block formcover shadow">
-                <h4>Request a Free Quote</h4>
-                <form id="contactForm" data-bs-toggle="validator" class="shake mt30">
-                  <div class="row">
-                    <div class="form-group col-sm-6">
-                      <input type="text"  id="name" placeholder="Enter name" required data-error="Please fill Out">
-                      <div class="help-block with-errors"></div>
+
+                    <div>
+                        <div class="form-block formcover shadow">
+                            <h4>Request a Free Quote</h4>
+                            <form ref="form" data-bs-toggle="validator" class="shake mt30">
+                                <div class="row">
+                                    <div class="form-group col-sm-6">
+                                        <input type="text" id="name" placeholder="Enter name" required
+                                            data-error="Please fill Out" v-model="input.name">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                    <div class="form-group col-sm-6">
+                                        <input type="email" id="email" placeholder="Enter email" required
+                                            v-model="input.email">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group col-sm-6">
+                                        <input type="text" id="mobile" placeholder="Enter mobile (with country code)" required
+                                            data-error="Please fill Out" v-model="input.mobile">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                    <div class="form-group col-sm-6">
+                                        <select name="Dtype" required v-model="input.interest">
+                                            <option value=""  disabled selected>Select an option</option>
+                                            <option :value="item.title"  v-for="item,index in servicesList" :key="index">{{ item.title }}</option>
+                                        </select>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea id="message" rows="5" placeholder="Enter your message" required
+                                        v-model="input.breif"></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                                <button class="btn btn-main bg-btn3"
+                                    @click="submitClick()">Submit</button>
+                                <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                <div class="clearfix"></div>
+                            </form>
+                        </div>
                     </div>
-                    <div class="form-group col-sm-6">
-                      <input type="email"  id="email" placeholder="Enter email" required>
-                      <div class="help-block with-errors"></div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="form-group col-sm-6">
-                      <input type="text" id="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
-                      <div class="help-block with-errors"></div>
-                    </div>
-                    <div class="form-group col-sm-6">
-                      <select name="Dtype" id="Dtype" required>
-                        <option value="">Select Requirement</option>
-                        <option value="web">web</option>
-                        <option value="graphic">graphic</option>
-                        <option value="video">video</option>
-                      </select>
-                      <div class="help-block with-errors"></div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <textarea id="message" rows="5" placeholder="Enter your message" required></textarea>
-                    <div class="help-block with-errors"></div>
-                  </div>
-                  <button type="submit" id="form-submit" class="btn btn-main bg-btn3">Submit</button>
-                  <div id="msgSubmit" class="h3 text-center hidden"></div>
-                  <div class="clearfix"></div>
-                </form>
-              </div>
-            </div>
                     <!-- <div class="app-hero-bnr" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000"> <img
                             src="../assets/images/hero/mobile_hero_banner.png" alt="niwax mobile app development company"
                             class="img-fluid"> </div> -->
@@ -155,13 +164,42 @@
             </div>
         </div>
     </div>
-</section> --></template>
-<style scoped>
-.typed-inline {
+</section> -->
+</template>
+<script>
+import data from '../assets/data/service.json'
+export default {
+    data() {
+        return {
+            input: {interest:""},
+            servicesList:data
+        }
+    },
+    methods: {
+        submitClick() {
+            if (this.$refs.form.checkValidity()) {
+                this.$store.dispatch('contact/createContactAPICall',this.input).then(res => { 
+                if (res.data.status == 1) {
+                    alert('Form submitted');
+                }
+                else {
+                    alert('Form not submitted');
+                }
+            });   
+            console.log('Form is valid');
+            } else {
+                console.log('Form is invalid');
+            }
+          
+        }
+    }
+}
+</script>
+<style scoped>.typed-inline {
     display: inline;
     color: #ff3870 !important;
 }
+
 .margin-right20 {
     margin-right: 20px;
-}
-</style>
+}</style>

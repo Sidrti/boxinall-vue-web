@@ -119,10 +119,8 @@
               </div>
               <div class="form-group col-sm-12">
                 <select name="Dtype" id="Dtype" required>
-                  <option value="">Select Requirement</option>
-                  <option value="web">web</option>
-                  <option value="graphic">graphic</option>
-                  <option value="video">video</option>
+                  <option value="" disabled>Select Requirement</option>
+                  <option :value="item.title" v-for="item,index in servicesList" :key="index"> {{ item.title }}</option> 
                 </select>
                 <div class="help-block with-errors"></div>
               </div>
@@ -131,7 +129,7 @@
               <textarea id="message" rows="5" placeholder="Enter your message" required></textarea>
               <div class="help-block with-errors"></div>
             </div>
-            <button type="submit" id="form-submit" class="btn lnk btn-main bg-btn">Submit <span class="circle"></span></button>
+            <button class="btn lnk btn-main bg-btn">Submit <span class="circle"></span></button>
             <div id="msgSubmit" class="h3 text-center hidden"></div>
             <div class="clearfix"></div>
           </form>
