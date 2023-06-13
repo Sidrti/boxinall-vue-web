@@ -3,7 +3,7 @@
     <header class="nav-bg-b main-header navfix fixed-top menu-white" :class="{ sticky: isSticky }">
     <div class="container m-pad">
       <div class="menu-header">
-        <div class="dsk-logo"><a class="nav-brand" href="digital-agency.html">
+        <div class="dsk-logo"><a class="nav-brand" href="/">
             <img src="../assets/../assets/images/biaLOGO.png" alt="Logo" class="mega-white-logo" />
             <img src="../assets/../assets/images/black_logo.png" alt="Logo" class="mega-darks-logo" />
           </a>

@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <section class="badges-section bg-gradient5  pad-tb">
         <div class="container">
             <div class="row justify-content-center">
@@ -44,4 +44,4 @@
             </div>
         </div>
     </section>
-</template>
+</template> -->

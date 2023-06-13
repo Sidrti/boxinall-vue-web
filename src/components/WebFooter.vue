@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <div class="footer-row1">
+        <!-- <div class="footer-row1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -21,7 +21,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="footer-row2">
             <div class="container text-start">
                 <div class="row justify-content-between">
@@ -117,7 +117,7 @@ India, 201009</span></p>
                                 
                             </div>
                             <div class="footer-">
-                                <p>© 2020-2022. All Rights Reserved By <a
+                                <p>© 2022 - 2024. All Rights Reserved By <a
                                         href="" target="blank">Boxinall
                                         Softech</a></p>
                             </div>

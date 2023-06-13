@@ -5,9 +5,9 @@
                 <div class="col-lg-6 v-center">
                     <div class="hero-heading-sec2 niwax" data-rellax-speed="3">
                         <h1 class="" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">Top Rated Mobile App Development Company</h1>
-                        <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a Consultation with Our Team to Discuss Your Idea. If We Believe in It, You Could be One of Our Exclusive Clients This Month. We Can't Wait to Hear About Your Vision! </p>
+                        <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a consultation with our team to discuss your idea. If we believe in It, you could be one of our exclusive clients this month. We can't wait to hear about your vision! </p>
                         <div class="content-sec  d-flex mt30 v-center text-w" data-aos="fadeIn" :data-aos-delay="600" data-aos-duration="1000">
-                            <div class="mr25"><a href="#/contact" class="btn-main bg-btn4 lnk">Lets Discuss your Idea<i
+                            <div class="mr25"><a href="#/contact" class="btn-main bg-btn4 lnk">Let's discuss your idea<i
                                         class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a></div>
                             <!-- <div class="video-intro-pp v-center"><a class="video-link play-video"
                                     href="https://www.youtube.com/watch?v=SZEflIVnhH8?autoplay=1&amp;rel=0"><span

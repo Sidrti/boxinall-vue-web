@@ -96,12 +96,12 @@
               <p class="mt10">Clients belive us and we deliverd them good service</p>
               <div class="client-trust-us mt30">
                 <div class="clientsicons">
-                  <a href="#"><img src="../assets/images/client/client3.png" alt="icon"></a>
-                  <a href="#"><img src="../assets/images/client/client2.png" alt="icon"></a>
-                  <a href="#"><img src="../assets/images/client/client4.png" alt="icon"></a>
-                  <a href="#"><img src="../assets/images/client/client5.png" alt="icon"></a>
-                  <a href="#"><img src="../assets/images/client/client6.png" alt="icon"></a>
-                  <a href="#"><img src="../assets/images/client/client7.png" alt="icon"></a>
+                  <a href=""><img src="../assets/images/client/client3.png" alt="icon"></a>
+                  <a href=""><img src="../assets/images/client/client2.png" alt="icon"></a>
+                  <a href=""><img src="../assets/images/client/client4.png" alt="icon"></a>
+                  <a href=""><img src="../assets/images/client/client5.png" alt="icon"></a>
+                  <a href=""><img src="../assets/images/client/client6.png" alt="icon"></a>
+                  <a href=""><img src="../assets/images/client/client7.png" alt="icon"></a>
                   <!-- <a href="#"><img src="../assets/images/client/customer-logo-7.png" alt="icon"></a>
                   <a href="#"><img src="../assets/images/client/customer-logo-8.png" alt="icon"></a>
                   <a href="#"><img src="../assets/images/client/customer-logo-9.png" alt="icon"></a> -->
