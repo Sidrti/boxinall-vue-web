@@ -1,8 +1,8 @@
 [
     {
         "index":1,
-        "title":"uDates- Dating & Chat",
-        "stack":["figma Design","Mobile App","Android","iOS"],
+        "title":"UDates- Dating & Chat",
+        "stack":["Mobile App","Android","iOS"],
         "primaryWebImg":"/image/pf3.png",
         "primaryMobileImg":"/image/pf1.png",
         
@@ -25,7 +25,7 @@
     },
     {
         "index":3,
-        "title":"Real-estate-website",
+        "title":"Real-Estate-Website",
         "stack":["Design","Wordpress"],
         "primaryWebImg":"/image/pf6.png",
         "primaryMobileImg":"/image/pf7.png",
