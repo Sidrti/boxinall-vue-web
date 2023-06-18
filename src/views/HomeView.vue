@@ -12,7 +12,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import CompanyLogoSlider from '@/components/CompanyLogoSlider.vue';
 import CompanyStats from '@/components/CompanyStats.vue';
 import CompanyCategory from '@/components/CompanyCategory.vue';
@@ -31,7 +30,7 @@ export default {
     CompanyPortfolio,
     CompanyIndustry,
     ClientTestimonial,
-    ShortContact
-}
+    ShortContact,
+  },
 }
 </script>
