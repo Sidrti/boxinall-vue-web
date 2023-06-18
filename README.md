@@ -15,10 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Branches
 ```
-npm run lint
+main branch has a github workflow attached.On every push to main website is automcatically deployed to the server.Therefore make sure, you only push to the main when it is ready to be live
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
