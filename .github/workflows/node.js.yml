@@ -25,7 +25,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to Hostinger Shared Server
-        uses: appleboy/ssh-action@main
+        uses: appleboy/ssh-action@master
         with:
           host: 217.21.94.205
           username: u790439483
