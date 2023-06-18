@@ -11,11 +11,13 @@ import 'aos/dist/aos.css';
 import VueTypedJs from 'vue-typed-js';
 import VueNumber from "vue-number-animation";
 
+Vue.config.productionTip = false
+
 AOS.init();
 Vue.use(VueNumber)
 Vue.use(VueTypedJs)
 Vue.component('VueOwlCarousel', VueOwlCarousel)
-Vue.config.productionTip = false
+require('../src/utils/validation');
 
 new Vue({
   router,
