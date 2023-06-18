@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-      <ServiceBanner :data="bannerData" :hideCtc="true"></ServiceBanner>
+      <ServiceBanner :data="bannerData" :hideCtc="true" ></ServiceBanner>
       <CompanyPortfolio :data="portfolioList"></CompanyPortfolio>
     </div>
   </template>
@@ -17,6 +17,7 @@
     return {
       bannerData: {
         "title": "Portfolio",
+        "titleColor":'white',
         "subtitle": "",
       }
     }

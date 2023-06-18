@@ -5,18 +5,19 @@ import store from './store'
 import VueOwlCarousel from 'vue-owl-carousel'
 import '@/assets/css/style.css'
 import '@/assets/css/responsive.css'
-import '@/assets/css/darkmode.css'
-// import '@/assets/css/plugin.min.css'
+// import '@/assets/css/darkmode.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import VueTypedJs from 'vue-typed-js';
 import VueNumber from "vue-number-animation";
 
+Vue.config.productionTip = false
+
 AOS.init();
 Vue.use(VueNumber)
 Vue.use(VueTypedJs)
 Vue.component('VueOwlCarousel', VueOwlCarousel)
-Vue.config.productionTip = false
+require('../src/utils/validation');
 
 new Vue({
   router,
