@@ -31,6 +31,8 @@
             </li>
             <li><router-link class="menu-links" to="/about">About</router-link></li>
             <li><router-link class="menu-links" to="/portfolio">Portfolio</router-link></li>
+          
+            <li><a class="menu-links" href="https://boxinallsoftech.com/blog/">Blog</a></li>
             <li><router-link class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
           </ul>
           <!-- <div class="custom-nav" role="navigation">
