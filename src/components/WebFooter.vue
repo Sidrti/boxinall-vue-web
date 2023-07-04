@@ -65,21 +65,19 @@ India, 201009</span></p>
                     <div class="col-lg-4 col-sm-6 footer-blog-">
                         <h5>Latest Blogs</h5>
                         <div class="single-blog-">
-                            <div class="post-thumb"><a href="#"><img src="../assets/images/blog/blog-small.jpg" alt="blog"></a></div>
+                            <div class="post-thumb"><a href="#"><img src="../assets/images/blog/blog.png" alt="blog"></a></div>
                             <div class="content">
-                                <p class="post-meta"><span class="post-date"><i class="far fa-clock"></i>April 15,
-                                        2020</span></p>
-                                <h4 class="title"><a href="blog-sngle.html">We Provide you Best &amp; Creative Consulting
-                                        Service</a></h4>
+                                <p class="post-meta"><span class="post-date"><i class="far fa-clock"></i>June 15,
+                                        2023</span></p>
+                                <h4 class="title"><a href="https://boxinallsoftech.com/blog/is-it-necessary-to-hire-a-dedicated-development-team-why-boxinall/">Is It Necessary to Hire &amp; Dedicated Development Team</a></h4>
                             </div>
                         </div>
                         <div class="single-blog-">
-                            <div class="post-thumb"><a href="#"><img src="../assets/images/blog/blog-small.jpg" alt="blog"></a></div>
+                            <div class="post-thumb"><a href="#"><img src="../assets/images/blog/blog.png" alt="blog"></a></div>
                             <div class="content">
-                                <p class="post-meta"><span class="post-date"><i class="far fa-clock"></i>April 15,
-                                        2020</span></p>
-                                <h4 class="title"><a href="blog-sngle.html">We Provide you Best &amp; Creative Consulting
-                                        Service</a></h4>
+                                <p class="post-meta"><span class="post-date"><i class="far fa-clock"></i>June 15,
+                                        2023</span></p>
+                                <h4 class="title"><a href="https://boxinallsoftech.com/blog/boxinall-softech-values-collaboration-and-the-customer-experience/">Boxinall Softech Values &amp; Collaboration and the Customer Experience!</a></h4>
                             </div>
                         </div>
                     </div>
