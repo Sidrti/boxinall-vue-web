@@ -11,8 +11,6 @@
         <div class="custom-nav" role="navigation">
           <ul class="nav-list onepge">
             <li><router-link to="/" class="menu-links">Home</router-link></li>
-
-
             <li class="sbmenu rpdropdown text-start">
               <router-link to="/services" class="menu-links">Services</router-link>
               <div class="nx-dropdown menu-dorpdown">
@@ -35,6 +33,15 @@
             <li><a class="menu-links" href="https://boxinallsoftech.com/blog/">Blog</a></li>
             <li><router-link class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
           </ul>
+          <div class="mobile-menu2">
+              <ul class="mob-nav2">
+                <li>
+                  <button class="lnk btn-main bg-btn" @click="toggleMobileMenu">
+                    <i class="fas fa-solid fa-bars"></i><span class="circle"></span>
+                  </button>
+                </li>
+              </ul>
+          </div>
           <!-- <div class="custom-nav" role="navigation">
             <ul class="nav-list">
               <li><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn2"><i class="fas fa-bars"></i></a></li>
@@ -54,14 +61,33 @@
         <!-- <a data-bs-toggle="offcanvas" href="#offcanvasExample" class="position-fixed fixed-bottom fixed-end btn-round- trngl btn-br bg-btn btshad-b1"></a> -->
       </div>
       <!--Mobile Menu-->
-      <nav id="main-nav">
-        <ul class="first-nav">
-          <li><a href="#home" class="menu-links">Home</a></li>
-          <li><a href="#services" class="menu-links">Services</a></li>
-          <li><a href="#work" class="menu-links">Work</a></li>
-          <li><a href="#price" class="menu-links">Price</a></li>
-        </ul>
-        <ul class="bottom-nav">
+      <nav id="main-nav" v-if="isMobileMenuOpen">
+        <ul class="nav-list onepge">
+            <li><router-link to="/" class="menu-links">Home</router-link></li>
+            <li class="sbmenu rpdropdown text-start">
+              <router-link to="/services" class="menu-links">Services</router-link>
+              <div class="nx-dropdown menu-dorpdown">
+                <div class="sub-menu-section">
+                  <div class="sub-menu-center-block">
+                    <div class="sub-menu-column smfull">
+                      <ul>
+                        <li class="underline" v-for="item, index in servicesList" :data="item" :key="index">
+                        <router-link :to="item.to">{{ item.title }}</router-link>  
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li><router-link class="menu-links" to="/about">About</router-link></li>
+            <li><router-link class="menu-links" to="/portfolio">Portfolio</router-link></li>
+          
+            <li><a class="menu-links" href="https://boxinallsoftech.com/blog/">Blog</a></li>
+            <li><router-link class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
+          </ul>
+        
+        <!-- <ul class="bottom-nav">
           <li class="prb">
             <a href="tel:+11111111111">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384">
@@ -91,7 +117,7 @@
               </svg>
             </a>
           </li>
-        </ul>
+        </ul> -->
       </nav>
     </div>
   </header>
@@ -158,6 +184,7 @@ export default {
         return {
             isSticky: false,
             servicesList: data,
+            isMobileMenuOpen: false,
         };
     },
     mounted() {
@@ -171,6 +198,16 @@ export default {
         updateScroll() {
             this.isSticky = window.scrollY >= 80;
         },
+        toggleMobileMenu() {
+      this.isMobileMenuOpen = !this.isMobileMenuOpen;
+      if (this.isMobileMenuOpen) {
+        // Disable scrolling when mobile menu is open
+        document.body.style.overflow = "hidden";
+      } else {
+        // Enable scrolling when mobile menu is closed
+        document.body.style.overflow = "auto";
+      }
+    },
     },
     components: { EnquireFreeQuote }
 }
@@ -186,4 +223,43 @@ export default {
 .w-10 {
   width:70px !important
 }
+@media (max-width: 767px) {
+  /* .custom-nav {
+    display: none;
+  } */
+  /* Show mobile menu when open */
+  #main-nav {
+    display: block !important;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff; /* You can adjust the background color as needed */
+    padding: 10px;
+  }
+
+  #main-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #main-nav ul li {
+    margin: 0;
+    padding: 5px 0;
+  }
+
+  #main-nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #333333; /* You can adjust the font color as needed */
+    text-decoration: none;
+  }
+
+  /* Additional styles to make mobile menu more visually appealing (optional) */
+  #main-nav ul li a:hover {
+    background-color: #f0f0f0; /* You can adjust the background color on hover */
+  }
+}
+
 </style>

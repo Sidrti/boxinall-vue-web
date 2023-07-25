@@ -54,16 +54,16 @@ India, 201009</span></p>
                     <div class="col-lg-2 col-sm-6">
                         <h5>Services</h5>
                         <ul class="footer-address-list link-hover">
-                            <li>Mobile App Development</li>
-                            <li>Web Development</li>
-                            <li>User Interface Design</li>
-                            <li>Custum Software Development</li>
-                            <li>CMS Development</li>
+                            <li>Mobile App Development</li><br>
+                            <li>Web Development</li><br>
+                            <li>User Interface Design</li><br>
+                            <li>Custum Software Development</li><br>
+                            <li>CMS Development</li><br>
                             <li>OTT App Development</li>
                         </ul>
                     </div>
                     <div class="col-lg-4 col-sm-6 footer-blog-">
-                        <h5>Latest Blogs</h5>
+                        <h5>Popular</h5>
                         <div class="single-blog-">
                             <div class="post-thumb"><a href="#"><img src="../assets/images/blog/blog.png" alt="blog"></a></div>
                             <div class="content">
