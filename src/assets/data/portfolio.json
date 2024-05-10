@@ -58,5 +58,30 @@
         "pageVisibleInUrl":"/portfolio",
         "bgClass":"bg-gradientbigvalue",
         "to":"/case-study/travel-booking-system"
+    },
+    {
+        "index":3,
+        "title":"98degreenorth",
+        "stack":["Website","Mobile app"],
+        "primaryWebImg":"/image/98.png",
+        "primaryMobileImg":"/image/pf93.jpg",
+        
+        "description":["PHP","MySQL","vue.js"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradientbigvalue",
+        "to":"/case-study/98degreenorth"
+    },
+    {
+        "index":3,
+        "title":"Michelin Tyre",
+        "stack":["Website","Mobile app"],
+        "primaryWebImg":"/image/pf32.png",
+        "primaryMobileImg":"/image/pf92.jpg",
+        
+        "description":["PHP","MySQL","vue.js"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradientbigvalue",
+        "to":"/case-study/Michelin-Tyre"
     }
+    
 ]
