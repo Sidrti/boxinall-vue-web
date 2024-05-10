@@ -1,17 +1,21 @@
 <template>
     <div class="home">
-      <ServiceBanner :data="bannerData" :hideCtc="true" ></ServiceBanner>
+      <VideoBanner></VideoBanner>
+      <!-- <ServiceBanner :data="bannerData" :hideCtc="true" ></ServiceBanner> -->
       <CompanyPortfolio :data="portfolioList"></CompanyPortfolio>
     </div>
   </template>
   
   <script>
   import CompanyPortfolio from '@/components/CompanyPortfolio.vue';
-  import ServiceBanner from '@/components/ServiceBanner.vue';
+  // import ServiceBanner from '@/components/ServiceBanner.vue';
+  import VideoBanner from '../components/VideoBanner.vue'
   export default {
     name: 'PortfolioView',
     components: {
-      CompanyPortfolio, ServiceBanner
+      CompanyPortfolio, 
+      // ServiceBanner,
+      VideoBanner
     },
     data() {
     return {
