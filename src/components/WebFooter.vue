@@ -117,7 +117,7 @@ India, 201009</span></p>
                             <div class="footer-">
                                 <p>© 2022 - 2024. All Rights Reserved By <a
                                         href="" target="blank">Boxinall
-                                        Softech</a></p>
+                                        Softech Private Limited</a></p>
                             </div>
                         </div>
                     </div>
