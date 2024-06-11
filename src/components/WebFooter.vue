@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <div class="footer-row1">
+        <!-- <div class="footer-row1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -22,7 +22,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="footer-row2">
             <div class="container text-start">
                 <div class="row justify-content-between">
