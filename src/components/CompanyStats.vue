@@ -20,7 +20,7 @@
                             <img src="../assets/images/icons/team.svg" alt="team" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <number :to="20" :duration="3" /><span>+</span>
+                            <number :to="30" :duration="3" /><span>+</span>
                             <p>Team Members</p>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                             <img src="../assets/images/icons/deal.svg" alt="happy" class="img-fluid" />
                         </div>
                         <div class="statnumb">
-                            <number :to="80" :duration="5" />
+                            <number :to="200" :duration="5" />
                             <p>Happy Clients</p>
                         </div>
                     </div>

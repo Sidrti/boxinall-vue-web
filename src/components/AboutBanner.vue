@@ -12,7 +12,7 @@
                 </ul>
               </div> -->
               <div class="bread-title">
-                <h2>We are Powering Mobile App, Websites and Custum softwares</h2>
+                <h2>We are powering mobile app, websites and custom softwares</h2>
                 <p class="pt20">Boxinall is widely recognized as a top provider of IT services, 
                   with a highly structured approach that delivers effective solutions to a range of businesses
                    facing challenges in the information and technology sector. Our professional team is dedicated 

@@ -1,102 +1,247 @@
 {
-    "dating-application":{
-        "title":"Case Study",
-        "title2":"Creating a platform that is more than just an online dating application",
-        "about":"With the help of the online dating app udates, users may find and connect with fascinating locals. It offers potential mates more than simply a chatting platform by providing restaurant rewards and event information, if they'd like to meet. Our client wanted the dating app to stand out from the competition. The typical experience with these apps is to swipe right and start a conversation, but the goal of Sparker was to improve the process of making friends both online and offline. We were tasked with creating a user interface (UI) for the dating app that distinguishes out from the competition in terms of theme, look, feel, and functionality. ",
-        "icons":["/image/android.svg","/image/ios.png","/image/atom.png"],
-        "primaryImgSrc":"/image/pf20.png",
-        "features":{
-            "title":"As per client's need Boxinall has developed Dating App",
-            "subTitle1":"App Features",
-            "description1":["Discover interesting people near you","Match and chat with the people","Find events nearby and meet people","Get rewards when you meet your dates","Rewards and deals at restaurants and cafés if they met there were one of the app's most popular features. Using symbols and logos, we incorporated amusing features to make it visually appealing."],
-            "subTitle2":"Admin Features",
-            "description2":["In-app Chat and Messaging", "Voice and Video Calling","Smart Push Notifications"]
+    "dating-application": {
+        "title": "Case Study",
+        "title2": "Creating a platform that is more than just an online dating application",
+        "about": "With the help of the online dating app udates, users may find and connect with fascinating locals. It offers potential mates more than simply a chatting platform by providing restaurant rewards and event information, if they'd like to meet. Our client wanted the dating app to stand out from the competition. The typical experience with these apps is to swipe right and start a conversation, but the goal of Sparker was to improve the process of making friends both online and offline. We were tasked with creating a user interface (UI) for the dating app that distinguishes out from the competition in terms of theme, look, feel, and functionality. ",
+        "icons": [
+            "/image/android.svg",
+            "/image/ios.png",
+            "/image/atom.png"
+        ],
+        "primaryImgSrc": "/image/pf20.png",
+        "features": {
+            "title": "As per client's need Boxinall has developed Dating App",
+            "subTitle1": "App Features",
+            "description1": [
+                "Discover interesting people near you",
+                "Match and chat with the people",
+                "Find events nearby and meet people",
+                "Get rewards when you meet your dates",
+                "Rewards and deals at restaurants and cafés if they met there were one of the app's most popular features. Using symbols and logos, we incorporated amusing features to make it visually appealing."
+            ],
+            "subTitle2": "Admin Features",
+            "description2": [
+                "In-app Chat and Messaging",
+                "Voice and Video Calling",
+                "Smart Push Notifications"
+            ]
         },
-        "challenges":{
-            "title":"Challenges",
-            "subTitle":"Beginning with industry trends in dating apps, our team of UI/UX designers identified features that consumers would be most at ease using. They described a number of features and functionalities that met industry standards, and they merely improved it further by incorporating a few fundamental UX characteristics.            ",
-            "primaryImgSrc":"/image/challenges.png",
-            "description" :["Due to the client's limited vision, we worked with him to brainstorm and develop a few unique features that aren't typically present on dating apps.", "The online dating app's interface and graphic design came next. The client had a specific idea for the designs because younger people and millennials were the intended demographic. We kept everything very contemporary and uncomplicated. added line icons and components that improved the appearance overall. We kept the design simple and clutter-free with only the most crucial information strategically positioned, and we offered the client a number of variations from which to chose."]
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": "Beginning with industry trends in dating apps, our team of UI/UX designers identified features that consumers would be most at ease using. They described a number of features and functionalities that met industry standards, and they merely improved it further by incorporating a few fundamental UX characteristics.            ",
+            "primaryImgSrc": "/image/challenges.png",
+            "description": [
+                "Due to the client's limited vision, we worked with him to brainstorm and develop a few unique features that aren't typically present on dating apps.",
+                "The online dating app's interface and graphic design came next. The client had a specific idea for the designs because younger people and millennials were the intended demographic. We kept everything very contemporary and uncomplicated. added line icons and components that improved the appearance overall. We kept the design simple and clutter-free with only the most crucial information strategically positioned, and we offered the client a number of variations from which to chose."
+            ]
         }
     },
-    "real-estate-website":{
-        "title":"Case Study",
-        "title2":"real-estate-website",
-        "about":"This case study explores the development and implementation of a real estate website for Dubai, leveraging the power and flexibility of WordPress as the content management system. The case study delves into the specific requirements and challenges faced in creating a user-friendly and visually appealing website that caters to the unique needs of the Dubai real estate market. It analyzes the design and development process, search functionality, property listings management, localization, and integration with third-party services. The study also highlights the outcomes and benefits of the WordPress-based solution, along with lessons learned and recommendations for future real estate website projects. ",
-        "primaryImgSrc":"/image/pf18.png",
-        "icons":["/image/wordpress.png"],
-        "features":{
-            "title":"As per client's need Boxinall has developed Real Estate Website",
-            "subTitle1":"Website features",
-            "description1":["Property Listings: The website should have a searchable and categorized database of property listings, allowing users to browse through available properties. Each listing should include details such as property type, location, size, price, amenities, and high-quality images.", "Advanced Search Filters: Users should be able to refine their property search based on specific criteria such as location, price range, property type, number of bedrooms, and other relevant features. Advanced search options can help users find properties that match their specific requirements."],
-            "subTitle2":"Website features",
-            "description2":["Maps and Location Information: Integration with maps and geolocation services can help users visualize the property's location, nearby amenities, schools, transportation options, and other points of interest.","Real Estate Agent Profiles: Providing profiles of real estate agents or brokers, along with their contact information, experience, and client testimonials, can help users connect with professionals who can assist them in their property transactions.","Mobile Responsiveness: The website should be optimized for mobile devices to ensure a seamless user experience across different screen sizes and platforms"]
+    "real-estate-website": {
+        "title": "Case Study",
+        "title2": "real-estate-website",
+        "about": "This case study explores the development and implementation of a real estate website for Dubai, leveraging the power and flexibility of WordPress as the content management system. The case study delves into the specific requirements and challenges faced in creating a user-friendly and visually appealing website that caters to the unique needs of the Dubai real estate market. It analyzes the design and development process, search functionality, property listings management, localization, and integration with third-party services. The study also highlights the outcomes and benefits of the WordPress-based solution, along with lessons learned and recommendations for future real estate website projects. ",
+        "primaryImgSrc": "/image/pf18.png",
+        "icons": [
+            "/image/wordpress.png"
+        ],
+        "features": {
+            "title": "As per client's need Boxinall has developed Real Estate Website",
+            "subTitle1": "Website features",
+            "description1": [
+                "Property Listings: The website should have a searchable and categorized database of property listings, allowing users to browse through available properties. Each listing should include details such as property type, location, size, price, amenities, and high-quality images.",
+                "Advanced Search Filters: Users should be able to refine their property search based on specific criteria such as location, price range, property type, number of bedrooms, and other relevant features. Advanced search options can help users find properties that match their specific requirements."
+            ],
+            "subTitle2": "Website features",
+            "description2": [
+                "Maps and Location Information: Integration with maps and geolocation services can help users visualize the property's location, nearby amenities, schools, transportation options, and other points of interest.",
+                "Real Estate Agent Profiles: Providing profiles of real estate agents or brokers, along with their contact information, experience, and client testimonials, can help users connect with professionals who can assist them in their property transactions.",
+                "Mobile Responsiveness: The website should be optimized for mobile devices to ensure a seamless user experience across different screen sizes and platforms"
+            ]
         },
-        "challenges":{
-            "title":"Challenges",
-            "subTitle":"Developing a real estate website can come with its own set of challenges. Here are some common challenges that developers may face",
-            "primaryImgSrc":"/image/challenges.png",
-            "description" :["Conducting thorough research on user needs and preferences in the Dubai market., Identifying key features and functionalities for the website.","Incorporating responsive design principles for optimal user experience across devices.","Showcasing property listings and utilizing high-quality imagery.","Adapting the website to cater to a diverse audience in Dubai.","Incorporating APIs and integrations with real estate data providers.","Implementing caching mechanisms and optimization techniques to enhance website speed."]
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": "Developing a real estate website can come with its own set of challenges. Here are some common challenges that developers may face",
+            "primaryImgSrc": "/image/challenges.png",
+            "description": [
+                "Conducting thorough research on user needs and preferences in the Dubai market., Identifying key features and functionalities for the website.",
+                "Incorporating responsive design principles for optimal user experience across devices.",
+                "Showcasing property listings and utilizing high-quality imagery.",
+                "Adapting the website to cater to a diverse audience in Dubai.",
+                "Incorporating APIs and integrations with real estate data providers.",
+                "Implementing caching mechanisms and optimization techniques to enhance website speed."
+            ]
         }
     },
-    "doctor-appointment-application":{
-        "title":"Case Study",
-        "title2":"Doctor  Appointment Application Design",
-        "about":"This case study presents the design process, features, and challenges involved in creating a doctor consulting mobile app using Figma. The case study focuses on improving doctor-patient communication, providing convenient access to healthcare services, and enhancing the overall patient experience. It explores the iterative design process, key features of the app, and the challenges faced during the design phase. Additionally, the study discusses how Figma facilitated collaboration among designers, developers, and stakeholders. It concludes by highlighting the positive outcomes and lessons learned from the project. ",
-        "primaryImgSrc":"/image/pf19.png",
-        "icons":["/image/figma.png","/image/adobe.png","/image/after.png"],
-        "features":{
-            "title":"As per client's need Boxinall has designed Doctor Appointment Application",
-            "subTitle1":"",
-            "description1":["User Registration and Profile Creation: Allow patients to create their profiles by providing necessary information such as name, contact details, medical history, and insurance information.", "Search and Book Appointments: Enable patients to search for doctors based on specialty, location, availability, and patient reviews. They should be able to view doctor profiles, including their qualifications, experience, and consultation fees. Patients can then book appointments based on the available time slots.","Secure Messaging and File Sharing: Provide a secure messaging system that allows patients to communicate with doctors for follow-up questions, sharing medical reports, lab results, and images. Ensure that the messaging platform is compliant with data protection and patient privacy regulations."],
-            "subTitle2":"",
-            "description2":["Real-time Video Consultations: Offer a secure and reliable video calling feature that allows patients to have face-to-face consultations with doctors from the comfort of their homes. The video consultation should support clear audio and video quality to facilitate effective communication.","E-Prescriptions and Medication Management: Enable doctors to generate electronic prescriptions for patients, eliminating the need for physical prescriptions. Patients can receive their prescriptions digitally and access them anytime through the app. Additionally, include features for medication reminders and tracking to help patients manage their medications effectively.","Appointment Reminders and Notifications: Send automated reminders to patients regarding upcoming appointments, medication schedules, and test results. Push notifications can be used to provide important updates, health tips, or alerts related to the patient's health condition."]
+    "doctor-appointment-application": {
+        "title": "Case Study",
+        "title2": "Doctor  Appointment Application Design",
+        "about": "This case study presents the design process, features, and challenges involved in creating a doctor consulting mobile app using Figma. The case study focuses on improving doctor-patient communication, providing convenient access to healthcare services, and enhancing the overall patient experience. It explores the iterative design process, key features of the app, and the challenges faced during the design phase. Additionally, the study discusses how Figma facilitated collaboration among designers, developers, and stakeholders. It concludes by highlighting the positive outcomes and lessons learned from the project. ",
+        "primaryImgSrc": "/image/pf19.png",
+        "icons": [
+            "/image/figma.png",
+            "/image/adobe.png",
+            "/image/after.png"
+        ],
+        "features": {
+            "title": "As per client's need Boxinall has designed Doctor Appointment Application",
+            "subTitle1": "",
+            "description1": [
+                "User Registration and Profile Creation: Allow patients to create their profiles by providing necessary information such as name, contact details, medical history, and insurance information.",
+                "Search and Book Appointments: Enable patients to search for doctors based on specialty, location, availability, and patient reviews. They should be able to view doctor profiles, including their qualifications, experience, and consultation fees. Patients can then book appointments based on the available time slots.",
+                "Secure Messaging and File Sharing: Provide a secure messaging system that allows patients to communicate with doctors for follow-up questions, sharing medical reports, lab results, and images. Ensure that the messaging platform is compliant with data protection and patient privacy regulations."
+            ],
+            "subTitle2": "",
+            "description2": [
+                "Real-time Video Consultations: Offer a secure and reliable video calling feature that allows patients to have face-to-face consultations with doctors from the comfort of their homes. The video consultation should support clear audio and video quality to facilitate effective communication.",
+                "E-Prescriptions and Medication Management: Enable doctors to generate electronic prescriptions for patients, eliminating the need for physical prescriptions. Patients can receive their prescriptions digitally and access them anytime through the app. Additionally, include features for medication reminders and tracking to help patients manage their medications effectively.",
+                "Appointment Reminders and Notifications: Send automated reminders to patients regarding upcoming appointments, medication schedules, and test results. Push notifications can be used to provide important updates, health tips, or alerts related to the patient's health condition."
+            ]
         },
-        "challenges":{
-            "title":"Challenges",
-            "subTitle":"Designing a Doctor Consulting App comes with its own set of challenges. It's important to be aware of these challenges and address them effectively to create a successful and user-friendly application. Some common challenges include:",
-            "primaryImgSrc":"/image/challenges.png",
-            "description" :["Seamless User Experience: Providing a seamless and user-friendly experience is crucial to encourage patient engagement and adoption of the app. Designing an intuitive and easy-to-navigate interface, optimizing loading times, and ensuring smooth functionality across different devices and operating systems are key considerations.","Scalability and Performance: As the user base grows, the app should be designed to handle increasing traffic and user demand. Scalability considerations should be taken into account during app development to ensure that the system can accommodate a growing number of concurrent users without compromising performance or user experience"]
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": "Designing a Doctor Consulting App comes with its own set of challenges. It's important to be aware of these challenges and address them effectively to create a successful and user-friendly application. Some common challenges include:",
+            "primaryImgSrc": "/image/challenges.png",
+            "description": [
+                "Seamless User Experience: Providing a seamless and user-friendly experience is crucial to encourage patient engagement and adoption of the app. Designing an intuitive and easy-to-navigate interface, optimizing loading times, and ensuring smooth functionality across different devices and operating systems are key considerations.",
+                "Scalability and Performance: As the user base grows, the app should be designed to handle increasing traffic and user demand. Scalability considerations should be taken into account during app development to ensure that the system can accommodate a growing number of concurrent users without compromising performance or user experience"
+            ]
         }
     },
-    "event-management-app":{
-        "title":"Case Study",
-        "title2":"Event Management App UI/UX design",
-        "about":"The case study focuses on Streamline, an event management app designed to streamline the planning and execution of events. The app leverages technology to simplify event management processes, enhance attendee experiences, and optimize event organizers' productivity. This case study explores the key features, benefits, and success factors of Streamline.",
-        "primaryImgSrc":"/image/pf17.png",
-        "icons":["/image/android.png","/image/ios.png","/image/atom.png"],
-        "features":{
-            "title":"As per client's need Boxinall has Designed Event Management App",
-            "subTitle1":"",
-            "description1":["Event Creation and Management: The Event Management App allows users to create and manage events with ease. Users can set event details such as date, time, location, description, and ticket information. They can also customize event settings, such as privacy options, ticket types, and registration limits.", "Ticketing and Registration: The app provides a seamless ticketing and registration system. Attendees can easily purchase tickets through the app, select ticket types, make payments securely, and receive electronic tickets or QR codes for entry. Event organizers can track ticket sales, manage attendee information, and send event updates to registered participants.","Event Promotion and Marketing: The app includes features to promote and market events effectively. Users can create event listings, design visually appealing event pages, and share event information on social media platforms. The app may also offer integration with email marketing tools and provide analytics to measure the success of promotional campaigns."],
-            "subTitle2":"",
-            "description2":["Attendee Engagement and Networking: To enhance the attendee experience, the app can include features that facilitate engagement and networking. Attendees can create profiles, connect with other participants, join event communities, and initiate conversations. The app may also offer features like live chat, discussion forums, and interactive polls during the event.","Event Analytics and Insights: The app provides event organizers with valuable analytics and insights. Organizers can track ticket sales, monitor attendee demographics and engagement, and analyze attendee feedback through surveys or ratings. This data helps organizers make informed decisions for future events, improve event experiences, and measure the success of their events.","Seamless Communication and Updates: The app offers real-time communication and updates to keep both organizers and attendees informed. Organizers can send notifications and updates about event changes, important announcements, and schedule reminders. Attendees can receive personalized notifications, event recommendations, and stay updated on event-related information."]
+    "event-management-app": {
+        "title": "Case Study",
+        "title2": "Event Management App UI/UX design",
+        "about": "The case study focuses on Streamline, an event management app designed to streamline the planning and execution of events. The app leverages technology to simplify event management processes, enhance attendee experiences, and optimize event organizers' productivity. This case study explores the key features, benefits, and success factors of Streamline.",
+        "primaryImgSrc": "/image/pf17.png",
+        "icons": [
+            "/image/android.png",
+            "/image/ios.png",
+            "/image/atom.png"
+        ],
+        "features": {
+            "title": "As per client's need Boxinall has Designed Event Management App",
+            "subTitle1": "",
+            "description1": [
+                "Event Creation and Management: The Event Management App allows users to create and manage events with ease. Users can set event details such as date, time, location, description, and ticket information. They can also customize event settings, such as privacy options, ticket types, and registration limits.",
+                "Ticketing and Registration: The app provides a seamless ticketing and registration system. Attendees can easily purchase tickets through the app, select ticket types, make payments securely, and receive electronic tickets or QR codes for entry. Event organizers can track ticket sales, manage attendee information, and send event updates to registered participants.",
+                "Event Promotion and Marketing: The app includes features to promote and market events effectively. Users can create event listings, design visually appealing event pages, and share event information on social media platforms. The app may also offer integration with email marketing tools and provide analytics to measure the success of promotional campaigns."
+            ],
+            "subTitle2": "",
+            "description2": [
+                "Attendee Engagement and Networking: To enhance the attendee experience, the app can include features that facilitate engagement and networking. Attendees can create profiles, connect with other participants, join event communities, and initiate conversations. The app may also offer features like live chat, discussion forums, and interactive polls during the event.",
+                "Event Analytics and Insights: The app provides event organizers with valuable analytics and insights. Organizers can track ticket sales, monitor attendee demographics and engagement, and analyze attendee feedback through surveys or ratings. This data helps organizers make informed decisions for future events, improve event experiences, and measure the success of their events.",
+                "Seamless Communication and Updates: The app offers real-time communication and updates to keep both organizers and attendees informed. Organizers can send notifications and updates about event changes, important announcements, and schedule reminders. Attendees can receive personalized notifications, event recommendations, and stay updated on event-related information."
+            ]
         },
-        "challenges":{
-            "title":"Challenges",
-            "subTitle":"Complex Information Architecture: Designing an event management app involves organizing a vast amount of information, including event details, attendee information, ticketing, schedules, and more. Creating a clear and intuitive information architecture that allows users to navigate and access relevant information efficiently can be challenging.",
-            "primaryImgSrc":"/image/challenges.png",
-            "description" :["Visual Hierarchy and User Flow: Establishing a clear visual hierarchy is crucial in guiding users attention and ensuring a smooth user flow within the app. Designers need to carefully plan the placement and prioritization of elements, such as event details, ticketing options, and registration forms, to avoid confusion and make the app intuitive to use.","Mobile Responsiveness: As event management apps are commonly accessed on mobile devices, designers face the challenge of creating a responsive design that adapts seamlessly to different screen sizes. Ensuring consistent usability, readability, and visual appeal across various devices requires careful consideration and testing."]
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": "Complex Information Architecture: Designing an event management app involves organizing a vast amount of information, including event details, attendee information, ticketing, schedules, and more. Creating a clear and intuitive information architecture that allows users to navigate and access relevant information efficiently can be challenging.",
+            "primaryImgSrc": "/image/challenges.png",
+            "description": [
+                "Visual Hierarchy and User Flow: Establishing a clear visual hierarchy is crucial in guiding users attention and ensuring a smooth user flow within the app. Designers need to carefully plan the placement and prioritization of elements, such as event details, ticketing options, and registration forms, to avoid confusion and make the app intuitive to use.",
+                "Mobile Responsiveness: As event management apps are commonly accessed on mobile devices, designers face the challenge of creating a responsive design that adapts seamlessly to different screen sizes. Ensuring consistent usability, readability, and visual appeal across various devices requires careful consideration and testing."
+            ]
         }
+    },
+    "travel-booking-system": {
+        "title": "Case Study",
+        "title2": "Big Value Travels Online booking System",
+        "about": "Big Value Travels is an online travel booking website that aims to provide customers with exceptional value by offering affordable travel options without compromising on quality and convenience. This case study explores how Big Value Travels successfully disrupted the travel industry by redefining the concept of value and revolutionizing the travel booking experience.",
+        "primaryImgSrc": "/image/pf16.png",
+        "icons": [
+            "/image/brands.png",
+            "/image/atom.png",
+            "/image/php.png"
+        ],
+        "features": {
+            "title": "As per client's need Boxinall has Developed online travel booking platform",
+            "subTitle1": "",
+            "description1": [
+                "Flight Booking: The website allows users to search and book flights to various destinations. Users can input their travel details, such as departure and arrival airports, dates, and the number of passengers. The website provides a user-friendly interface to browse and compare flight options from different airlines.",
+                "Hotel Reservations: Users can search for and book hotel accommodations through the website. The website provides a wide range of options, including hotels, resorts, and other types of accommodations. Users can filter their search results based on location, price range, amenities, and user ratings.",
+                "Vacation Packages: Big Value Travels offers curated vacation packages that include flight and hotel bookings. Users can explore different package options, such as beach getaways, city tours, or adventure trips, and book them conveniently through the website. These packages often provide discounted rates and additional perks."
+            ],
+            "subTitle2": "",
+            "description2": [
+                "Car Rental Services: The website allows users to rent cars for their travel needs. Users can select their pickup and drop-off locations, choose from a variety of car models, and make reservations. The website provides a seamless booking process and integration with car rental providers.",
+                "Travel Guides and Recommendations: Big Value Travels offers travel guides and recommendations to help users plan their trips. The website provides information about popular destinations, attractions, local cuisines, and travel tips. Users can explore articles, blog posts, and destination guides to gain insights and make informed travel decisions.",
+                "Customer Support: The website offers customer support services to assist users with their travel inquiries and concerns. Users can access FAQs, contact customer support via email or phone, and receive assistance for booking modifications, cancellations, or other travel-related issues."
+            ]
         },
-       "travel-booking-system":{
-        "title":"Case Study",
-        "title2":"Big Value Travels Online booking System",
-        "about":"Big Value Travels is an online travel booking website that aims to provide customers with exceptional value by offering affordable travel options without compromising on quality and convenience. This case study explores how Big Value Travels successfully disrupted the travel industry by redefining the concept of value and revolutionizing the travel booking experience.",
-        "primaryImgSrc":"/image/pf16.png",
-        "icons":["/image/brands.png","/image/atom.png","/image/php.png"],
-        "features":{
-            "title":"As per client's need Boxinall has Developed online travel booking platform",
-            "subTitle1":"",
-            "description1":["Flight Booking: The website allows users to search and book flights to various destinations. Users can input their travel details, such as departure and arrival airports, dates, and the number of passengers. The website provides a user-friendly interface to browse and compare flight options from different airlines.", "Hotel Reservations: Users can search for and book hotel accommodations through the website. The website provides a wide range of options, including hotels, resorts, and other types of accommodations. Users can filter their search results based on location, price range, amenities, and user ratings.","Vacation Packages: Big Value Travels offers curated vacation packages that include flight and hotel bookings. Users can explore different package options, such as beach getaways, city tours, or adventure trips, and book them conveniently through the website. These packages often provide discounted rates and additional perks."],
-            "subTitle2":"",
-            "description2":["Car Rental Services: The website allows users to rent cars for their travel needs. Users can select their pickup and drop-off locations, choose from a variety of car models, and make reservations. The website provides a seamless booking process and integration with car rental providers.","Travel Guides and Recommendations: Big Value Travels offers travel guides and recommendations to help users plan their trips. The website provides information about popular destinations, attractions, local cuisines, and travel tips. Users can explore articles, blog posts, and destination guides to gain insights and make informed travel decisions.","Customer Support: The website offers customer support services to assist users with their travel inquiries and concerns. Users can access FAQs, contact customer support via email or phone, and receive assistance for booking modifications, cancellations, or other travel-related issues."]
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": "Integration with Travel APIs: Developing a travel website involves integrating with various travel APIs to fetch flight data, hotel availability, and other travel-related information. Ensuring smooth integration, handling API limitations, and managing data synchronization can be challenging for developers",
+            "primaryImgSrc": "/image/challenges.png",
+            "description": [
+                "User Experience and Interface Design: Creating a user-friendly and visually appealing interface that allows users to search, compare, and book flights, hotels, and vacation packages requires careful consideration of user experience design principles. Developers must ensure a seamless flow, intuitive navigation, and responsive design for different devices.",
+                "Payment Gateway Integration: Implementing a secure and reliable payment gateway for online bookings is crucial. Developers need to integrate with payment service providers, ensure secure data transmission, and comply with PCI-DSS (Payment Card Industry Data Security Standard) guidelines."
+            ]
+        }
+    },
+    "Michelin-Tyre": {
+        "title": "Case Study",
+        "title2": "Michelin tyre admin panel",
+        "about": "Michelin is at the forefront of tire innovation, continuously developing new technologies to enhance performance, safety, and durability. From advanced rubber compounds to proprietary tread designs, Michelin tires are engineered to deliver superior grip, handling, and longevity in various driving conditions.",
+        "primaryImgSrc": "/image/me12.jpg",
+        "icons": [
+            "/image/brands.png",
+            "/image/atom.png",
+            "/image/php.png"
+        ],
+        "features": {
+            "title": "As per client's need Boxinall has Developed Admin panel",
+            "subTitle1": "",
+            "description1": [
+                "Safety is paramount at Michelin, and every tire is meticulously designed and tested to meet the highest standards of safety and performance. Michelin employs rigorous testing procedures, including simulated driving tests and real-world trials, to ensure that its tires deliver optimal traction, braking, and stability on the road"
+                
+            ],
+            "subTitle2": "",
+            "description2": [
+                "Implement role-based access control (RBAC) to restrict access to sensitive data and functionality based on user roles and permissions. Define different user roles (e.g., administrator, manager, sales representative) with specific access rights and privileges, and enforce authentication and authorization mechanisms to ensure data security and compliance with privacy regulations."
+                
+            ]
         },
-        "challenges":{
-            "title":"Challenges",
-            "subTitle":"Integration with Travel APIs: Developing a travel website involves integrating with various travel APIs to fetch flight data, hotel availability, and other travel-related information. Ensuring smooth integration, handling API limitations, and managing data synchronization can be challenging for developers",
-            "primaryImgSrc":"/image/challenges.png",
-            "description" :["User Experience and Interface Design: Creating a user-friendly and visually appealing interface that allows users to search, compare, and book flights, hotels, and vacation packages requires careful consideration of user experience design principles. Developers must ensure a seamless flow, intuitive navigation, and responsive design for different devices.","Payment Gateway Integration: Implementing a secure and reliable payment gateway for online bookings is crucial. Developers need to integrate with payment service providers, ensure secure data transmission, and comply with PCI-DSS (Payment Card Industry Data Security Standard) guidelines."]
-       }
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": " Michelin likely has multiple systems and databases storing information related to product inventory, orders, customers, and manufacturing processes. Integrating data from these disparate sources into a unified admin panel can be challenging, requiring careful planning, data mapping, and synchronization to ensure data accuracy and consistency.",
+            "primaryImgSrc": "/image/e14.jpg",
+            "description": [
+                
+            ]
+        }
+    },
+    "98degreenorth": {
+        "title": "Case Study",
+        "title2": "98degree fashion brand ecommerce website",
+        "about": "For women and men alike, 98DegreeNorth offers a curated collection of clothing that seamlessly blends functionality with fashion-forward design. From the bustling city streets to the untamed wilderness, our garments are crafted to accompany you on every journey, ensuring you're always dressed for the occasion, whatever it may be.",
+        "primaryImgSrc": "/image/ec19.png",
+        "icons": [
+            "/image/brands.png",
+            "/image/atom.png",
+            "/image/php.png"
+        ],
+        "features": {
+            "title": "As per client's need Boxinall has Developed online ecommerce platform",
+            "subTitle1": "",
+            "description1": [
+                "User-Friendly Interface: Design an intuitive website layout that makes it easy for customers to navigate through product categories, search for specific items, and complete purchases seamlessly.",
+                "Mobile Responsiveness: Ensure that the website is optimized for mobile devices, allowing users to shop conveniently from their smartphones or tablets."
+                
+            ],
+            "subTitle2": "",
+            "description2": [
+                "Detailed Product Descriptions: Provide comprehensive descriptions for each product, including fabric composition, sizing information, care instructions, and any unique features or benefits.",
+                "Easy Checkout Process: Streamline the checkout process with a single-page or guest checkout option, minimizing friction and reducing cart abandonment rates.",
+                "Social Media Integration: Integrate social media buttons and features that enable customers to share their favorite products on platforms like Instagram, Facebook, and Pinterest, increasing brand visibility and engagement."
+            ]
+        },
+        "challenges": {
+            "title": "Challenges",
+            "subTitle": "",
+            "primaryImgSrc": "/image/e12.jpg",
+            "description": [
+                "The most major problem the client experienced prior to the project's execution was a lack of an online platform to connect, which limited them access to training, marketing opportunities, and a marketplace for their products.",
+                "Other problems included designing a user-friendly interface for women with various technological skills, assuring seamless integration of multiple services, and developing a secure and trustworthy e-commerce platform for selling products."
+            ]
+        }
     }
 }

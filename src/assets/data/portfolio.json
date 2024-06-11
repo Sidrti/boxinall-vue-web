@@ -1,8 +1,8 @@
 [
     {
         "index":1,
-        "title":"uDates- Dating & Chat",
-        "stack":["figma Design","Mobile App","Android","iOS"],
+        "title":"UDates- Dating & Chat",
+        "stack":["Mobile App","Android","iOS"],
         "primaryWebImg":"/image/pf3.png",
         "primaryMobileImg":"/image/pf1.png",
         
@@ -25,7 +25,7 @@
     },
     {
         "index":3,
-        "title":"Real-estate-website",
+        "title":"Real-Estate-Website",
         "stack":["Design","Wordpress"],
         "primaryWebImg":"/image/pf6.png",
         "primaryMobileImg":"/image/pf7.png",
@@ -58,5 +58,30 @@
         "pageVisibleInUrl":"/portfolio",
         "bgClass":"bg-gradientbigvalue",
         "to":"/case-study/travel-booking-system"
+    },
+    {
+        "index":3,
+        "title":"98degreenorth",
+        "stack":["Website","Mobile app"],
+        "primaryWebImg":"/image/98.png",
+        "primaryMobileImg":"/image/pf93.jpg",
+        
+        "description":["PHP","MySQL","vue.js"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradientbigvalue",
+        "to":"/case-study/98degreenorth"
+    },
+    {
+        "index":3,
+        "title":"Michelin Tyre",
+        "stack":["Website","Mobile app"],
+        "primaryWebImg":"/image/pf32.png",
+        "primaryMobileImg":"/image/pf92.jpg",
+        
+        "description":["PHP","MySQL","vue.js"],
+        "pageVisibleInUrl":"/portfolio",
+        "bgClass":"bg-gradientbigvalue",
+        "to":"/case-study/Michelin-Tyre"
     }
+    
 ]
