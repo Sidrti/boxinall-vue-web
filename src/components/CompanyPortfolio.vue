@@ -25,6 +25,9 @@
                             </ul>
                             <router-link class="btn-outline lnk mt30" :to="item.to"> View Case Study<i
                                     class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></router-link>
+
+                            <a class="btn-outline lnk mt30 bg-gray" :href="item.link"> Visit Link<i
+                            class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                         </div>
                         <div class="portfolio-wide-image">
                             <div class="img-wide-blocktt tilt-outer">
@@ -140,6 +143,13 @@
         </div>
     </section>
 </template>
+<style>
+.bg-gray {
+    background-color: #333333;
+    color: white;
+    margin-left: 5px;
+}
+</style>
 <script>
 import portfolio from '../assets/data/portfolio.json'
 import VanillaTilt from 'vanilla-tilt';
