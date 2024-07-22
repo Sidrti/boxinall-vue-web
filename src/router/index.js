@@ -5,6 +5,7 @@ import PortfolioView from '../views/PortfolioView'
 import ServiceView from '../views/ServiceView'
 import AboutView from '../views/AboutView'
 import ServiceDescriptionView from '../views/ServiceDescriptionView'
+import WebDevelopmentServiceView from '../views/Services/WebDevelopmentServiceView'
 import ContactView from '../views/ContactView'
 import CaseStudyView from '../views/CaseStudyView'
 
@@ -29,10 +30,16 @@ const routes = [
     // children: [{ path: 'process/:id',component: ServiceDescriptionView }],
   },
   {
+    path: '/process/website-development',
+    name: 'web-service-description',
+    component: WebDevelopmentServiceView,
+  },
+  {
     path: '/process/:id',
     name: 'service-description',
     component: ServiceDescriptionView,
   },
+
   {
     path: '/about',
     name: 'about',

@@ -19,7 +19,7 @@
                     <div class="sub-menu-column smfull">
                       <ul>
                         <li class="underline" v-for="item, index in servicesList" :data="item" :key="index">
-                        <router-link :to="item.to">{{ item.title }}</router-link>  
+                        <router-link :to="item.to">{{ item.title }}</router-link>
                         </li>
                       </ul>
                     </div>
@@ -29,7 +29,7 @@
             </li>
             <li><router-link class="menu-links" to="/about">About</router-link></li>
             <li><router-link class="menu-links" to="/portfolio">Portfolio</router-link></li>
-          
+
             <li><a class="menu-links" href="https://boxinallsoftech.com/blog/">Blog</a></li>
             <li><router-link class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
           </ul>
@@ -72,7 +72,7 @@
                     <div class="sub-menu-column smfull">
                       <ul>
                         <li class="underline" v-for="item, index in servicesList" :data="item" :key="index">
-                        <router-link :to="item.to">{{ item.title }}</router-link>  
+                        <router-link :to="item.to">{{ item.title }}</router-link>
                         </li>
                       </ul>
                     </div>
@@ -82,11 +82,11 @@
             </li>
             <li><router-link class="menu-links" to="/about">About</router-link></li>
             <li><router-link class="menu-links" to="/portfolio">Portfolio</router-link></li>
-          
+
             <li><a class="menu-links" href="https://boxinallsoftech.com/blog/">Blog</a></li>
             <li><router-link class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
           </ul>
-        
+
         <!-- <ul class="bottom-nav">
           <li class="prb">
             <a href="tel:+11111111111">
