@@ -6,6 +6,7 @@ import ServiceView from '../views/ServiceView'
 import AboutView from '../views/AboutView'
 import ServiceDescriptionView from '../views/ServiceDescriptionView'
 import WebDevelopmentServiceView from '../views/Services/WebDevelopmentServiceView'
+import MobileDevelopmentServiceView from '../views/Services/MobileDevelopmentServiceView'
 import ContactView from '../views/ContactView'
 import CaseStudyView from '../views/CaseStudyView'
 
@@ -33,6 +34,11 @@ const routes = [
     path: '/process/website-development',
     name: 'web-service-description',
     component: WebDevelopmentServiceView,
+  },
+  {
+    path: '/process/mobile-app-development',
+    name: 'mobile-service-description',
+    component: MobileDevelopmentServiceView,
   },
   {
     path: '/process/:id',
