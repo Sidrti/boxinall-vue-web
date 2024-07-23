@@ -50,21 +50,21 @@
         industryData: [
           {
             name: "React Native Application Development",
-            icon: require("@/assets/images/strategyProcess/contact-support.png"), // Replace with actual icon path
+            icon: require("@/assets/images/icons/react-native.png"), // Replace with actual icon path
             description:
               "Our exceptional React Native Development company assures the development of fast and seamless cross-platform mobile applications that excel in performance, scalability, and technological prowess. Our goal-oriented, result-driven approach ensures the delivery of customized mobile solutions, meeting the unique business needs of clients worldwide and exceeding their expectations.",
             route: "/ecommerce",
           },
           {
             name: "Progressive Web Application Development",
-            icon: require("@/assets/images/strategyProcess/contact-support.png"), // Replace with actual icon path
+            icon: require("@/assets/images/icons/progressive-web.png"), // Replace with actual icon path
             description:
               "Our services bridge the gap between mobile and web platforms. Our expert developers ensure the integration of unique features into your progressive web apps, optimizing them to offer a near-native experience and seamless performance, thereby making way for increased user engagement and heightened ROI.",
             route: "/medical",
           },
           {
-            name: "Wearable Application Development",
-            icon: require("@/assets/images/strategyProcess/contact-support.png"), // Replace with actual icon path
+            name: "Android Application Development",
+            icon: require("@/assets/images/icons/android-app.png"), // Replace with actual icon path
             description:
               "Our exceptional React Native development company assures the development of fast and seamless cross-platform mobile applications that excel in performance, scalability, and technological prowess. Our goal-oriented, result-driven approach ensures the delivery of customized mobile solutions, meeting the unique business needs of clients worldwide and exceeding their expectations.",
             route: "/ecommerce",
@@ -82,7 +82,7 @@
     border: 1px solid white;
     position: relative; /* For absolute positioning of elements inside */
     overflow: hidden; /* Ensures content doesn't overflow */
-    background-color: transparent; /* Ensures default background is transparent */
+    background-color: black; /* Ensures default background is transparent */
   }
 
   .card:hover {
@@ -93,7 +93,7 @@
     width: 80px;
     height: 80px;
     margin-right: 15px;
-    background-color: black; /* Default background color */
+    background-color: #1c1c1c; /* Default background color */
     padding: 20px;
     border-radius: 10px;
     transition: background-color 0.3s; /* Smooth transition for background color change */
@@ -118,7 +118,7 @@
   }
 
   .text-title {
-    font-size: 50px; /* Increase font size */
+    font-size: 40px; /* Increase font size */
     line-height: 1.2; /* Adjust line height for space between lines */
     color: white;
   }

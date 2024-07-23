@@ -38,18 +38,18 @@ export default {
   data() {
     return {
       industries: [
-        { id: 1, name: "Ecommerce", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 2, name: "Healthcare",image: require("@/assets/images/strategyProcess/contact-support.png")},
-        { id: 3, name: "Travel", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 4, name: "Aviation", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 5, name: "Real Estate", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 6, name: "Games", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 7, name: "Social", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 8, name: "Finance", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 9, name: "Ecommerce", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 10, name: "Healthcare", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 11, name: "Travel", image: require("@/assets/images/strategyProcess/contact-support.png") },
-        { id: 12, name: "Aviation", image: require("@/assets/images/strategyProcess/contact-support.png") },
+        { id: 1, name: "Ecommerce", image: require("@/assets/images/industry/ecommerce.png") },
+        { id: 2, name: "Healthcare",image: require("@/assets/images/industry/healthcare.png")},
+        { id: 3, name: "Travel", image: require("@/assets/images/industry/travel.png") },
+        { id: 4, name: "Aviation", image: require("@/assets/images/industry/aviation.png") },
+        { id: 5, name: "Real Estate", image: require("@/assets/images/industry/real-estate.png") },
+        { id: 6, name: "Games", image: require("@/assets/images/industry/aviation.png") },
+        { id: 7, name: "Social", image: require("@/assets/images/industry/social.png") },
+        { id: 8, name: "Finance", image: require("@/assets/images/industry/finance.png") },
+        { id: 9, name: "Education", image: require("@/assets/images/industry/education.png") },
+        { id: 10, name: "On-Demand", image: require("@/assets/images/industry/on-demand.png") },
+        { id: 11, name: "Entertainment", image: require("@/assets/images/industry/entertainment.png") },
+        { id: 12, name: "Government", image: require("@/assets/images/industry/government.png") },
       ],
     };
   },
@@ -116,8 +116,8 @@ export default {
 
 /* Styling for the card image */
 .card-image {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   margin-bottom: 15px; /* Space between image and text */
   background-color: #1c1c1c;
   padding: 10px;
