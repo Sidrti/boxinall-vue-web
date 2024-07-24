@@ -1,5 +1,6 @@
 <template>
-    <div class="container mt-5">
+  <div class="main">
+    <div class="container">
       <h1 class="text-white text-center mb-4">
         Our Work
       </h1>
@@ -35,6 +36,7 @@
         </div>
       </div>
     </div>
+  </div>
   </template>
 
   <script>
@@ -75,6 +77,9 @@
   </script>
 
   <style scoped>
+  .main{
+    background-color: black;
+  }
   .card {
     border: 1px solid white; /* White border */
     transition: transform 0.2s;

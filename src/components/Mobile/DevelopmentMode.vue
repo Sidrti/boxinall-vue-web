@@ -1,5 +1,8 @@
 <template>
-    <div class="container mt-5">
+    <div class="main">
+
+
+    <div class="container" >
       <h1 class="text-white text-start mb-4 text-title">
         Custom Mobile App Development<br />
         Services Paving the Way to<br />
@@ -40,6 +43,7 @@
         </div>
       </div>
     </div>
+</div>
   </template>
 
   <script>
@@ -76,6 +80,10 @@
   </script>
 
   <style scoped>
+  .main{
+    background-color: black;
+    padding-top: 100px;
+  }
   .card {
     transition: transform 0.3s; /* Smooth transform transition */
     height: 600px; /* Fixed height for all cards */

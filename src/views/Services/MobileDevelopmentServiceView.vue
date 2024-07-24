@@ -6,9 +6,13 @@
       <StrategicProcess></StrategicProcess>
       <CompanyStats></CompanyStats>
       <IndustryCard></IndustryCard>
-      <TechnologyBanner></TechnologyBanner>
+      <MarketFuture></MarketFuture>
+      <ToolsAndFramework></ToolsAndFramework>
+      <AchievementsSlider></AchievementsSlider>
       <AIFeatures></AIFeatures>
       <WebPortfolio></WebPortfolio>
+
+
 
 
     </div>
@@ -21,10 +25,12 @@
   import DevelopmentMode from '../../components/Mobile/DevelopmentMode.vue';
   import data from '../../assets/data/servicesDescription.json';
   import CompanyStats from '@/components/Mobile/CompanyStats.vue';
-  import TechnologyBanner from '@/components/Mobile/TechnologyBanner.vue';
   import AIFeatures from '@/components/Mobile/AIFeatures.vue';
   import WebPortfolio from '@/components/Mobile/WebPortfolio.vue';
   import StrategicProcess from '@/components/Mobile/StrategicProcess.vue'
+  import MarketFuture from '../../components/Mobile/MarketFuture.vue';
+  import ToolsAndFramework from '../../components/Mobile/ToolsAndFramework'
+  import AchievementsSlider from '../../components/AchievementsSlider.vue'
   export default {
     name: 'WebDevelopmentServiceView',
     components: {
@@ -32,10 +38,12 @@
       IndustryCard,
       DevelopmentMode,
       CompanyStats,
-      TechnologyBanner,
       AIFeatures,
       WebPortfolio,
-      StrategicProcess
+      StrategicProcess,
+      MarketFuture,
+      ToolsAndFramework,
+      AchievementsSlider
     },
     data() {
       return {
@@ -61,8 +69,8 @@
 
   <style scoped>
   .web-development-service-view {
-    background-color: black;
+    background-color: white;
     color: white; /* Set text color to white */
-    padding: 20px; /* Example padding, adjust as needed */
+
   }
   </style>

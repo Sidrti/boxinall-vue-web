@@ -1,4 +1,7 @@
 <template>
+    <div class="main">
+
+
     <section class="portfolio-section-nx pad-tb">
         <div class="container text-start">
             <div class="row justify-content-center ">
@@ -142,12 +145,16 @@
             </div>
         </div>
     </section>
+</div>
 </template>
 <style>
 .bg-gray {
     background-color: #333333;
     color: white;
     margin-left: 5px;
+}
+.main{
+    background-color: black;
 }
 </style>
 <script>

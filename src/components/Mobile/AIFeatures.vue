@@ -1,5 +1,8 @@
 <template>
-  <div class="container mt-5">
+  <div class="main">
+
+
+  <div class="container">
     <h1 class="text-white text-center mb-4">
       Leveraging Emerging Technologies to Enhance Your Digital Journey and Drive
       Increased Value
@@ -35,6 +38,7 @@
       </div>
     </div>
   </div>
+</div>
 </template>
 
 <script>
@@ -73,6 +77,13 @@ export default {
 </script>
 
 <style scoped>
+.main{
+  background-color: black;
+}
+.container{
+  padding-top: 100px;
+
+}
 .card {
   transition: transform 0.2s;
   height: 500px;

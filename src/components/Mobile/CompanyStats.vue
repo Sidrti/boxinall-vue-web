@@ -1,5 +1,6 @@
 <template>
-    <div class="container mt-5 stats-container">
+    <div class="main">
+    <div class="container  stats-container">
       <div class="row justify-content-center">
         <div v-for="stat in stats" :key="stat.id" class="col-lg-3 col-md-4 mb-4">
           <div class="stat-card p-4 text-center">
@@ -14,6 +15,7 @@
         </button>
       </div>
     </div>
+</div>
   </template>
 
   <script>
@@ -49,6 +51,9 @@
   </script>
 
   <style scoped>
+  .main{
+    background-color: black;
+  }
   .stats-container {
     border: 0.5px solid grey;
     border-radius: 10px;
