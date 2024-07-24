@@ -170,6 +170,7 @@ export default {
 .strategic-process-container {
   background-color: #000000;
   padding: 50px 0;
+  padding-top: 100px;
 }
 
 .card-container {

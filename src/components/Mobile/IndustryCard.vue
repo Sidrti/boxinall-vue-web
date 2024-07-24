@@ -1,5 +1,8 @@
 <template>
-  <div class="container industries-container" style="margin-top: 100px;">
+  <div class="main">
+
+
+  <div class="container industries-container" style="padding-top: 200px;">
     <!-- Heading and Description -->
     <div class="text-center mb-5">
       <h1 class="text-white text-title">
@@ -30,6 +33,7 @@
       </div>
     </div>
   </div>
+</div>
 </template>
 
 <script>
@@ -43,7 +47,7 @@ export default {
         { id: 3, name: "Travel", image: require("@/assets/images/industry/travel.png") },
         { id: 4, name: "Aviation", image: require("@/assets/images/industry/aviation.png") },
         { id: 5, name: "Real Estate", image: require("@/assets/images/industry/real-estate.png") },
-        { id: 6, name: "Games", image: require("@/assets/images/industry/aviation.png") },
+        { id: 6, name: "Games", image: require("@/assets/images/industry/games.png") },
         { id: 7, name: "Social", image: require("@/assets/images/industry/social.png") },
         { id: 8, name: "Finance", image: require("@/assets/images/industry/finance.png") },
         { id: 9, name: "Education", image: require("@/assets/images/industry/education.png") },
@@ -83,6 +87,10 @@ export default {
 </script>
 
 <style scoped>
+.main{
+  background-color: black;
+  padding-bottom: 100px;
+}
 .industries-container {
   padding: 20px;
 

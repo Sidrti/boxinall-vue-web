@@ -220,6 +220,9 @@ export default {
   text-decoration-style: solid;
   text-underline-offset: 5px;
 }
+.main-header{
+  background-color: black;
+}
 .w-10 {
   width:70px !important
 }
