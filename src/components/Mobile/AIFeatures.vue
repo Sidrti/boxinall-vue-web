@@ -109,8 +109,9 @@ export default {
 }
 .card {
   transition: transform 0.2s;
-  height: 500px;
+  height: 400px;
   border: 1px solid white;
+  border-radius: 15px;
 
 }
 
