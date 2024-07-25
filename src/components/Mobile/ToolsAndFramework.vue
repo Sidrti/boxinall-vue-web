@@ -11,7 +11,7 @@
             With nearly a decade of industry experience, our team of developers
             excels in crafting mobile app development solutions backed by the latest
             technologies and tool set. By leveraging our tech expertise, you can
-            strengthen their brand identity, foster business growth, and expand user
+            strengthen your brand identity, foster business growth, and expand user
             reach.
           </p>
         </div>
@@ -21,7 +21,7 @@
           <div
             v-for="techCategory in techCategories"
             :key="techCategory.id"
-            class="col-lg-3 col-md-6 mb-4"
+            class="col-lg-2 col-md-4 col-sm-6 mb-4"
           >
             <div
               class="card tech-card text-center"
@@ -38,7 +38,7 @@
           <div
             v-for="tech in selectedCategory.technologies"
             :key="tech"
-            class="col-lg-3 col-md-3 col-sm-3 mb-4"
+            class="col-lg-2 col-md-4 col-sm-6 mb-4"
           >
             <div class="tech-card-container">
               <div class="card tech-detail-card text-center">
@@ -61,12 +61,32 @@
           {
             id: 1,
             name: "Backend",
-            technologies: ['Php',"Node.js", ".Net", "Python",'Laravel',],
+            technologies: ['Php', "Node.js", ".Net", "Python", 'Laravel'],
           },
           {
             id: 2,
             name: "Frontend",
-            technologies: ["React", "Vue", "CSS",'HTML5','Javascript'],
+            technologies: ["React", "Vue", "CSS", 'HTML5', 'Javascript'],
+          },
+          {
+            id: 3,
+            name: "Databases",
+            technologies: ["Mongodb", "Mysql", "PostgreSQL", 'Firebase'],
+          },
+          {
+            id: 4,
+            name: "Frameworks",
+            technologies: ["React", "Vue", "CSS", 'HTML5', 'Javascript'],
+          },
+          {
+            id: 5,
+            name: "DevOps",
+            technologies: ["Chef", "Puppet", "Terraform", "Jenkins", "GitLab", "Ansible", "Docker", "Kubernetes", "CircleCI", "Travis CI"],
+          },
+          {
+            id: 6,
+            name: "Quality",
+            technologies: ["Selenium", "Appium", "JUnit", "TestNG", "Cucumber", "Postman", "JMeter", "LoadRunner", "SonarQube", "TestRail"],
           },
         ],
         selectedCategory: null,
@@ -81,7 +101,6 @@
         this.selectedCategory = category;
       },
       getTechImage(tech) {
-        // You can replace these with actual image paths for each technology
         const techImages = {
           ".Net": require("@/assets/images/tech/dotnet.png"),
           "Node.js": require("@/assets/images/tech/nodejs.png"),
@@ -93,6 +112,30 @@
           "HTML5": require("@/assets/images/tech/html.png"),
           "CSS": require("@/assets/images/tech/css.png"),
           "Javascript": require("@/assets/images/tech/javascript.png"),
+          "Docker": require("@/assets/images/tech/docker-tech.png"),
+          "Kubernetes": require("@/assets/images/tech/kubernetes-tech.png"),
+          "Jenkins": require("@/assets/images/tech/jenkins-tech.png"),
+          "Selenium": require("@/assets/images/tech/selenium-tech.png"),
+          "JUnit": require("@/assets/images/tech/junit-tech.png"),
+          "Chef": require("@/assets/images/tech/chef-tech.png"),
+          "Puppet": require("@/assets/images/tech/puppet-tech.png"),
+          "Terraform": require("@/assets/images/tech/terraform-tech.png"),
+          "GitLab": require("@/assets/images/tech/gitlab-tech.png"),
+          "Ansible": require("@/assets/images/tech/ansible-tech.png"),
+          "CircleCI": require("@/assets/images/tech/circleci-tech.png"),
+          "Travis CI": require("@/assets/images/tech/travisci-tech.png"),
+          "Appium": require("@/assets/images/tech/appium-tech.png"),
+          "TestNG": require("@/assets/images/tech/testng-tech.png"),
+          "Cucumber": require("@/assets/images/tech/cucumber-tech.png"),
+          "Postman": require("@/assets/images/tech/postman-tech.png"),
+          "JMeter": require("@/assets/images/tech/jmeter-tech.png"),
+          "LoadRunner": require("@/assets/images/tech/loadrunner-tech.png"),
+          "SonarQube": require("@/assets/images/tech/sonarqube-tech.png"),
+          "TestRail": require("@/assets/images/tech/testrail-tech.png"),
+          "Mongodb": require("@/assets/images/tech/mongodb-tech.png"),
+          "Mysql": require("@/assets/images/tech/mysql-tech.png"),
+          "PostgreSQL": require("@/assets/images/tech/postgresql-tech.png"),
+          "Firebase": require("@/assets/images/tech/firebase-tech.png"),
         };
         return techImages[tech] || require("@/assets/images/tech/react.png");
       },
@@ -125,18 +168,22 @@
     margin-top: 50px;
     margin-bottom: 50px;
   }
- .tech-card{
-  padding: 20px;
-  border: 3px solid black; /* Light border */
- }
+
+  .tech-card {
+    padding: 8px;
+    padding-top: 2px;
+    border: 3px solid black; /* Light border */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
   .tech-card,
   .tech-detail-card {
     background-color: #fff;
     color: black;
     border-radius: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     cursor: pointer;
     transition: transform 0.3s, background-color 0.3s;
     margin: 0 10px; /* Add horizontal margin for spacing between cards */
@@ -147,7 +194,9 @@
     width: 100px;
     background-color: #e5e5e5;
     border: 0.5px solid #e5e5e5; /* Light border */
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .tech-card.selected {
@@ -160,13 +209,17 @@
     color: white; /* Make tech-title white when the card is selected */
   }
 
-
   .tech-title,
   .tech-detail-title {
     color: black;
     font-size: 1.2rem;
     font-weight: normal;
     margin-top: 10px; /* Add margin to separate the title from the card */
+    text-align: center; /* Center-align the title */
+  }
+
+  .tech-title {
+    font-weight: 500;
   }
 
   .tech-image {
@@ -175,14 +228,14 @@
     object-fit: contain;
   }
 
-  /* Ensures margin and border are properly applied */
   .row {
     margin-left: 0;
     margin-right: 0;
   }
 
-  .col-lg-3,
-  .col-md-6 {
+  .col-lg-2,
+  .col-md-4,
+  .col-sm-6 {
     padding-left: 0;
     padding-right: 0;
   }
@@ -191,5 +244,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center; /* Center-align the text */
   }
   </style>
