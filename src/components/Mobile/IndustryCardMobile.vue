@@ -18,7 +18,7 @@
         <div
           v-for="industry in industries"
           :key="industry.id"
-          class="col-lg-3 col-md-6 industry-column"
+          class="col-lg-2-4 col-md-4 col-sm-6 industry-column"
         >
           <div class="card text-center">
             <div class="card-content">
@@ -52,42 +52,40 @@ export default {
         { id: 10, name: "On-Demand", image: require("@/assets/images/industry/on-demand.png") },
         { id: 11, name: "Entertainment", image: require("@/assets/images/industry/entertainment.png") },
         { id: 12, name: "Government", image: require("@/assets/images/industry/government.png") },
+        { id: 13, name: "Restaurant", image: require("@/assets/images/industry/restaurant.png") },
+        { id: 14, name: "Logistics", image: require("@/assets/images/industry/logistics.png") },
+        { id: 15, name: "Agriculture", image: require("@/assets/images/industry/agriculture.png") },
       ],
     };
   },
   mounted() {
     this.adjustColumnBorders();
+    window.addEventListener("resize", this.adjustColumnBorders);
+  },
+  beforeDestroy() {
+    window.removeEventListener("resize", this.adjustColumnBorders);
   },
   methods: {
     adjustColumnBorders() {
       const row = this.$refs.industriesRow;
       const columns = row.querySelectorAll('.industry-column');
-      const columnsPerRowDesktop = 4;
+      const columnsPerRowDesktop = 5;
       const columnsPerRowMobile = 2;
+      const isMobile = window.innerWidth <= 768;
 
       columns.forEach((column, index) => {
-        const isLastInRowDesktop = (index + 1) % columnsPerRowDesktop === 0;
-        const isLastInRowMobile = (index + 1) % columnsPerRowMobile === 0;
-        const isLastColumn = index === columns.length - 1;
-        const isLastRowDesktop = Math.ceil(columns.length / columnsPerRowDesktop) * columnsPerRowDesktop - columnsPerRowDesktop <= index;
-        const isLastRowMobile = Math.ceil(columns.length / columnsPerRowMobile) * columnsPerRowMobile - columnsPerRowMobile <= index;
+        column.style.borderRight = '0.5px solid grey';
+        column.style.borderBottom = '0.5px solid grey';
 
-        if (isLastInRowDesktop) {
+        const isLastInRow = (index + 1) % (isMobile ? columnsPerRowMobile : columnsPerRowDesktop) === 0;
+        const isLastColumn = index === columns.length - 1;
+        const isLastRow = Math.ceil(columns.length / (isMobile ? columnsPerRowMobile : columnsPerRowDesktop)) * (isMobile ? columnsPerRowMobile : columnsPerRowDesktop) - (isMobile ? columnsPerRowMobile : columnsPerRowDesktop) <= index;
+
+        if (isLastInRow || isLastColumn) {
           column.style.borderRight = 'none';
         }
-        if (isLastRowDesktop) {
+        if (isLastRow) {
           column.style.borderBottom = 'none';
-        }
-        if (isLastColumn) {
-          column.style.borderRight = 'none';
-        }
-        if (window.innerWidth <= 768) {
-          if (isLastInRowMobile) {
-            column.style.borderRight = 'none';
-          }
-          if (isLastRowMobile) {
-            column.style.borderBottom = 'none';
-          }
         }
       });
     }
@@ -167,9 +165,26 @@ export default {
   margin-right: 0;
 }
 
-.col-lg-3, .col-md-6 {
+.col-lg-2-4,
+.col-md-4,
+.col-sm-6 {
   padding-left: 0;
   padding-right: 0;
+}
+
+.col-lg-2-4 {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+
+.col-md-4 {
+  flex: 0 0 33.3333%;
+  max-width: 33.3333%;
+}
+
+.col-sm-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
 }
 
 /* Ensure no extra space for the last column in each row */
@@ -182,7 +197,7 @@ export default {
 }
 
 @media (max-width: 768px) {
-  .col-md-6 {
+  .col-md-4 {
     flex: 0 0 50%;
     max-width: 50%;
   }

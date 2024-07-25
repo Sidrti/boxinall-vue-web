@@ -5,7 +5,7 @@
         <div v-for="stat in stats" :key="stat.id" class="col-lg-3 col-md-4 mb-4">
           <div class="stat-card p-4 text-center">
             <h1 class="stat-number">{{ stat.number }}</h1>
-            <h5 class="stat-title">{{ stat.title }}</h5>
+            <p class="stat-title">{{ stat.title }}</p>
           </div>
         </div>
       </div>
@@ -81,6 +81,7 @@
     opacity: 0.9;
     color: white;
     margin-top: 10px;
+
   }
 
   .discuss-button {
@@ -92,7 +93,7 @@
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
-    font-weight: bold;
+    font-weight: 500;
   }
 
   .discuss-button:hover {

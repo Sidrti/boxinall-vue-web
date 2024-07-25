@@ -68,6 +68,28 @@ export default {
             "Our team of skilled mobile app developers excels in creating immersive experiences through cutting-edge technologies. We harness the power of AR/VR to enhance brand awareness and foster business growth, making it a valuable asset for your business success.",
           route: "/medical",
         },
+        {
+          name: "Cloud",
+          icon: require("@/assets/images/ai/cloud-img.png"), // Replace with actual icon path
+          description:
+            "We are one of the leading dedicated cloud application development service providers that builds scalable custom solutions for businesses of all sizes, while eliminating the need for extensive infrastructure investments.",
+          route: "/medical",
+        },
+        {
+          name: "Metaverse",
+          icon: require("@/assets/images/ai/metaverse-img.png"), // Replace with actual icon path
+          description:
+            "Our team possesses extensive expertise in metaverse app development, crafting captivating and immersive virtual environments that enable your business to differentiate itself in a competitive market.",
+          route: "/medical",
+        },
+        {
+          name: "Blockchain",
+          icon: require("@/assets/images/ai/blockchain-img.png"), // Replace with actual icon path
+          description:
+            "Our team of experts leverages blockchain technology to provide custom mobile application development services that enhance data security, mitigate the risk of data breaches, and ensure that sensitive information is accessible only to authorized users.",
+          route: "/medical",
+
+        }
 
         // Add more industries as needed
       ],
@@ -116,10 +138,9 @@ export default {
   height: 60%;
   width: 60%;
   object-fit: contain;
+}
 
-
-
-
-
+.card-title{
+  font-size: 25px;
 }
 </style>
