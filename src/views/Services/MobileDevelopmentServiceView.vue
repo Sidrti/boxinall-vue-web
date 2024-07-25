@@ -14,6 +14,7 @@
       <ToolsAndFramework></ToolsAndFramework>
       <AchievementsSlider></AchievementsSlider>
       <AIFeatures></AIFeatures>
+      <FundingRaised></FundingRaised>
       <WebPortfolio></WebPortfolio>
     </div>
   </template>
@@ -32,6 +33,7 @@
   import MarketFuture from '../../components/Mobile/MarketFuture.vue';
   import ToolsAndFramework from '../../components/Mobile/ToolsAndFramework'
   import AchievementsSlider from '../../components/AchievementsSlider.vue'
+  import FundingRaised from '../../components/Mobile/FundingRaised.vue'
 
   export default {
     name: 'WebDevelopmentServiceView',
@@ -46,7 +48,8 @@
       StrategicProcess,
       MarketFuture,
       ToolsAndFramework,
-      AchievementsSlider
+      AchievementsSlider,
+      FundingRaised
     },
     data() {
       return {
