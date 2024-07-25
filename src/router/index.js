@@ -36,7 +36,7 @@ const routes = [
     component: WebDevelopmentServiceView,
   },
   {
-    path: '/process/mobile-app-development',
+    path: '/process/mobile-app-development-test',
     name: 'mobile-service-description',
     component: MobileDevelopmentServiceView,
   },

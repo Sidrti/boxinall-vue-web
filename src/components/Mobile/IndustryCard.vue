@@ -1,39 +1,37 @@
 <template>
   <div class="main">
+    <div class="container industries-container" style="padding-top: 200px;">
+      <!-- Heading and Description -->
+      <div class="text-center mb-5">
+        <h1 class="text-white text-title">
+          Crafting Unique and Tailored Mobile Solutions for a Spectrum of Industries
+        </h1>
+        <h5 class="text-white" style="opacity: 0.9; margin-top: 20px;">
+          As a leading mobile app development services firm, we excel in offering
+          custom solutions for various industries, ensuring great versatility and
+          the ability to cater to diverse business needs and requirements.
+        </h5>
+      </div>
 
-
-  <div class="container industries-container" style="padding-top: 200px;">
-    <!-- Heading and Description -->
-    <div class="text-center mb-5">
-      <h1 class="text-white text-title">
-        Crafting Unique and Tailored Mobile Solutions for a Spectrum of Industries
-      </h1>
-      <h5 class="text-white" style="opacity: 0.9; margin-top: 20px;">
-        As a leading mobile app development services firm, we excel in offering
-        custom solutions for various industries, ensuring great versatility and
-        the ability to cater to diverse business needs and requirements.
-      </h5>
-    </div>
-
-    <!-- Industries Cards -->
-    <div class="row no-gutters" ref="industriesRow">
-      <div
-        v-for="industry in industries"
-        :key="industry.id"
-        class="col-lg-3 col-md-6 industry-column"
-      >
-        <div class="card text-center">
-          <div class="card-content">
-            <div class="card-image">
-              <img :src="industry.image" alt="Logo" class="card-logo" />
+      <!-- Industries Cards -->
+      <div class="row no-gutters" ref="industriesRow">
+        <div
+          v-for="industry in industries"
+          :key="industry.id"
+          class="col-lg-3 col-md-6 industry-column"
+        >
+          <div class="card text-center">
+            <div class="card-content">
+              <div class="card-image">
+                <img :src="industry.image" alt="Logo" class="card-logo" />
+              </div>
+              <h2 class="industry-title">{{ industry.name }}</h2>
             </div>
-            <h2 class="industry-title">{{ industry.name }}</h2>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 </template>
 
 <script>
@@ -43,7 +41,7 @@ export default {
     return {
       industries: [
         { id: 1, name: "Ecommerce", image: require("@/assets/images/industry/ecommerce.png") },
-        { id: 2, name: "Healthcare",image: require("@/assets/images/industry/healthcare.png")},
+        { id: 2, name: "Healthcare", image: require("@/assets/images/industry/healthcare.png") },
         { id: 3, name: "Travel", image: require("@/assets/images/industry/travel.png") },
         { id: 4, name: "Aviation", image: require("@/assets/images/industry/aviation.png") },
         { id: 5, name: "Real Estate", image: require("@/assets/images/industry/real-estate.png") },
@@ -64,21 +62,32 @@ export default {
     adjustColumnBorders() {
       const row = this.$refs.industriesRow;
       const columns = row.querySelectorAll('.industry-column');
-      const columnsPerRow = 4; // Adjust based on the number of columns per row
+      const columnsPerRowDesktop = 4;
+      const columnsPerRowMobile = 2;
 
       columns.forEach((column, index) => {
-        const isLastInRow = (index + 1) % columnsPerRow === 0;
+        const isLastInRowDesktop = (index + 1) % columnsPerRowDesktop === 0;
+        const isLastInRowMobile = (index + 1) % columnsPerRowMobile === 0;
         const isLastColumn = index === columns.length - 1;
-        const isLastRow = Math.ceil(columns.length / columnsPerRow) * columnsPerRow - columnsPerRow <= index;
+        const isLastRowDesktop = Math.ceil(columns.length / columnsPerRowDesktop) * columnsPerRowDesktop - columnsPerRowDesktop <= index;
+        const isLastRowMobile = Math.ceil(columns.length / columnsPerRowMobile) * columnsPerRowMobile - columnsPerRowMobile <= index;
 
-        if (isLastInRow) {
+        if (isLastInRowDesktop) {
           column.style.borderRight = 'none';
         }
-        if (isLastRow) {
+        if (isLastRowDesktop) {
           column.style.borderBottom = 'none';
         }
         if (isLastColumn) {
           column.style.borderRight = 'none';
+        }
+        if (window.innerWidth <= 768) {
+          if (isLastInRowMobile) {
+            column.style.borderRight = 'none';
+          }
+          if (isLastRowMobile) {
+            column.style.borderBottom = 'none';
+          }
         }
       });
     }
@@ -87,13 +96,13 @@ export default {
 </script>
 
 <style scoped>
-.main{
+.main {
   background-color: black;
   padding-bottom: 100px;
 }
+
 .industries-container {
   padding: 20px;
-
 }
 
 .text-title {
@@ -147,7 +156,7 @@ export default {
 
 /* Column styles with border */
 .industry-column {
-  border-right: 0.5px solid grey ; /* Right border for separation */
+  border-right: 0.5px solid grey; /* Right border for separation */
   border-bottom: 0.5px solid grey; /* Bottom border for separation */
   padding: 0; /* Remove padding inside the column */
 }
@@ -167,7 +176,32 @@ export default {
 .industry-column:last-of-type {
   border-right: none;
 }
+
 .industry-title:hover {
-   color:#007bff
+  color: #007bff;
+}
+
+@media (max-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
   }
+
+  .industry-column {
+    border-right: 0.5px solid grey; /* Right border for separation */
+    border-bottom: 0.5px solid grey; /* Bottom border for separation */
+  }
+
+  .industry-column:nth-child(2n) {
+    border-right: none; /* No right border for every second column in a row */
+  }
+
+  .industry-column:last-child {
+    border-bottom: none; /* No bottom border for the last column */
+  }
+
+  .industry-column:nth-child(2n+1):last-of-type {
+    border-right: none; /* No right border for last odd column */
+  }
+}
 </style>
