@@ -9,11 +9,11 @@
       <!-- Conditional Rendering based on Device Type -->
       <IndustryCardMobile v-if="isMobile"></IndustryCardMobile>
       <IndustryCardWeb v-else></IndustryCardWeb>
-
       <MarketFuture></MarketFuture>
       <ToolsAndFramework></ToolsAndFramework>
       <AchievementsSlider></AchievementsSlider>
       <AIFeatures></AIFeatures>
+      <OurService></OurService>
       <FundingRaised></FundingRaised>
       <WebPortfolio></WebPortfolio>
     </div>
@@ -34,6 +34,7 @@
   import ToolsAndFramework from '../../components/Mobile/ToolsAndFramework'
   import AchievementsSlider from '../../components/AchievementsSlider.vue'
   import FundingRaised from '../../components/Mobile/FundingRaised.vue'
+  import OurService from '../../components/Mobile/OurService.vue'
 
   export default {
     name: 'WebDevelopmentServiceView',
@@ -49,7 +50,8 @@
       MarketFuture,
       ToolsAndFramework,
       AchievementsSlider,
-      FundingRaised
+      FundingRaised,
+      OurService
     },
     data() {
       return {
