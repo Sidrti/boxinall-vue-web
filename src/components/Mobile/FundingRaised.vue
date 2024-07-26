@@ -106,7 +106,7 @@
   /* Media Query for Mobile Devices */
   @media (max-width: 767px) {
     .funding-heading {
-      font-size: 26px; /* Adjust font size for mobile */
+      font-size: 36px; /* Adjust font size for mobile */
     }
 
     .funding-subheading {
