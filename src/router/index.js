@@ -10,6 +10,7 @@ import WebDevelopmentServiceView from "../views/Services/WebDevelopmentServiceVi
 import MobileDevelopmentServiceView from "../views/Services/MobileDevelopmentServiceView";
 import ContactView from "../views/ContactView";
 import CaseStudyView from "../views/CaseStudyView";
+import CaseStudyView2 from "../views/CaseStudyView2";
 
 Vue.use(VueRouter);
 
@@ -69,6 +70,11 @@ const routes = [
     path: "/case-study/:id",
     name: "case-study",
     component: CaseStudyView,
+  },
+  {
+    path: "/case-study2/:id",
+    name: "case-study2",
+    component: CaseStudyView2,
   },
 ];
 

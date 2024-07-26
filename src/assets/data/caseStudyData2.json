@@ -1,0 +1,520 @@
+{
+  "dating-application": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  },
+  "real-estate-website": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  },
+  "doctor-appointment-application": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  },
+  "event-management-app": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  },
+  "travel-booking-system": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  },
+  "Michelin-Tyre": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  },
+  "98degreenorth": {
+    "herotitle": "Expanding Adidas Mobile Presence Globally",
+    "heroctaText": "Expand Your Business",
+    "title": "About Adidas",
+    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "eCommerce",
+        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Design, Development, and Deployment",
+        "isLink": false
+      },
+      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/pf3.png",
+    "MobileImg": "/image/pf1.png",
+    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helpdescription": [
+      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
+      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
+      "It was time to expand the web-centric brand to mobile through a dedicated application."
+    ],
+    "services": [
+      {
+        "title": "Conceptualization",
+        "items": ["Market understanding", "Localization"]
+      },
+      { "title": "Product Design", "items": ["User flow", "Designing"] },
+      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Deployment",
+        "items": ["Play Store publishing", "App Store publishing"]
+      }
+    ],
+
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Abiding By The Brand's Design System",
+        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+      },
+      {
+        "number": 2,
+        "title": "Multi-Lingual & Multi-Currency Support",
+        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+      }
+    ],
+
+    "development": {
+      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "description": [
+        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
+        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
+        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+      ]
+    },
+
+    "results": [
+      { "number": "2M", "text": "Downloads" },
+      { "number": "500k", "text": "New Users Acquired" }
+    ]
+  }
+}

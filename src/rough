@@ -1,0 +1,458 @@
+<!-- <template>
+  <section class="reveal__section">
+    <div class="hero_banner" data-aos="zoom-in" data-aos-duration="1000">
+      <img :src="data.WebImg" alt="Web Image" class="hero_image" />
+    </div>
+    <div class="container">
+      <div class="detail__panel">
+        <div class="left_sec" data-aos="fade-right" data-aos-duration="800">
+          <h2 class="heading2">
+            {{ data.title }}
+          </h2>
+          <p class="para">
+            {{ data.description }}
+          </p>
+        </div>
+        <div
+          class="right_sec"
+          data-aos="fade-left"
+          data-aos-duration="800"
+          data-aos-delay="200"
+        >
+          <div class="grid_wrapper">
+            <div
+              v-for="(item, index) in data.details"
+              :key="index"
+              class="indus_service"
+              :data-aos="index % 2 === 0 ? 'fade-up-right' : 'fade-up-left'"
+              :data-aos-delay="150 * (index + 1)"
+              data-aos-duration="600"
+            >
+              <span class="industry">{{ item.label }}</span>
+              <a
+                v-if="item.isLink"
+                :class="['indushead', { based_clr: item.isColored }]"
+                :href="item.value"
+                target="_blank"
+              >
+                {{ item.text }}
+              </a>
+              <span
+                v-else
+                :class="['indushead', { based_clr: item.isColored }]"
+              >
+                {{ item.text }}
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="image_section_bottom"
+      data-aos="zoom-in"
+      data-aos-duration="1000"
+    >
+      <img :src="data.MobileImg" alt="Mobile Image" class="mobileimage" />
+    </div>
+    <div class="container">
+      <div class="detail__panel">
+        <div class="left_sec" data-aos="fade-right" data-aos-duration="800">
+          <h2>
+            {{ data.helptitle }}
+          </h2>
+        </div>
+        <div
+          class="right_sec"
+          data-aos="fade-left"
+          data-aos-duration="800"
+          data-aos-delay="200"
+        >
+          <ul>
+            <li
+              v-for="(description, index) in data.helpdescription"
+              :key="index"
+              :data-aos="index % 2 === 0 ? 'fade-up' : 'fade-down'"
+              :data-aos-delay="100 * (index + 1)"
+              data-aos-duration="600"
+            >
+              {{ description }}
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="services__panel" data-aos="fade-up" data-aos-duration="1000">
+        <h2
+          class="services__title"
+          data-aos="fade-down"
+          data-aos-duration="800"
+        >
+          Our Services Provided
+        </h2>
+        <div class="services__grid">
+          <div
+            v-for="(service, index) in data.services"
+            :key="index"
+            class="service__item"
+            :data-aos="index % 2 === 0 ? 'fade-right' : 'fade-left'"
+            :data-aos-duration="800"
+            :data-aos-delay="100 * (index + 1)"
+          >
+            <h3 class="service__heading">{{ service.title }}</h3>
+            <ul class="service__list">
+              <li v-for="(list, index) in service.items" :key="index">
+                {{ list }}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div
+        class="challenges__panel"
+        data-aos="fade-up"
+        data-aos-duration="1000"
+      >
+        <h2 class="section__title" data-aos="fade-down" data-aos-duration="800">
+          Our Project Challenges
+        </h2>
+        <div class="challenges__grid">
+          <div
+            v-for="(challenge, index) in data.challenges"
+            :key="index"
+            class="challenge__item"
+            :data-aos="index % 2 === 0 ? 'fade-right' : 'fade-left'"
+            :data-aos-duration="800"
+            :data-aos-delay="100 * (index + 1)"
+          >
+            <h3 class="challenge__heading">{{ challenge.title }}</h3>
+            <p class="challenge__text">{{ challenge.description }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="process__panel" data-aos="fade-up" data-aos-duration="1000">
+        <h2 class="section__title" data-aos="fade-down" data-aos-duration="800">
+          Our Development Process
+        </h2>
+        <div
+          class="process__content"
+          data-aos="fade-up"
+          data-aos-duration="800"
+          data-aos-delay="100"
+        >
+          <h3 class="process__heading">
+            {{ data.development.subtitle }}
+          </h3>
+
+          <p
+            class="process__text"
+            v-for="(description, index) in data.development.description"
+            :key="index"
+          >
+            {{ description }}
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="results__panel" data-aos="fade-up" data-aos-duration="1000">
+        <h2 class="section__title" data-aos="fade-down" data-aos-duration="800">
+          The Results
+        </h2>
+        <div class="results__grid">
+          <div
+            v-for="(result, index) in data.results"
+            :key="index"
+            class="result__item"
+            :data-aos="index % 2 === 0 ? 'fade-right' : 'fade-left'"
+            :data-aos-duration="800"
+            :data-aos-delay="100 * (index + 1)"
+          >
+            <div class="result__number">{{ result.number }}</div>
+            <div class="result__text">{{ result.text }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script>
+  import AOS from "aos";
+  import "aos/dist/aos.css";
+
+  export default {
+    name: "AboutSection",
+    props: {
+      data: {
+        type: Object,
+        required: true,
+      },
+    },
+    mounted() {
+      AOS.init();
+    },
+  };
+</script>
+
+<style scoped>
+  .reveal__section {
+    padding: 0 0 100px 0;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .hero_banner {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero_image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .image_section_bottom {
+    width: 100%;
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .mobileimage {
+    height: 500px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+  }
+
+  .left_sec h2 {
+    color: white;
+    margin-bottom: 1rem;
+  }
+
+  .right_sec ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .right_sec li {
+    font-size: 1rem;
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 10px;
+  }
+
+  .detail__panel {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-top: 50px;
+  }
+
+  .left_sec,
+  .right_sec {
+    flex: 1;
+    margin: 15px;
+  }
+
+  .heading2 {
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 1rem;
+  }
+
+  .para {
+    font-size: 1rem;
+    color: white;
+    line-height: 1.5;
+  }
+
+  .grid_wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .indus_service {
+    border-radius: 8px;
+    padding: 35px;
+    text-align: center;
+    transition: transform 0.3s ease;
+    background-color: #141414;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .industry {
+    font-weight: bold;
+    color: white;
+    margin-bottom: 15px;
+  }
+
+  .indushead {
+    display: block;
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .based_clr {
+    color: #ff5722;
+  }
+
+  /* Services Section Styles */
+  .services__panel,
+  .challenges__panel,
+  .process__panel,
+  .results__panel {
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  .section__title,
+  .services__title {
+    font-size: 2.5rem;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .services__grid,
+  .challenges__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+
+  .service__item,
+  .challenge__item {
+    background-color: #141414;
+    border-radius: 10px;
+    padding: 30px;
+    transition: transform 0.3s ease;
+  }
+
+  .service__item:hover,
+  .challenge__item:hover {
+    transform: translateY(-10px);
+  }
+
+  .service__heading,
+  .challenge__heading,
+  .process__heading {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+
+  .service__heading sup {
+    font-size: 0.8rem;
+    top: -0.5em;
+  }
+
+  .service__list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .service__list li,
+  .challenge__text,
+  .process__text {
+    color: white;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .process__content {
+    background-color: #141414;
+    border-radius: 10px;
+    padding: 30px;
+  }
+
+  .results__grid {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .result__item {
+    text-align: center;
+  }
+
+  .result__number {
+    font-size: 3rem;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+
+  .result__text {
+    font-size: 1.2rem;
+    color: white;
+  }
+
+  @media (max-width: 768px) {
+    .hero_banner {
+      height: 50vh;
+    }
+
+    .detail__panel,
+    .services__grid,
+    .challenges__grid,
+    .results__grid {
+      flex-direction: column;
+      grid-template-columns: 1fr;
+    }
+
+    .left_sec,
+    .right_sec,
+    .service__item,
+    .challenge__item,
+    .result__item {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .section__title,
+    .services__title {
+      font-size: 2rem;
+    }
+
+    .result__number {
+      font-size: 2.5rem;
+    }
+
+    .result__text {
+      font-size: 1rem;
+    }
+  }
+</style> -->
