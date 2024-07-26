@@ -32,7 +32,6 @@
                 <div class="card-image">
                   <img :src="step.image" alt="Logo" class="card-logo" />
                 </div>
-
                 <h2 class="text-white card-title mb-3 mt-3">
                   {{ step.title }}
                 </h2>
@@ -144,7 +143,6 @@ export default {
     handleScroll() {
       const currentScrollY = window.scrollY;
 
-
       if (currentScrollY < this.$refs.processContainer.offsetTop - 500) {
         this.resetSteps();
       }
@@ -170,6 +168,7 @@ export default {
 .strategic-process-container {
   background-color: #000000;
   padding: 50px 0;
+  padding-top: 100px;
 }
 
 .card-container {
@@ -219,9 +218,19 @@ p {
   object-fit: contain;
 }
 
-
 .scroll-target {
   height: 1px; /* Small target to trigger intersection observer */
   margin-bottom: 100px; /* Adjust margin to control scroll trigger frequency */
+}
+
+@media (max-width: 768px) {
+  .card {
+    position: static; /* Make cards static for mobile view */
+    margin-bottom: 20px; /* Add margin between cards */
+  }
+
+  .card-container {
+    position: static; /* Make card container static for mobile view */
+  }
 }
 </style>

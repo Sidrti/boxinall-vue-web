@@ -42,8 +42,8 @@ const routes = [
     component: WebDevelopmentServiceView,
   },
   {
-    path: "/process/mobile-app-development",
-    name: "mobile-service-description",
+    path: '/process/mobile-app-development-test',
+    name: 'mobile-service-description',
     component: MobileDevelopmentServiceView,
   },
   {
