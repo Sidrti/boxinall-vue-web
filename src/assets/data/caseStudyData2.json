@@ -1,23 +1,26 @@
 {
   "dating-application": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Creating a platform that is more than just an online dating application",
+    "heroctaText": "Case Study",
+    "title": "About uDates",
+    "description": "With the help of the online dating app uDates, users may find and connect with fascinating locals. It offers potential mates more than just a chatting platform by providing restaurant rewards and event information, if they'd like to meet.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Social Networking",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "UI/UX Design, Development",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "Dating Application",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -27,11 +30,10 @@
     ],
     "WebImg": "/image/pf3.png",
     "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "helptitle": "How We Helped Create a Unique Dating App Experience",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "Our client wanted the dating app to stand out from the competition. The typical experience with these apps is to swipe right and start a conversation, but the goal of uDates was to improve the process of making friends both online and offline.",
+      "We were tasked with creating a user interface (UI) for the dating app that distinguishes itself from the competition in terms of theme, look, feel, and functionality."
     ],
     "services": [
       {
@@ -45,53 +47,53 @@
         "items": ["Play Store publishing", "App Store publishing"]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Limited Client Vision",
+        "description": "Due to the client's limited vision, we worked with them to brainstorm and develop unique features that aren't typically present on dating apps."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Designing for a Specific Demographic",
+        "description": "The client had a specific idea for the designs because younger people and millennials were the intended demographic. We kept everything very contemporary and uncomplicated, adding line icons and components that improved the overall appearance."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Developing a Unique Dating App Experience",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "Beginning with industry trends in dating apps, our team of UI/UX designers identified features that consumers would be most at ease using. They described a number of features and functionalities that met industry standards, and they improved it further by incorporating a few fundamental UX characteristics.",
+        "We kept the design simple and clutter-free with only the most crucial information strategically positioned, and we offered the client a number of variations from which to choose.",
+        "We incorporated amusing features to make it visually appealing, using symbols and logos. The rewards and deals at restaurants and cafés if they met there were one of the app's most popular features."
       ]
     },
-
     "results": [
       { "number": "2M", "text": "Downloads" },
       { "number": "500k", "text": "New Users Acquired" }
     ]
   },
   "real-estate-website": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Real Estate Website for Dubai",
+    "heroctaText": "Case Study",
+    "title": "About the Real Estate Website",
+    "description": "This case study explores the development and implementation of a real estate website for Dubai, leveraging the power and flexibility of WordPress as the content management system. The project caters to the unique needs of the Dubai real estate market, focusing on user-friendly design and powerful functionality.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Real Estate",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "Website Development, WordPress Implementation",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "Real Estate Platform",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -99,73 +101,96 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
-    "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "WebImg": "/image/pf18.png",
+    "MobileImg": "/image/pf18.png",
+    "helptitle": "How We Developed a Comprehensive Real Estate Website for Dubai",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "The case study delves into the specific requirements and challenges faced in creating a user-friendly and visually appealing website that caters to the unique needs of the Dubai real estate market.",
+      "It analyzes the design and development process, search functionality, property listings management, localization, and integration with third-party services.",
+      "The study also highlights the outcomes and benefits of the WordPress-based solution, along with lessons learned and recommendations for future real estate website projects."
     ],
     "services": [
       {
-        "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "title": "Website Features",
+        "items": [
+          "Property Listings",
+          "Advanced Search Filters",
+          "Maps and Location Information",
+          "Real Estate Agent Profiles",
+          "Mobile Responsiveness"
+        ]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
       {
-        "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "title": "Challenges",
+        "items": [
+          "Market Research and Feature Identification",
+          "Responsive Design and Performance Optimization",
+          "Localization and Integration"
+        ]
+      },
+      {
+        "title": "Development",
+        "items": [
+          "Comprehensive Real Estate Platform",
+          "Downloads",
+          "New Users Acquired"
+        ]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Market Research and Feature Identification",
+        "description": "Conducting thorough research on user needs and preferences in the Dubai market, and identifying key features and functionalities for the website."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Responsive Design and Performance Optimization",
+        "description": "Incorporating responsive design principles for optimal user experience across devices, and implementing caching mechanisms and optimization techniques to enhance website speed."
+      },
+      {
+        "number": 3,
+        "title": "Localization and Integration",
+        "description": "Adapting the website to cater to a diverse audience in Dubai, and incorporating APIs and integrations with real estate data providers."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Developing a Comprehensive Real Estate Platform",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "We created a searchable and categorized database of property listings, allowing users to browse through available properties with detailed information and high-quality images.",
+        "Advanced search filters were implemented to help users find properties matching their specific requirements.",
+        "We integrated maps and geolocation services to help users visualize property locations and nearby amenities.",
+        "Real estate agent profiles were included to help users connect with professionals.",
+        "The website was optimized for mobile devices to ensure a seamless user experience across different screen sizes and platforms."
       ]
     },
-
     "results": [
       { "number": "2M", "text": "Downloads" },
       { "number": "500k", "text": "New Users Acquired" }
     ]
   },
   "doctor-appointment-application": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Doctor Appointment Application Design",
+    "heroctaText": "Case Study",
+    "title": "About the Doctor Appointment Application",
+    "description": "This case study presents the design process, features, and challenges involved in creating a doctor consulting mobile app using Figma. The project focuses on improving doctor-patient communication, providing convenient access to healthcare services, and enhancing the overall patient experience.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Healthcare",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "UI/UX Design, App Design",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "Healthcare Platform",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -173,73 +198,84 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
-    "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "WebImg": "/image/pf19.png",
+    "MobileImg": "/image/pf19.png",
+    "helptitle": "How We Designed a Comprehensive Doctor Appointment Application",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "The case study explores the iterative design process, key features of the app, and the challenges faced during the design phase.",
+      "It discusses how Figma facilitated collaboration among designers, developers, and stakeholders.",
+      "The study concludes by highlighting the positive outcomes and lessons learned from the project."
     ],
     "services": [
       {
-        "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "title": "App Features",
+        "items": [
+          "User Registration and Profile Creation",
+          "Search and Book Appointments",
+          "Secure Messaging and File Sharing",
+          "Real-time Video Consultations",
+          "E-Prescriptions and Medication Management",
+          "Appointment Reminders and Notifications"
+        ]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
       {
-        "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "title": "Challenges",
+        "items": ["Seamless User Experience", "Scalability and Performance"]
+      },
+      {
+        "title": "Development",
+        "items": [
+          "Designing a Comprehensive Healthcare Platform",
+          "Design Tools Used (Figma, Adobe, After Effects)"
+        ]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Seamless User Experience",
+        "description": "Providing a seamless and user-friendly experience is crucial to encourage patient engagement and adoption of the app. Designing an intuitive and easy-to-navigate interface, optimizing loading times, and ensuring smooth functionality across different devices and operating systems are key considerations."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Scalability and Performance",
+        "description": "As the user base grows, the app should be designed to handle increasing traffic and user demand. Scalability considerations should be taken into account during app development to ensure that the system can accommodate a growing number of concurrent users without compromising performance or user experience."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Designing a Comprehensive Healthcare Platform",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "We designed a user-friendly registration and profile creation system for patients to provide necessary information including medical history and insurance details.",
+        "A robust search and booking system was implemented, allowing patients to find doctors based on various criteria and book appointments easily.",
+        "We incorporated secure messaging and file sharing features to facilitate doctor-patient communication and medical information exchange.",
+        "Real-time video consultation capabilities were designed to enable face-to-face virtual appointments.",
+        "E-prescription and medication management features were included to streamline the prescription process and help patients manage their medications effectively.",
+        "An automated reminder and notification system was designed to keep patients informed about appointments, medications, and important health updates."
       ]
     },
-
     "results": [
       { "number": "2M", "text": "Downloads" },
       { "number": "500k", "text": "New Users Acquired" }
     ]
   },
   "event-management-app": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Revolutionizing Event Management with Mobile Technology",
+    "heroctaText": "Streamline Your Events",
+    "title": "About the Event Management App",
+    "description": "Our Event Management App is designed to simplify the process of planning, organizing, and executing events of all sizes.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Event Management",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "App Design, Development, and Deployment",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      { "label": "Business Type", "text": "B2B and B2C", "isLink": false },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -247,73 +283,72 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
-    "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "WebImg": "/image/pf10.png",
+    "MobileImg": "/image/pf8.png",
+    "helptitle": "How We Transformed Event Management with Our Innovative App",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "Event planning has always been a complex task. Our app aims to streamline this process, making it accessible to both professional event planners and individuals.",
+      "With the increasing reliance on mobile technology, we identified a gap in the market for a comprehensive event management solution.",
+      "Our goal was to create an all-in-one platform that covers every aspect of event planning and execution."
     ],
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "items": ["Market research", "Feature prioritization"]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
+      { "title": "Product Design", "items": ["UX/UI design", "Prototyping"] },
+      {
+        "title": "Development",
+        "items": ["iOS App", "Android App", "Web Portal"]
+      },
       {
         "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "items": ["App Store publishing", "Play Store publishing", "Web launch"]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Complex Feature Integration",
+        "description": "Integrating diverse features like ticketing, scheduling, and vendor management into a cohesive, user-friendly interface presented significant challenges."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Scalability and Performance",
+        "description": "Ensuring the app could handle events of various sizes, from small gatherings to large conferences, while maintaining performance was a key challenge."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Creating a Comprehensive Event Management Solution",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "Our team of experts worked on developing a robust, scalable application that could handle various aspects of event management.",
+        "We implemented features such as event creation, ticketing, attendee management, and real-time updates to create a comprehensive solution.",
+        "The app was designed with a user-friendly interface to cater to both professional event planners and individuals organizing personal events."
       ]
     },
-
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      { "number": "100k", "text": "Downloads in First Month" },
+      { "number": "500+", "text": "Events Managed Successfully" }
     ]
   },
   "travel-booking-system": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Revolutionizing Travel Bookings with Our Comprehensive Platform",
+    "heroctaText": "Explore the World",
+    "title": "About Our Travel Booking System",
+    "description": "Our travel booking system is a state-of-the-art platform designed to simplify the process of planning and booking trips for both leisure and business travelers.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Travel and Tourism",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "Web and Mobile App Development, API Integration",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      { "label": "Business Type", "text": "B2C and B2B", "isLink": false },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -321,73 +356,75 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
-    "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "WebImg": "/image/pf13.png",
+    "MobileImg": "/image/pf14.png",
+    "helptitle": "How We Transformed Travel Booking with Our Innovative System",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "The travel industry has been rapidly evolving, with customers seeking more convenient and comprehensive booking solutions.",
+      "Our system aims to provide a one-stop platform for all travel needs, from flights and hotels to car rentals and activities.",
+      "We set out to create a user-friendly interface that simplifies the booking process while offering competitive prices and a wide range of options."
     ],
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "items": ["Market analysis", "User journey mapping"]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
       {
-        "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "title": "Product Design",
+        "items": ["UX/UI design", "Responsive web design"]
+      },
+      {
+        "title": "Development",
+        "items": ["Web platform", "iOS App", "Android App"]
+      },
+      {
+        "title": "Integration",
+        "items": ["GDS integration", "Payment gateway integration"]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Real-time Data Management",
+        "description": "Ensuring up-to-date information on flights, hotel availability, and pricing from multiple sources was a significant challenge."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Complex Booking Processes",
+        "description": "Simplifying multi-leg journeys and package bookings while maintaining flexibility for users required innovative solutions."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Building a Robust and User-Friendly Travel Booking Platform",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "Our team developed a scalable architecture capable of handling high volumes of concurrent searches and bookings.",
+        "We implemented advanced search algorithms to provide fast and relevant results to users.",
+        "The platform was designed with a responsive interface to ensure a seamless experience across devices."
       ]
     },
-
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      { "number": "1M+", "text": "Monthly Active Users" },
+      { "number": "500k", "text": "Bookings in First Year" }
     ]
   },
   "Michelin-Tyre": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Driving Innovation in Tyre Management",
+    "heroctaText": "Optimize Your Fleet",
+    "title": "About Michelin Tyre Management System",
+    "description": "Our Michelin Tyre Management System is a cutting-edge solution designed to help fleet managers and individual vehicle owners optimize tyre performance and maintenance.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Automotive",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "IoT Integration, Mobile App Development, Data Analytics",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      { "label": "Business Type", "text": "B2B and B2C", "isLink": false },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -395,73 +432,78 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
-    "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "WebImg": "/image/pf32.png",
+    "MobileImg": "/image/pf92.jpg",
+    "helptitle": "How We Revolutionized Tyre Management for Michelin",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "Tyre management is crucial for vehicle safety and efficiency, yet it's often overlooked or managed inefficiently.",
+      "Our system combines IoT sensors, mobile technology, and data analytics to provide real-time insights into tyre conditions.",
+      "The goal was to create a user-friendly platform that helps extend tyre life, improve fuel efficiency, and enhance overall vehicle safety."
     ],
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "items": ["Requirements gathering", "System architecture design"]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
       {
-        "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "title": "Product Design",
+        "items": ["UX/UI design", "IoT sensor design"]
+      },
+      {
+        "title": "Development",
+        "items": ["Mobile app", "Web dashboard", "IoT firmware"]
+      },
+      {
+        "title": "Integration",
+        "items": [
+          "Data analytics implementation",
+          "Fleet management system integration"
+        ]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Real-time Data Processing",
+        "description": "Handling and processing large volumes of real-time data from multiple vehicles and tyres presented significant technical challenges."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Accurate Predictive Maintenance",
+        "description": "Developing algorithms for accurate predictive maintenance based on various factors like driving conditions, load, and tyre type required extensive research and testing."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Creating an Intelligent Tyre Management Ecosystem",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "We developed a robust IoT platform that collects and processes data from tyre sensors in real-time.",
+        "The mobile app and web dashboard were designed to provide easy-to-understand insights and actionable recommendations.",
+        "We implemented machine learning algorithms to enable predictive maintenance and performance optimization."
       ]
     },
-
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      { "number": "20%", "text": "Increase in Tyre Lifespan" },
+      { "number": "15%", "text": "Improvement in Fuel Efficiency" }
     ]
   },
   "98degreenorth": {
-    "herotitle": "Expanding Adidas Mobile Presence Globally",
-    "heroctaText": "Expand Your Business",
-    "title": "About Adidas",
-    "description": "Adidas is one of the largest sports merchandise brands across the globe. Starting from sportswear apparel to footwear, accessories and equipment, Adidas has a broad and diverse product portfolio.",
+    "herotitle": "Empowering Arctic Expeditions with Cutting-Edge Technology",
+    "heroctaText": "Explore the Extreme",
+    "title": "About 98 Degree North Expedition Platform",
+    "description": "98 Degree North is an innovative platform designed to support and enhance Arctic expeditions, providing crucial tools for navigation, safety, and environmental monitoring in extreme conditions.",
     "details": [
       {
         "label": "Industry",
-        "text": "eCommerce",
-        "value": "https://appinventiv.com/ecommerce-app-development/",
+        "text": "Arctic Exploration",
         "isLink": false,
         "isColored": true
       },
       {
         "label": "Services",
-        "text": "Design, Development, and Deployment",
+        "text": "GPS Integration, Satellite Communication, Environmental Monitoring",
         "isLink": false
       },
-      { "label": "Business Type", "text": "Franchise", "isLink": false },
+      { "label": "Business Type", "text": "B2B", "isLink": false },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -469,52 +511,66 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
-    "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Adidas Reach a New and Massive User Base in Saudi Arabia & Qatar",
+    "WebImg": "/image/98.png",
+    "MobileImg": "/image/pf93.jpg",
+    "helptitle": "How We Revolutionized Arctic Expeditions with 98 Degree North",
     "helpdescription": [
-      "Adidas is a world-renowned brand. But by limiting itself to a website in many countries, it was not living up to its potential in terms of user acquisition. For a brand that is majorly driven by millennials, Adidas was keeping them deprived of having a convenient, hassle-free shopping experience on mobile.",
-      "With mobile devices becoming the first point of purchase for users, being absent from creating a smartphone presence is something that businesses cannot afford. The same rule applied to Adidas too.",
-      "It was time to expand the web-centric brand to mobile through a dedicated application."
+      "Arctic exploration presents unique challenges due to extreme weather conditions and remote locations.",
+      "Our platform integrates advanced GPS technology, satellite communication, and environmental sensors to ensure explorer safety and facilitate scientific research.",
+      "The goal was to create a reliable, user-friendly system that works effectively in the harshest Arctic conditions."
     ],
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "items": [
+          "Expedition needs analysis",
+          "Extreme condition system design"
+        ]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
       {
-        "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "title": "Product Design",
+        "items": ["Rugged hardware design", "Intuitive UI/UX"]
+      },
+      {
+        "title": "Development",
+        "items": [
+          "Mobile app",
+          "Satellite communication system",
+          "Environmental sensors"
+        ]
+      },
+      {
+        "title": "Integration",
+        "items": [
+          "GPS integration",
+          "Weather data integration",
+          "Emergency response system"
+        ]
       }
     ],
-
     "challenges": [
       {
         "number": 1,
-        "title": "Abiding By The Brand's Design System",
-        "description": "Since Adidas is an established name in the retail market, it was important that its extension - irrespective of the platform - abided by its design system. Our team of designers ensured that their logo, color codes, and branding guidelines remained intact during the entire design process."
+        "title": "Extreme Weather Resilience",
+        "description": "Developing hardware and software that can withstand and function reliably in extreme Arctic conditions was a significant challenge."
       },
       {
         "number": 2,
-        "title": "Multi-Lingual & Multi-Currency Support",
-        "description": "The application was ideated to have a multi-region launch. We used our localization skillset to ensure that the app would be accepted across the different locations of the Middle East both in terms of content and products. Our team also worked on multiple currency integration to make sure that the app would be used across a number of geographies."
+        "title": "Remote Data Transmission",
+        "description": "Ensuring consistent and reliable data transmission in areas with limited or no traditional connectivity required innovative solutions."
       }
     ],
-
     "development": {
-      "subtitle": "Developing Mobile Shopping Experience for Middle Eastern Audience",
+      "subtitle": "Building a Robust Arctic Expedition Support System",
       "description": [
-        "Our team of eCommerce experts worked on the end-to-end creation of the Adidas application. We used industry-loved technologies and frameworks (like Algolia, MoEngage, etc.) across native Android and iOS and backend to build an engaging shopping experience for the brand's Middle Eastern users.",
-        "To make the experience immersive, we implemented a strategic cache management system for faster application performance and elimination of redundancy. Push notification on the other hand increased the app engagement and conversion rate.",
-        "On the frontend front, we added complex animations and video components on the main landing page, to give the application a YouTube-like engaging feel. Every frontend effort we made was directed towards bettering the application quality."
+        "We developed ruggedized hardware capable of withstanding extreme cold and harsh conditions.",
+        "The software was designed with a focus on reliability and ease of use, even with gloved hands.",
+        "We implemented advanced satellite communication systems to ensure constant connectivity and data transmission."
       ]
     },
-
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      { "number": "100%", "text": "Success Rate in Test Expeditions" },
+      { "number": "30%", "text": "Increase in Data Collection Efficiency" }
     ]
   }
 }

@@ -1,0 +1,69 @@
+[
+  { "label": "Higher Orders", "value": 50, "suffix": "%", "animatedValue": 0 },
+  {
+    "label": "Play/App Store Rating",
+    "value": 4.7,
+    "suffix": "",
+    "animatedValue": 0
+  },
+  {
+    "label": "Higher Conversion Rate",
+    "value": 30,
+    "suffix": "%",
+    "animatedValue": 0
+  },
+  {
+    "label": "Mobile App Downloads",
+    "value": 50,
+    "suffix": "K+",
+    "animatedValue": 0
+  },
+  {
+    "label": "Raised in Funding",
+    "value": 52,
+    "suffix": " M",
+    "animatedValue": 0
+  },
+  {
+    "label": "Mobile App Downloads",
+    "value": 2,
+    "suffix": " M+",
+    "animatedValue": 0
+  },
+  {
+    "label": "Million Active Users",
+    "value": 2.6,
+    "suffix": "",
+    "animatedValue": 0
+  },
+  {
+    "label": "Website Traffic",
+    "value": 997,
+    "suffix": "K+",
+    "animatedValue": 0
+  },
+  {
+    "label": "IKEA Stores Deployed the Solution",
+    "value": 7,
+    "suffix": "+",
+    "animatedValue": 0
+  },
+  {
+    "label": "Solution Touted as the Biggest Source of RoI Measurement",
+    "value": 1,
+    "suffix": "",
+    "animatedValue": 0
+  },
+  {
+    "label": "iOS App Downloads",
+    "value": 3,
+    "suffix": " M+",
+    "animatedValue": 0
+  },
+  {
+    "label": "Android App Downloads",
+    "value": 1,
+    "suffix": " M+",
+    "animatedValue": 0
+  }
+]
