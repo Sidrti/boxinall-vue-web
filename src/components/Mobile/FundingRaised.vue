@@ -16,11 +16,18 @@
             </button>
           </div>
           <!-- Right Section -->
-          <div class="col-md-6">
+          <div class="col-md-6 d-none d-md-block">
             <img
               :src="fundingImage"
               alt="Funding Image"
               class="funding-image"
+            />
+          </div>
+          <div class="col-12 d-md-none">
+            <img
+              :src="fundingImage"
+              alt="Funding Image"
+              class="funding-image-mobile"
             />
           </div>
         </div>
@@ -90,9 +97,38 @@
     margin-left: 15px;
   }
 
-  .funding-image {
+  .funding-image, .funding-image-mobile {
     width: 100%;
     height: auto;
     object-fit: cover;
+  }
+
+  /* Media Query for Mobile Devices */
+  @media (max-width: 767px) {
+    .funding-heading {
+      font-size: 26px; /* Adjust font size for mobile */
+    }
+
+    .funding-subheading {
+      font-size: 18px; /* Adjust font size for mobile */
+    }
+
+    .funding-button {
+      padding: 8px 15px; /* Adjust padding for mobile */
+      font-size: 14px; /* Adjust font size for mobile */
+      margin-bottom: 10px;
+    }
+
+    .arrow {
+      margin-left: 5px; /* Adjust arrow margin for mobile */
+    }
+
+    .d-md-block {
+      display: none; /* Hide the image section on mobile */
+    }
+
+    .d-md-none {
+      display: block; /* Show the image section on mobile */
+    }
   }
   </style>

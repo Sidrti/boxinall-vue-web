@@ -13,7 +13,7 @@
           navigate the ever-evolving mobile landscape and seize the opportunities
           that guarantee maximum ROI.
         </h5>
-        <!-- card no  05 - 08 -->
+        <!-- card no 05 - 08 -->
         <div class="row justify-content-center">
           <!-- Loop through industryData array to generate cards -->
           <div
@@ -30,7 +30,7 @@
               <h2 class="text-white card-title mb-4" style="opacity: 0.9">
                 {{ industry.name }}
               </h2>
-              <p class="text-white card-text" v-html="industry.description">
+              <p class="text-white card-text text-description" v-html="industry.description">
                 <!-- Using v-html to render HTML content -->
               </p>
             </div>
@@ -78,6 +78,7 @@
     background-color: black;
     padding-top: 100px;
   }
+
   .card {
     transition: transform 0.3s; /* Smooth transform transition */
     height: 600px; /* Fixed height for all cards */
@@ -88,8 +89,6 @@
     background-color: black; /* Ensures default background is transparent */
   }
 
-
-
   .card-image {
     width: 80px;
     height: 80px;
@@ -99,6 +98,7 @@
     border-radius: 10px;
     transition: background-color 0.3s; /* Smooth transition for background color change */
   }
+
   .card:hover .card-image {
     background-color: rgba(0, 0, 0, 0.094); /* Background color change on hover */
   }
@@ -112,10 +112,12 @@
     height: 100%;
     object-fit: contain;
   }
+
   .card-title {
     font-size: 30px;
     line-height: 1.2;
   }
+
   .card-title,
   .card-text {
     color: white; /* Ensures text color changes with background */
@@ -127,8 +129,29 @@
   }
 
   .text-title {
-    font-size: 40px; /* Increase font size */
+    font-size: 40px; /* Default font size for larger screens */
     line-height: 1.2; /* Adjust line height for space between lines */
     color: white;
+  }
+
+  /* Media Query for Mobile Devices */
+  @media (max-width: 767px) {
+    .text-title {
+      font-size: 26px; /* Smaller font size for mobile */
+    }
+    .text-description{
+        font-size: 16px !important;
+    }
+    .card-title {
+      font-size: 20px; /* Smaller font size for card titles on mobile */
+    }
+
+    .card-text {
+      font-size: 14px; /* Smaller font size for card text on mobile */
+    }
+
+    .card {
+      height: auto; /* Remove fixed height for cards on mobile */
+    }
   }
   </style>

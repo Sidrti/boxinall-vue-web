@@ -3,7 +3,9 @@
       <ServiceBanner :data="serviceData"></ServiceBanner>
       <!-- <PartnerCard></PartnerCard> -->
       <DevelopmentMode></DevelopmentMode>
-      <StrategicProcess></StrategicProcess>
+
+      <StrategicProcessMobile v-if="isMobile"></StrategicProcessMobile>
+      <StrategicProcessWeb v-else></StrategicProcessWeb>
       <CompanyStats></CompanyStats>
 
       <!-- Conditional Rendering based on Device Type -->
@@ -29,12 +31,13 @@
   import CompanyStats from '@/components/Mobile/CompanyStats.vue';
   import AIFeatures from '@/components/Mobile/AIFeatures.vue';
   import WebPortfolio from '@/components/Mobile/WebPortfolio.vue';
-  import StrategicProcess from '../../components/Mobile/StrategicProcess.vue'
+  import StrategicProcessWeb from '../../components/Mobile/StrategicProcessWeb.vue'
   import MarketFuture from '../../components/Mobile/MarketFuture.vue';
   import ToolsAndFramework from '../../components/Mobile/ToolsAndFramework'
   import AchievementsSlider from '../../components/AchievementsSlider.vue'
   import FundingRaised from '../../components/Mobile/FundingRaised.vue'
   import OurService from '../../components/Mobile/OurService.vue'
+  import StrategicProcessMobile from '../../components/Mobile/StrategicProcessMobile.vue'
 
   export default {
     name: 'WebDevelopmentServiceView',
@@ -46,7 +49,8 @@
       CompanyStats,
       AIFeatures,
       WebPortfolio,
-      StrategicProcess,
+      StrategicProcessWeb,
+      StrategicProcessMobile,
       MarketFuture,
       ToolsAndFramework,
       AchievementsSlider,
@@ -93,4 +97,4 @@
     background-color: white;
     color: black; /* Adjusted text color to be visible on white background */
   }
-  </style>
+  </style>../../components/Mobile/StrategicProcessWeb.vue

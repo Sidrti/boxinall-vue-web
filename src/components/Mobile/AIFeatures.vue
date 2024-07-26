@@ -3,7 +3,7 @@
 
 
   <div class="container">
-    <h1 class="text-black text-start mb-4">
+    <h1 class="text-black heading-title text-start mb-4">
       Leveraging Emerging Technologies to Enhance Your Digital Journey and Drive
       Increased Value
     </h1>
@@ -143,5 +143,12 @@ export default {
 
 .card-title{
   font-size: 25px;
+}
+
+@media (max-width: 768px) {
+  .heading-title {
+    font-size: 26px; /* Smaller font size for mobile */
+  }
+
 }
 </style>
