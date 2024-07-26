@@ -6,7 +6,7 @@
         <h1 class="text-white text-title">
           Crafting Unique and Tailored Mobile Solutions for a Spectrum of Industries
         </h1>
-        <h5 class="text-white" style="opacity: 0.9; margin-top: 20px;">
+        <h5 class="text-white description">
           As a leading mobile app development services firm, we excel in offering
           custom solutions for various industries, ensuring great versatility and
           the ability to cater to diverse business needs and requirements.
@@ -104,36 +104,40 @@ export default {
 }
 
 .text-title {
-  font-size: 50px;
+  font-size: 2.5rem; /* Adjusted for mobile */
   line-height: 1.2;
   color: white;
+}
+
+.description {
+  font-size: 1.125rem; /* Adjusted for mobile */
+  opacity: 0.9;
+  margin-top: 20px;
 }
 
 .card {
   background-color: transparent;
   color: white;
-  border: none; /* No border on the card itself */
-  border-radius: 0; /* No rounded corners for the card */
-  padding: 40px;
-  height: 100%; /* Ensures full height for the card */
+  border: none;
+  border-radius: 0;
+  padding: 20px; /* Adjusted for mobile */
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-/* Container for image and text */
 .card-content {
   display: flex;
-  flex-direction: column; /* Stack items vertically */
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
-/* Styling for the card image */
 .card-image {
-  width: 40px;
-  height: 40px;
-  margin-bottom: 15px; /* Space between image and text */
+  width: 60px; /* Adjusted for mobile */
+  height: 60px; /* Adjusted for mobile */
+  margin-bottom: 10px;
   background-color: #1c1c1c;
   padding: 10px;
   border-radius: 5px;
@@ -145,21 +149,18 @@ export default {
   object-fit: contain;
 }
 
-/* Ensure the title within the card is centered */
 .industry-title {
-  font-size: 1.2rem;
+  font-size: 1rem; /* Adjusted for mobile */
   font-weight: 400;
   color: white;
 }
 
-/* Column styles with border */
 .industry-column {
-  border-right: 0.5px solid grey; /* Right border for separation */
-  border-bottom: 0.5px solid grey; /* Bottom border for separation */
-  padding: 0; /* Remove padding inside the column */
+  border-right: 0.5px solid grey;
+  border-bottom: 0.5px solid grey;
+  padding: 0;
 }
 
-/* Ensure no margin or border on the outer sides of the container */
 .row {
   margin-left: 0;
   margin-right: 0;
@@ -187,7 +188,6 @@ export default {
   max-width: 50%;
 }
 
-/* Ensure no extra space for the last column in each row */
 .industry-column:last-of-type {
   border-right: none;
 }
@@ -197,14 +197,26 @@ export default {
 }
 
 @media (max-width: 768px) {
-  .col-md-4 {
-    flex: 0 0 50%;
-    max-width: 50%;
+  .text-title {
+    font-size: 26px; /* Adjusted for mobile */
   }
 
-  .industry-column {
-    border-right: 0.5px solid grey; /* Right border for separation */
-    border-bottom: 0.5px solid grey; /* Bottom border for separation */
+  .description {
+    font-size: 1rem; /* Adjusted for mobile */
+  }
+
+  .card {
+    padding: 10px; /* Adjusted for mobile */
+  }
+
+  .card-image {
+    width: 50px; /* Adjusted for mobile */
+    height: 50px; /* Adjusted for mobile */
+    margin-bottom: 8px; /* Adjusted for mobile */
+  }
+
+  .industry-title {
+    font-size: 0.9rem; /* Adjusted for mobile */
   }
 
   .industry-column:nth-child(2n) {
@@ -213,10 +225,6 @@ export default {
 
   .industry-column:last-child {
     border-bottom: none; /* No bottom border for the last column */
-  }
-
-  .industry-column:nth-child(2n+1):last-of-type {
-    border-right: none; /* No right border for last odd column */
   }
 }
 </style>

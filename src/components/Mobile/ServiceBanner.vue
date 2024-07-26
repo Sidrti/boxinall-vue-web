@@ -22,19 +22,31 @@ export default {
 
 <style scoped>
 .breadcrumb-areav2 {
-    color: white; /* Set text color to white */
-    padding: 80px 0; /* Example padding, adjust as needed */
+  color: white; /* Set text color to white */
+  padding: 80px 0; /* Example padding, adjust as needed */
 }
 
 .title-text {
-    font-size: 80px; /* Increase font size */
-    line-height: 1.2; /* Adjust line height for space between lines */
-    color: white;
+  font-size: 80px; /* Default font size for larger screens */
+  line-height: 1.2; /* Adjust line height for space between lines */
+  color: white;
 }
 
-.sub-head{
-    font-size: 24px;
-    color: white;
-    font-weight: 400;
+.sub-head {
+  font-size: 24px; /* Default font size for larger screens */
+  color: white;
+  font-weight: 400;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
+  .title-text {
+    font-size: 40px; /* Smaller font size for mobile */
+  }
+
+  .sub-head {
+    font-size: 18px; /* Smaller font size for mobile */
+  }
 }
 </style>
+

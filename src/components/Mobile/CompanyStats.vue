@@ -1,21 +1,21 @@
 <template>
     <div class="main">
-    <div class="container  stats-container">
-      <div class="row justify-content-center">
-        <div v-for="stat in stats" :key="stat.id" class="col-lg-3 col-md-4 mb-4">
-          <div class="stat-card p-4 text-center">
-            <h1 class="stat-number">{{ stat.number }}</h1>
-            <p class="stat-title">{{ stat.title }}</p>
+      <div class="container stats-container">
+        <div class="row justify-content-center">
+          <div v-for="stat in stats" :key="stat.id" class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <div class="stat-card p-4 text-center">
+              <h1 class="stat-number">{{ stat.number }}</h1>
+              <p class="stat-title">{{ stat.title }}</p>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="text-center mt-4">
-        <button class="btn discuss-button">
-          Discuss Your Business Requirement <span class="arrow-right">&#10132;</span>
-        </button>
+        <div class="text-center mt-4">
+          <button class="btn discuss-button">
+            Discuss Your Business Requirement <span class="arrow-right">&#10132;</span>
+          </button>
+        </div>
       </div>
     </div>
-</div>
   </template>
 
   <script>
@@ -51,9 +51,10 @@
   </script>
 
   <style scoped>
-  .main{
+  .main {
     background-color: black;
   }
+
   .stats-container {
     border: 0.5px solid grey;
     border-radius: 10px;
@@ -81,7 +82,6 @@
     opacity: 0.9;
     color: white;
     margin-top: 10px;
-
   }
 
   .discuss-button {
@@ -121,6 +121,35 @@
     }
     75% {
       transform: translateX(2px);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .stat-card {
+      padding: 15px;
+    }
+
+    .stat-number {
+      font-size: 2.5rem;
+    }
+
+    .stat-title {
+      font-size: 1rem;
+    }
+
+    .discuss-button {
+      font-size: 1rem;
+      padding: 8px 16px;
+    }
+
+    .arrow-right {
+      font-size: 1.2rem;
+    }
+
+    /* Two columns on mobile */
+    .col-sm-6 {
+      flex: 0 0 50%;
+      max-width: 50%;
     }
   }
   </style>

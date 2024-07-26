@@ -10,57 +10,55 @@
         </div>
 
         <!-- Slider -->
-         <div class="container" style="padding-inline: 100px;">
-
-
-        <VueOwlCarousel
-          class="badge-slider mt-5"
-          :autoplay="true"
-          :nav="false"
-          :loop="true"
-          :items="3"
-          :autoplaySpeed="2000"
-          :dots="false"
-          :autoplayTimeout="1900"
-        >
-          <div class="img-badge">
-            <a href="#">
-              <img
-                src="../assets/images/icons/clutch.png"
-                alt="Clutch"
-                class="img100w"
-              />
-            </a>
-          </div>
-          <div class="img-badge">
-            <a href="#">
-              <img
-                src="../assets/images/icons/mobile.png"
-                alt="Mobile"
-                class="img100w"
-              />
-            </a>
-          </div>
-          <div class="img-badge">
-            <a href="#">
-              <img
-                src="../assets/images/icons/business-of-apps.png"
-                alt="Business of Apps"
-                class="img100w"
-              />
-            </a>
-          </div>
-          <div class="img-badge">
-            <a href="#">
-              <img
-                src="../assets/images/icons/goodfirms.png"
-                alt="GoodFirms"
-                class="img100w"
-              />
-            </a>
-          </div>
-        </VueOwlCarousel>
-    </div>
+        <div class="container badge-slider-container">
+          <VueOwlCarousel
+            class="badge-slider mt-5"
+            :autoplay="true"
+            :nav="false"
+            :loop="true"
+            :items="3"
+            :autoplaySpeed="2000"
+            :dots="false"
+            :autoplayTimeout="1900"
+          >
+            <div class="img-badge">
+              <a href="#">
+                <img
+                  src="../assets/images/icons/clutch.png"
+                  alt="Clutch"
+                  class="img100w"
+                />
+              </a>
+            </div>
+            <div class="img-badge">
+              <a href="#">
+                <img
+                  src="../assets/images/icons/mobile.png"
+                  alt="Mobile"
+                  class="img100w"
+                />
+              </a>
+            </div>
+            <div class="img-badge">
+              <a href="#">
+                <img
+                  src="../assets/images/icons/business-of-apps.png"
+                  alt="Business of Apps"
+                  class="img100w"
+                />
+              </a>
+            </div>
+            <div class="img-badge">
+              <a href="#">
+                <img
+                  src="../assets/images/icons/goodfirms.png"
+                  alt="GoodFirms"
+                  class="img100w"
+                />
+              </a>
+            </div>
+          </VueOwlCarousel>
+        </div>
       </div>
     </div>
   </template>
@@ -81,6 +79,7 @@
     background-color: white;
     margin-bottom: 100px;
   }
+
   .badge-section {
     padding: 20px;
     border-radius: 10px;
@@ -90,6 +89,10 @@
     font-size: 45px;
     color: #333;
     padding-inline: 30px;
+  }
+
+  .badge-slider-container {
+    padding-inline: 100px;
   }
 
   .badge-slider .img-badge {
@@ -109,9 +112,25 @@
     height: auto;
   }
 
+  /* Mobile styles */
   @media (max-width: 768px) {
-    .badge-slider {
-      padding: 10px;
+    .heading-title {
+      font-size: 26px; /* Smaller font size for mobile */
+      line-height: 1.2;
+      padding-inline: 10px; /* Less padding on mobile */
+    }
+
+    .badge-slider-container {
+      padding-inline: 10px; /* Less padding for the slider container on mobile */
+    }
+
+    .badge-slider .img-badge {
+      border-right: 1px solid black; /* Thinner border for mobile */
+      padding-right: 5px; /* Less space between the image and the line */
+    }
+
+    .img100w {
+      max-width: 80%; /* Limit the width of the images on mobile */
     }
   }
   </style>
