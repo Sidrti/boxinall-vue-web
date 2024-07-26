@@ -1,94 +1,97 @@
 [
-    {
-        "index":1,
-        "title":"UDates- Dating & Chat",
-        "stack":["Mobile App","Android","iOS"],
-        "primaryWebImg":"/image/pf3.png",
-        "primaryMobileImg":"/image/pf1.png",
-        
-        "description":["React Native","React","PHP","MySQL"],
-        "pageVisibleInUrl":"*",
-        "bgClass":"bg-gradient1",
-        "to":"/case-study/dating-application",
-        "link":"https://play.google.com/store/apps/details?id=com.app.udates&hl=en"
-    },
-    {
-        "index":2,
-        "title":"Doctor Appointment Design",
-        "stack":["Design","Figma","UI","UX"],
-        "primaryWebImg":"/image/pf5.png",
-        "primaryMobileImg":"/image/pf4.png",
-       
-        "description":["Product Strategy","Branding Design","Product UI Design","Design System"],
-        "pageVisibleInUrl":"*",
-        "bgClass":"bg-gradient2",
-        "to":"/case-study/doctor-appointment-application",
-        "link":"https://www.figma.com/design/GrvBMZDMscP3AThHJEXWSL/Sakhee-Copy?node-id=0-1&t=fmBdOmst0J0IHHLB-0"
-    },
-    {
-        "index":3,
-        "title":"Real-Estate-Website",
-        "stack":["Design","Wordpress"],
-        "primaryWebImg":"/image/pf6.png",
-        "primaryMobileImg":"/image/pf7.png",
-       
-        "description":["HTML","MySQL","Wordpress"],
-        "pageVisibleInUrl":"*",
-        "bgClass":"bg-gradient3",
-        "to":"/case-study/real-estate-website",
-        "link":"https://aitsquare.com/"
-    },
-    {
-        "index":3,
-        "title":"Event Management App",
-        "stack":["Figma","UI/UX"],
-        "primaryWebImg":"/image/pf10.png",
-        "primaryMobileImg":"/image/pf8.png",
-       
-        "description":["HTML","MySQL","Wordpress"],
-        "pageVisibleInUrl":"/portfolio",
-        "bgClass":"bg-gradientevent",
-        "to":"/case-study/event-management-aPP",
-        "link":"https://www.figma.com/design/vAo6ZzBjRSOM8D6PkzPf5G?fuid=1013042852031927202&prev-plan-id=1303336793008847953&prev-plan-type=team&prev-selected-view=recentsAndSharing&prev-tab=recently-viewed"
-    },
-    {
-        "index":3,
-        "title":"Travel Flight Booking Website.",
-        "stack":["Website","PHP"],
-        "primaryWebImg":"/image/pf13.png",
-        "primaryMobileImg":"/image/pf14.png",
-        
-        "description":["HTML","MySQL","Wordpress"],
-        "pageVisibleInUrl":"/portfolio",
-        "bgClass":"bg-gradientbigvalue",
-        "to":"/case-study/travel-booking-system",
-        "link":"https://www.bigvaluetravels.com/"
-    },
-    {
-        "index":3,
-        "title":"98degreenorth",
-        "stack":["Website","Mobile app"],
-        "primaryWebImg":"/image/98.png",
-        "primaryMobileImg":"/image/pf93.jpg",
-        
-        "description":["PHP","MySQL","vue.js"],
-        "pageVisibleInUrl":"/portfolio",
-        "bgClass":"bg-gradientbigvalue",
-        "to":"/case-study/98degreenorth",
-        "link":"https://98degreenorth.com/"
-    },
-    {
-        "index":3,
-        "title":"Michelin Tyre",
-        "stack":["Website","Mobile app"],
-        "primaryWebImg":"/image/pf32.png",
-        "primaryMobileImg":"/image/pf92.jpg",
-        
-        "description":["PHP","MySQL","vue.js"],
-        "pageVisibleInUrl":"/portfolio",
-        "bgClass":"bg-gradientbigvalue",
-        "to":"/case-study/Michelin-Tyre",
-        "link":"https://indus.swagat.michelin.in/account/login?returnUrl=%2F"
-    }
-    
+  {
+    "index": 1,
+    "title": "UDates- Dating & Chat",
+    "stack": ["Mobile App", "Android", "iOS"],
+    "primaryWebImg": "/image/pf3.png",
+    "primaryMobileImg": "/image/pf1.png",
+
+    "description": ["React Native", "React", "PHP", "MySQL"],
+    "pageVisibleInUrl": "*",
+    "bgClass": "bg-gradient1",
+    "to": "/case-study/dating-application",
+    "link": "https://play.google.com/store/apps/details?id=com.app.udates&hl=en"
+  },
+  {
+    "index": 2,
+    "title": "Doctor Appointment Design",
+    "stack": ["Design", "Figma", "UI", "UX"],
+    "primaryWebImg": "/image/pf5.png",
+    "primaryMobileImg": "/image/pf4.png",
+    "description": [
+      "Product Strategy",
+      "Branding Design",
+      "Product UI Design",
+      "Design System"
+    ],
+    "pageVisibleInUrl": "*",
+    "bgClass": "bg-gradient2",
+    "to": "/case-study/doctor-appointment-application",
+    "link": "https://www.figma.com/design/GrvBMZDMscP3AThHJEXWSL/Sakhee-Copy?node-id=0-1&t=fmBdOmst0J0IHHLB-0"
+  },
+  {
+    "index": 3,
+    "title": "Real-Estate-Website",
+    "stack": ["Design", "Wordpress"],
+    "primaryWebImg": "/image/pf6.png",
+    "primaryMobileImg": "/image/pf7.png",
+
+    "description": ["HTML", "MySQL", "Wordpress"],
+    "pageVisibleInUrl": "*",
+    "bgClass": "bg-gradient3",
+    "to": "/case-study/real-estate-website",
+    "link": "https://aitsquare.com/"
+  },
+  {
+    "index": 3,
+    "title": "Event Management App",
+    "stack": ["Figma", "UI/UX"],
+    "primaryWebImg": "/image/pf10.png",
+    "primaryMobileImg": "/image/pf8.png",
+
+    "description": ["HTML", "MySQL", "Wordpress"],
+    "pageVisibleInUrl": "/portfolio",
+    "bgClass": "bg-gradientevent",
+    "to": "/case-study/event-management-aPP",
+    "link": "https://www.figma.com/design/vAo6ZzBjRSOM8D6PkzPf5G?fuid=1013042852031927202&prev-plan-id=1303336793008847953&prev-plan-type=team&prev-selected-view=recentsAndSharing&prev-tab=recently-viewed"
+  },
+  {
+    "index": 3,
+    "title": "Travel Flight Booking Website.",
+    "stack": ["Website", "PHP"],
+    "primaryWebImg": "/image/pf13.png",
+    "primaryMobileImg": "/image/pf14.png",
+
+    "description": ["HTML", "MySQL", "Wordpress"],
+    "pageVisibleInUrl": "/portfolio",
+    "bgClass": "bg-gradientbigvalue",
+    "to": "/case-study/travel-booking-system",
+    "link": "https://www.bigvaluetravels.com/"
+  },
+  {
+    "index": 3,
+    "title": "98degreenorth",
+    "stack": ["Website", "Mobile app"],
+    "primaryWebImg": "/image/98.png",
+    "primaryMobileImg": "/image/pf93.jpg",
+
+    "description": ["PHP", "MySQL", "vue.js"],
+    "pageVisibleInUrl": "/portfolio",
+    "bgClass": "bg-gradientbigvalue",
+    "to": "/case-study/98degreenorth",
+    "link": "https://98degreenorth.com/"
+  },
+  {
+    "index": 3,
+    "title": "Michelin Tyre",
+    "stack": ["Website", "Mobile app"],
+    "primaryWebImg": "/image/pf32.png",
+    "primaryMobileImg": "/image/pf92.jpg",
+
+    "description": ["PHP", "MySQL", "vue.js"],
+    "pageVisibleInUrl": "/portfolio",
+    "bgClass": "bg-gradientbigvalue",
+    "to": "/case-study/Michelin-Tyre",
+    "link": "https://indus.swagat.michelin.in/account/login?returnUrl=%2F"
+  }
 ]
