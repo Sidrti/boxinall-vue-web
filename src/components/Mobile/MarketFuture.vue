@@ -62,7 +62,8 @@
 
   .subhead {
     color: black;
-    font-size: 1rem; /* Adjusted font size for mobile */
+    font-size: 18px; /* Adjusted font size for mobile */
+    margin-top: 10px;
   }
 
   .discuss-button {
