@@ -16,7 +16,7 @@
         <!-- Content Layout -->
         <div class="row align-items-center">
           <!-- Left Section with List Points -->
-          <div class="col-md-4 col-12">
+          <div class="col-md-3">
             <ul class="service-list">
               <li
                 v-for="(service, index) in services"
@@ -32,7 +32,7 @@
           </div>
 
           <!-- Center Section with Image -->
-          <div class="col-md-4 col-12 text-center image-card">
+          <div class="col-md-5 text-center image-card">
             <img
               :src="services[selectedServiceIndex].image"
               alt="Service Image"
@@ -41,7 +41,7 @@
           </div>
 
           <!-- Right Section with Content -->
-          <div class="col-md-4 col-12">
+          <div class="col-md-4">
             <div class="service-content">
               <p v-html="services[selectedServiceIndex].description"></p>
             </div>
@@ -69,7 +69,7 @@
             description: 'Custom mobile apps developed for our client base witness an exceptional average rating of 4.5/5 at both the Google Play Store and App Store. The positive feedback and excellent ratings for our app’s performance, features, and overall UX are a testimony to the level of perfection we achieve for our clients’ projects.',
           },
           {
-            title: "Adavance Technical Expertise",
+            title: "Advance Technical Expertise",
             image: require("@/assets/images/ourservice/young-business-team.png"),
             description: 'Our skilled team is highly proficient in an extensive array of technologies, encompassing <span style="color: #007bff;">Business Intelligence</span>, <span style="color: #007bff;">Big Data Analytics</span>, <span style="color: #007bff;">Artificial Intelligence</span>, <span style="color: #007bff;">Cloud Computing</span>, <span style="color: #007bff;">IoT</span>, and more. Each member of our team contributes a distinct skill set and valuable experience in offering custom mobile apps services to our client base.',
           },
@@ -93,7 +93,7 @@
           const listItems = this.$refs.listItem;
           listItems.forEach((item, index) => {
             if (index > 0) {
-              item.style.marginTop = '20px'; // Adjusted for smaller screens
+              item.style.marginTop = '40px';
             }
           });
         });
@@ -102,112 +102,104 @@
   };
   </script>
 
-  <style scoped>
-  .our-service {
-    padding: 100px 0;
-    background-image: url('@/assets/images/testimonial-bg-img.png'); /* Replace with your background image path */
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    color: white;
+<style scoped>
+.our-service {
+  padding: 100px 0;
+  background-image: url('@/assets/images/testimonial-bg-img.png'); /* Replace with your background image path */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+
+.main-heading {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  color: white;
+}
+
+.subheading {
+  font-size: 22px;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #ddd;
+  font-weight: 400;
+}
+
+.service-list {
+  list-style: none;
+  padding: 0;
+  color: white;
+}
+
+.service-list li {
+  cursor: pointer;
+  padding: 10px;
+  font-size: 25px; /* Increase font size */
+  position: relative;
+  line-height: 1.5;
+  opacity: 0.7;
+  font-weight: 600;
+}
+
+.service-list li:hover,
+.service-list li.active {
+  /* background-color: rgba(255, 255, 255, 0.2); */
+}
+
+.service-list li.active {
+  font-weight: bold;
+  opacity: 1;
+}
+
+.bullet {
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  left: -30px; /* Position the bullet outside the text */
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.image-card {
+  border-radius: 20px;
+  height: 300px;
+  margin-top: -100px;
+}
+
+.service-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.service-content {
+  padding: 20px;
+  height: 450px; /* Fixed height */
+  overflow: auto; /* Scroll if content overflows */
+}
+
+.service-content p {
+  font-size: 20px;
+  color: #ddd;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
+  .col-md-5 {
+    display: none; /* Hide the image section on mobile */
   }
-
-  .main-heading {
-    font-size: 50px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    text-align: center;
-    color: white;
+  .main-heading{
+    font-size:26px !important
   }
-
-  .subheading {
-    font-size: 22px;
-    margin-bottom: 40px;
-    text-align: center;
-    color: #ddd;
-    font-weight: 400;
-  }
-
-  .service-list {
-    list-style: none;
-    padding: 0;
-    color: white;
-  }
-
-  .service-list li {
-    cursor: pointer;
-    padding: 10px;
-    font-size: 25px;
-    position: relative;
-    line-height: 1.5;
-    opacity: 0.7;
-    font-weight: 600;
-  }
-
-
-  .service-list li.active {
-    font-weight: bold;
-    opacity: 1;
-  }
-
-  .bullet {
-    color: white;
-    font-size: 40px;
-    position: absolute;
-    left: -30px;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-
-  .image-card {
-    border-radius: 20px;
-    height: 300px;
-    margin-top: -100px;
-  }
-
-  .service-image {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-  }
-
-  .service-content {
-    padding: 20px;
-    height: 450px; /* Fixed height */
-    overflow: auto;
-  }
-
-  .service-content p {
+  .subheading{
     font-size: 20px;
-    color: #ddd;
   }
+  .service-list li {
+    font-size: 20px;
+}
+}
+</style>
 
-  /* Media Query for Mobile Devices */
-  @media (max-width: 767px) {
-    .main-heading {
-      font-size: 26px; /* Adjust font size for mobile */
-    }
-
-    .subheading {
-      font-size: 18px; /* Adjust font size for mobile */
-    }
-
-    .service-list li {
-      font-size: 18px; /* Smaller font size for mobile */
-    }
-
-    .image-card {
-      display: none; /* Hide the image section on mobile */
-    }
-
-    .service-content {
-      height: auto; /* Auto height for mobile content */
-      padding: 10px; /* Adjust padding for mobile */
-    }
-
-    .bullet {
-      font-size: 25px; /* Smaller bullet size for mobile */
-      left: -20px; /* Adjust bullet position for mobile */
-    }
-  }
-  </style>

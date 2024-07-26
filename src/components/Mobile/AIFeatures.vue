@@ -7,7 +7,7 @@
       Leveraging Emerging Technologies to Enhance Your Digital Journey and Drive
       Increased Value
     </h1>
-    <p class="text-black text-start mb-4" style="font-weight: 500;font-size: 20px;">
+    <p class="text-black text-start mb-4" style="font-weight: 500;font-size: 18px;">
       Introducing mobility for your users is the most prominent way of staying
       ahead of the curve. Our mobile app development services landscape is
       backed by disruptive technologies that can increase your business efficacy
@@ -147,7 +147,8 @@ export default {
 
 @media (max-width: 768px) {
   .heading-title {
-    font-size: 26px; /* Smaller font size for mobile */
+    font-size: 28px; /* Smaller font size for mobile */
+    font-weight: 500;
   }
 
 }
