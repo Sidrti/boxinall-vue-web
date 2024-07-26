@@ -33,9 +33,14 @@
           </span>
         </span>
       </div>
-      <button @click="viewDetails(project.link)" class="view-details-btn">
-        View Case Study
-      </button>
+      <div style="display: flex; gap: 10px">
+        <button @click="viewDetails(project.link)" class="view-details-btn">
+          View Case Study
+        </button>
+        <button @click="viewDetails(project.sitelink)" class="view-details-btn">
+          Visit Website
+        </button>
+      </div>
     </div>
   </div>
 </template>

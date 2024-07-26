@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Web Development",
+    "description": "Creating responsive and dynamic web applications.",
+    "icon": "web-icon"
+  },
+  {
+    "name": "Mobile Development",
+    "description": "Building mobile applications for iOS and Android platforms.",
+    "icon": "mobile-icon"
+  },
+  {
+    "name": "UI/UX Design",
+    "description": "Designing intuitive and user-friendly interfaces.",
+    "icon": "ui-icon"
+  },
+  {
+    "name": "Database Management",
+    "description": "Managing and optimizing databases for efficient data storage.",
+    "icon": "database-icon"
+  },
+  {
+    "name": "E-commerce Solutions",
+    "description": "Developing online shopping platforms with secure payment gateways.",
+    "icon": "ecommerce-icon"
+  },
+  {
+    "name": "Content Management Systems",
+    "description": "Creating and customizing CMS platforms for easy content management.",
+    "icon": "cms-icon"
+  },
+  {
+    "name": "API Integration",
+    "description": "Integrating third-party APIs for enhanced functionality.",
+    "icon": "api-icon"
+  },
+  {
+    "name": "SEO Optimization",
+    "description": "Optimizing websites for search engines to improve visibility.",
+    "icon": "seo-icon"
+  },
+  {
+    "name": "Social Media Integration",
+    "description": "Incorporating social media features for enhanced user engagement.",
+    "icon": "social-icon"
+  },
+  {
+    "name": "Custom Software Development",
+    "description": "Building tailored software solutions to meet specific business needs.",
+    "icon": "software-icon"
+  }
+]

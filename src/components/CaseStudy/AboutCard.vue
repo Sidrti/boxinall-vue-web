@@ -78,7 +78,6 @@
             :data-aos-delay="100 * (index + 1)"
           >
             <div class="service__icon">
-              <!-- Add an icon here based on the service type -->
               <i
                 :class="['fas', serviceIcons[index % serviceIcons.length]]"
               ></i>
