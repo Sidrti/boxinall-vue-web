@@ -3,14 +3,14 @@
       <div class="container industries-container" style="padding-top: 200px;">
         <!-- Heading and Description -->
         <div class="text-center mb-5">
-          <h1 class="text-white text-title">
+          <h1 class="text-white  text-title">
             Crafting Unique and Tailored Mobile Solutions for a Spectrum of Industries
           </h1>
-          <h5 class="text-white" style="opacity: 0.9; margin-top: 20px;">
+          <p class="text-white text-subheading" style="opacity: 0.9; margin-top: 20px;">
             As a leading mobile app development services firm, we excel in offering
             custom solutions for various industries, ensuring great versatility and
             the ability to cater to diverse business needs and requirements.
-          </h5>
+          </p>
         </div>
 
         <!-- Industries Cards -->
@@ -113,7 +113,11 @@
     line-height: 1.2;
     color: white;
   }
-
+  .text-subheading{
+    font-size: 700 !important;
+    font-size:18px  !important ;
+    color: white;
+}
   .card {
     background-color: transparent;
     color: white;

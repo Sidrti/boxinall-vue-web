@@ -6,13 +6,13 @@
           Services Paving the Way to<br />
           Digital Transformation
         </h1>
-        <h5 class="text-white text-start mb-4" style="opacity: 0.9">
+        <p class="text-white text-subheading text-start mb-4" style="opacity: 0.9">
           Our expert team specializes in creating robust and scalable mobile
           applications that redefine industry standards within the mobile-first
           landscape. Our mobile app development services can help you confidently
           navigate the ever-evolving mobile landscape and seize the opportunities
           that guarantee maximum ROI.
-        </h5>
+        </p>
         <!-- card no 05 - 08 -->
         <div class="row justify-content-center">
           <!-- Loop through industryData array to generate cards -->
@@ -133,7 +133,11 @@
     line-height: 1.2; /* Adjust line height for space between lines */
     color: white;
   }
-
+.text-subheading{
+    font-size: 700;
+    font-size:18px ;
+    color: white;
+}
   /* Media Query for Mobile Devices */
   @media (max-width: 767px) {
     .text-title {
