@@ -143,148 +143,148 @@
   };
   </script>
 
-<style scoped>
-.main {
-  background-color: white;
-  margin-top: 200px;
-  margin-bottom: 100px;
-}
+  <style scoped>
+  .main {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
 
-.tools-framework-container {
-  padding: 20px;
-  border-radius: 10px;
-}
+  .tools-framework-container {
+    padding: 20px;
+    border-radius: 10px;
+  }
 
-.main-title {
-  font-size: 40px;
-  line-height: 1.2;
-  color: black;
-}
-
-.sub-title {
-  font-size: 20px;
-  line-height: 1.5;
-  color: black;
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-.tech-card {
-  padding: 8px;
-  padding-top: 2px;
-  border: 3px solid black;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: transform 0.3s, background-color 0.3s;
-}
-
-.tech-card,
-.tech-detail-card {
-  background-color: #fff;
-  color: black;
-  border-radius: 15px;
-  margin: 0 10px;
-}
-
-.tech-detail-card {
-  height: 100px;
-  width: 100px;
-  background-color: #e5e5e5;
-  border: 0.5px solid #e5e5e5;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.tech-card.selected {
-  background-color: #126bfb;
-  color: white;
-  border: 3px solid transparent;
-}
-
-.tech-card.selected .tech-title {
-  color: white;
-}
-
-.tech-title,
-.tech-detail-title {
-  color: black;
-  font-size: 1.2rem;
-  font-weight: normal;
-  margin-top: 10px;
-  text-align: center;
-}
-
-.tech-title {
-  font-weight: 500;
-}
-
-.tech-image {
-  width: 60%;
-  height: 60%;
-  object-fit: contain;
-}
-
-.row {
-  margin-left: 0;
-  margin-right: 0;
-}
-
-.col-lg-2,
-.col-md-4,
-.col-sm-6 {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.tech-card-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-/* Mobile adjustments */
-@media (max-width: 768px) {
   .main-title {
-    font-size: 26px !important; /* Smaller font size for mobile */
+    font-size: 50px;
+    line-height: 1.1;
+    font-weight: 600;
+    color: black;
   }
 
   .sub-title {
-    font-size: 16px; /* Smaller font size for mobile */
-    margin-top: 30px; /* Reduced margin for mobile */
-    margin-bottom: 30px; /* Reduced margin for mobile */
+    font-size: 20px;
+    line-height: 1.5;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
 
   .tech-card {
-    padding: 4px;
-    border: 2px solid black; /* Slightly thinner border for mobile */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    padding-top: 2px;
+    border: 3px solid black;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+  }
+
+  .tech-card,
+  .tech-detail-card {
+    background-color: #fff;
+    color: black;
+    border-radius: 15px;
+    margin: 0 10px;
   }
 
   .tech-detail-card {
-    height: 80px;
-    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    background-color: #e5e5e5;
+    border: 0.5px solid #e5e5e5;
+  }
+
+  .tech-card.selected {
+    background-color: #126bfb;
+    color: white;
+    border: 3px solid transparent;
+  }
+
+  .tech-card.selected .tech-title {
+    color: white;
   }
 
   .tech-title,
   .tech-detail-title {
-    font-size: 1rem; /* Smaller font size for mobile */
+    color: black;
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-top: 10px;
+    text-align: center;
   }
 
-  .tech-card-container {
-    flex-direction: column; /* Stack tech details vertically */
+  .tech-title {
+    font-weight: 500;
   }
 
-  /* Ensure better fit on smaller screens */
+  .tech-image {
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+  }
+
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .col-lg-2,
   .col-md-4,
   .col-sm-6 {
-    flex: 0 0 50%;
-    max-width: 50%;
+    padding-left: 0;
+    padding-right: 0;
   }
-}
-</style>
 
+  .tech-card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .main-title {
+      font-size: 22px !important; /* Smaller font size for mobile */
+      line-height: 1.5;
+      font-weight: 500;
+    }
+
+    .sub-title {
+      font-size: 14px !important; /* Smaller font size for mobile */
+      line-height: 1.5;
+      margin-top: 30px; /* Reduced margin for mobile */
+      margin-bottom: 30px; /* Reduced margin for mobile */
+    }
+
+
+
+    .tech-detail-card {
+      height: 80px;
+      width: 80px;
+    }
+
+    .tech-title,
+    .tech-detail-title {
+      font-size: 1rem; /* Smaller font size for mobile */
+    }
+
+    .tech-card-container {
+      flex-direction: column; /* Stack tech details vertically */
+    }
+
+    /* Ensure better fit on smaller screens */
+    .col-lg-2,
+    .col-md-4,
+    .col-sm-6 {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+  }
+  </style>

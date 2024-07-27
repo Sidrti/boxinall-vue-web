@@ -81,7 +81,7 @@
 
   .card {
     transition: transform 0.3s; /* Smooth transform transition */
-    height: 600px; /* Fixed height for all cards */
+    height: 500px; /* Fixed height for all cards */
     border: 1px solid grey;
     border-radius: 15px;
     position: relative; /* For absolute positioning of elements inside */
@@ -114,8 +114,10 @@
   }
 
   .card-title {
-    font-size: 30px;
+    font-size: 26px;
+    font-weight: 700;
     line-height: 1.2;
+    margin-top: 50px;
   }
 
   .card-title,
@@ -129,29 +131,48 @@
   }
 
   .text-title {
-    font-size: 40px; /* Default font size for larger screens */
-    line-height: 1.2; /* Adjust line height for space between lines */
+    font-size: 50px; /* Default font size for larger screens */
+    font-weight: 600;
+    line-height: 1.1; /* Adjust line height for space between lines */
     color: white;
   }
 .text-subheading{
-    font-size: 700;
-    font-size:18px ;
+    font-weight: 400;
+    font-size:17px ;
+    line-height: 1.5;
     color: white;
 }
+.text-description{
+        font-size: 13px; /* Smaller font size for card text on mobile */
+      line-height: 1.5;
+      font-weight: 400;
+    }
   /* Media Query for Mobile Devices */
   @media (max-width: 767px) {
     .text-title {
-      font-size: 26px; /* Smaller font size for mobile */
+      font-size: 22px; /* Smaller font size for mobile */
+      line-height: 1.5;
+      font-weight: 500;
+    }
+    .text-subheading{
+        font-size: 14px !important;
+        line-height: 1.5 !important;
+        font-weight: 400 !important;
     }
     .text-description{
-        font-size: 16px !important;
+        font-size: 13px; /* Smaller font size for card text on mobile */
+      line-height: 1.5;
+      font-weight: 400;
     }
     .card-title {
-      font-size: 20px; /* Smaller font size for card titles on mobile */
+      font-size: 15px; /* Smaller font size for card titles on mobile */
+      font-weight: 700;
     }
 
     .card-text {
-      font-size: 14px; /* Smaller font size for card text on mobile */
+      font-size: 13px; /* Smaller font size for card text on mobile */
+      line-height: 1.5;
+      font-weight: 400;
     }
 
     .card {

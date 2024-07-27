@@ -27,25 +27,31 @@ export default {
 }
 
 .title-text {
-  font-size: 80px; /* Default font size for larger screens */
+  font-size: 50px; /* Default font size for larger screens */
   line-height: 1.2; /* Adjust line height for space between lines */
+  font-weight: 700;
   color: white;
 }
 
 .sub-head {
-  font-size: 24px; /* Default font size for larger screens */
+  font-size: 16px; /* Default font size for larger screens */
   color: white;
+  line-height: 1.4;
   font-weight: 400;
 }
 
 /* Media Query for Mobile Devices */
 @media (max-width: 767px) {
   .title-text {
-    font-size: 40px; /* Smaller font size for mobile */
+    font-size: 24px; /* Smaller font size for mobile */
+    line-height: 1.2;
+    font-weight: 700;
   }
 
   .sub-head {
-    font-size: 18px; /* Smaller font size for mobile */
+    font-size: 14px; /* Smaller font size for mobile */
+    line-height: 1.5;
+    font-weight: 400;
   }
 }
 </style>

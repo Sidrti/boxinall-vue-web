@@ -3,12 +3,12 @@
     <div class="container mt-5">
       <div class="row">
         <div class="col-lg-6">
-          <h1 class="text-white head-text text-start mb-4" style="font-size: 50px">
+          <p class="text-white head-text text-start mb-4">
             Experience Our Best-In-Class ERP Software Development Process
-          </h1>
+          </p>
           <p
             class="text-white sub-head text-start mb-4"
-            style="opacity: 0.8; font-size: 20px"
+
           >
             Our team is dedicated to ensuring that the final product meets the
             needs of your business, and we pride ourselves on our ability to
@@ -32,9 +32,9 @@
                 <div class="card-image">
                   <img :src="step.image" alt="Logo" class="card-logo" />
                 </div>
-                <h2 class="text-white card-title mb-3 mt-3">
+                <p class="text-white card-title mb-3 mt-3">
                   {{ step.title }}
-                </h2>
+                </p>
                 <p class="text-white text-description card-text">
                   {{ step.description }}
                 </p>
@@ -222,45 +222,28 @@ p {
   height: 1px; /* Small target to trigger intersection observer */
   margin-bottom: 100px; /* Adjust margin to control scroll trigger frequency */
 }
-
-
-/* Media Query for Mobile Devices */
-@media (max-width: 768px) {
-  .head-text{
-    font-size: 30px !important;
+.head-text{
+    font-size: 36px !important;
+    font-weight: 600;
+    line-height: 1.1;
   }
   .sub-head {
-    font-size: 18px !important; /* Smaller font size for mobile */
+    font-size: 16px !important; /* Smaller font size for mobile */
+    line-height: 1.7;
   }
   .text-title {
-    font-size: 24px; /* Smaller font size for mobile */
+    font-size: 18px; /* Smaller font size for mobile */
   }
-
-  .text-description {
-    font-size: 16px !important; /* Smaller font size for mobile */
-  }
-
-  .card {
-    position: static; /* Make cards static for mobile view */
-    margin-bottom: 20px; /* Add margin between cards */
-  }
-
-  .card-container {
-    position: static; /* Make card container static for mobile view */
-  }
-
-  .card-image {
-    width: 50px; /* Adjust size for mobile */
-    height: 50px;
-    padding: 8px;
-  }
-
   .card-title {
-    font-size: 20px; /* Smaller font size for mobile */
+    font-size: 18px; /* Smaller font size for mobile */
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
   }
 
-  .card-text {
-    font-size: 14px; /* Smaller font size for mobile */
+  .text-description{
+    font-size: 14px;
   }
-}
+
+/* Media Query for Mobile Devices */
+/*  */
 </style>

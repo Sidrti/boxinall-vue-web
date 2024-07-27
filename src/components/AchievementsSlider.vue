@@ -115,7 +115,8 @@
   /* Mobile styles */
   @media (max-width: 768px) {
     .heading-title {
-      font-size: 26px; /* Smaller font size for mobile */
+      font-size: 22px; /* Smaller font size for mobile */
+      font-weight: 600;
       line-height: 1.2;
       padding-inline: 10px; /* Less padding on mobile */
     }

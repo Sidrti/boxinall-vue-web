@@ -198,11 +198,15 @@ export default {
 
 @media (max-width: 768px) {
   .text-title {
-    font-size: 26px; /* Adjusted for mobile */
+    font-size: 22px !important; /* Smaller font size for mobile */
+      line-height: 1.5;
+      font-weight: 500;
   }
 
   .description {
-    font-size: 1rem; /* Adjusted for mobile */
+    font-size: 14px; /* Adjusted for mobile */
+    line-height: 1.5;
+    font-weight: 400;
   }
 
   .card {
@@ -216,7 +220,9 @@ export default {
   }
 
   .industry-title {
-    font-size: 0.9rem; /* Adjusted for mobile */
+    font-size: 12px; /* Adjusted for mobile */
+    line-height: 1.1;
+    font-weight: 300;
   }
 
   .industry-column:nth-child(2n) {
@@ -226,5 +232,10 @@ export default {
   .industry-column:last-child {
     border-bottom: none; /* No bottom border for the last column */
   }
+  .card-image {
+  width: 40px; /* Adjusted for mobile */
+  height: 40px; /* Adjusted for mobile */
+
+}
 }
 </style>
