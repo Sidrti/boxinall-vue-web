@@ -130,20 +130,29 @@
     height: 100%;
     object-fit: contain;
   }
-
+  .sub-head {
+      font-size: 16px !important; /* Smaller font size for mobile */
+      line-height: 1.7 !important;
+    }
   /* Media Query for Mobile Devices */
   @media (max-width: 768px) {
     .head-text {
-      font-size: 30px !important;
+      font-size: 22px !important;
+      line-height: 1.5;
+      font-weight: 500;
     }
     .sub-head {
-      font-size: 18px !important; /* Smaller font size for mobile */
+      font-size: 16px !important; /* Smaller font size for mobile */
+      line-height: 1.7 !important;
     }
     .card-title {
       font-size: 20px; /* Smaller font size for mobile */
+      font-weight: 700;
+      line-height: 1.2;
     }
     .card-text {
-      font-size: 14px; /* Smaller font size for mobile */
+      font-size: 12px; /* Smaller font size for mobile */
+      line-height: 1.7;
     }
   }
   </style>

@@ -3,9 +3,9 @@
       <div class="container industries-container" style="padding-top: 200px;">
         <!-- Heading and Description -->
         <div class="text-center mb-5">
-          <h1 class="text-white  text-title">
+          <p class="text-white  text-title">
             Crafting Unique and Tailored Mobile Solutions for a Spectrum of Industries
-          </h1>
+          </p>
           <p class="text-white text-subheading" style="opacity: 0.9; margin-top: 20px;">
             As a leading mobile app development services firm, we excel in offering
             custom solutions for various industries, ensuring great versatility and
@@ -110,12 +110,14 @@
 
   .text-title {
     font-size: 50px;
-    line-height: 1.2;
+    line-height: 1.1;
+    font-weight:600 ;
     color: white;
   }
   .text-subheading{
     font-size: 700 !important;
-    font-size:18px  !important ;
+    font-weight:17px  !important ;
+    line-height: 1.5;
     color: white;
 }
   .card {
@@ -156,8 +158,9 @@
 
   /* Ensure the title within the card is centered */
   .industry-title {
-    font-size: 1.2rem;
-    font-weight: 400;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.3;
     color: white;
   }
 

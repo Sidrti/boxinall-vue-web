@@ -48,14 +48,15 @@
 
   <style scoped>
   .main {
-    padding: 100px 0;
+    padding: 10px 0;
     background-color: black; /* Light background color */
   }
 
   .funding-heading {
-    font-size: 60px;
+    font-size: 35px;
     margin-bottom: 15px;
-    font-weight: bold;
+    font-weight: 700;
+    line-height: 1.2;
     color: yellow;
   }
 
@@ -66,9 +67,10 @@
   }
 
   .funding-subheading {
-    font-size: 25px;
+    font-size: 24px;
     color: white;
     line-height: 1.8;
+    font-weight: 500;
     margin-bottom: 30px;
   }
 
@@ -105,12 +107,18 @@
 
   /* Media Query for Mobile Devices */
   @media (max-width: 767px) {
+    .main{
+        margin-top: -100px;
+    }
     .funding-heading {
       font-size: 36px; /* Adjust font size for mobile */
+      line-height: 1.2;
     }
 
     .funding-subheading {
-      font-size: 18px; /* Adjust font size for mobile */
+      font-size: 16px; /* Adjust font size for mobile */
+      line-height: 1.7;
+      font-weight: 500;
     }
 
     .funding-button {

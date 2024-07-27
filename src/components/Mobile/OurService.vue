@@ -104,7 +104,7 @@
 
 <style scoped>
 .our-service {
-  padding: 100px 0;
+  padding: 50px 0;
   background-image: url('@/assets/images/testimonial-bg-img.png'); /* Replace with your background image path */
   background-size: cover;
   background-position: center;
@@ -114,18 +114,20 @@
 
 .main-heading {
   font-size: 50px;
-  font-weight: bold;
+  font-weight: 600;
+  line-height: 1.1;
   margin-bottom: 20px;
   text-align: center;
   color: white;
 }
 
 .subheading {
-  font-size: 22px;
+  font-size: 17px;
   margin-bottom: 40px;
   text-align: center;
   color: #ddd;
   font-weight: 400;
+  line-height: 1.5;
 }
 
 .service-list {
@@ -137,17 +139,14 @@
 .service-list li {
   cursor: pointer;
   padding: 10px;
-  font-size: 25px; /* Increase font size */
+  font-size: 22px; /* Increase font size */
   position: relative;
-  line-height: 1.5;
+  line-height: 1.4;
   opacity: 0.7;
   font-weight: 600;
 }
 
-.service-list li:hover,
-.service-list li.active {
-  /* background-color: rgba(255, 255, 255, 0.2); */
-}
+
 
 .service-list li.active {
   font-weight: bold;
@@ -182,7 +181,9 @@
 }
 
 .service-content p {
-  font-size: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;
   color: #ddd;
 }
 
@@ -192,13 +193,32 @@
     display: none; /* Hide the image section on mobile */
   }
   .main-heading{
-    font-size:26px !important
+    font-size:22px !important;
+    line-height: 1.5;
+    font-weight: 500;
   }
   .subheading{
-    font-size: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
   }
   .service-list li {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: -30px;
+}
+
+.bullet {
+    left: -10px;
     font-size: 20px;
+}
+.service-content p {
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 300;
+  color: #ddd;
+  margin-top: 20px;
 }
 }
 </style>

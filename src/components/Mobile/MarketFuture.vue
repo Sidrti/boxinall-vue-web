@@ -3,10 +3,10 @@
       <div class="container market-future-container">
         <!-- Heading and Subheading -->
         <div class="text-center mb-5">
-          <h1 class="text-black main-title">
+          <p class="text-black main-title">
             The mobile application development market size
             is expected to reach <span class="highlight">$567.19 billion in 2030</span>
-          </h1>
+          </p>
           <p class="subhead">
             Take your business to new heights by offering unmatched
             mobility to your customers!
@@ -51,8 +51,9 @@
   }
 
   .main-title {
-    font-size: 40px; /* Adjusted font size for mobile */
+    font-size: 35px; /* Adjusted font size for mobile */
     line-height: 1.2;
+    font-weight: bold;
     color: black;
   }
 
@@ -71,7 +72,7 @@
     border: 3px solid black;
     color: black;
     padding: 8px 16px; /* Reduced padding for mobile */
-    font-size: 1rem; /* Adjusted font size for mobile */
+    font-size: 18px; /* Adjusted font size for mobile */
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
@@ -106,16 +107,19 @@
     }
 
     .main-title {
-      font-size: 26px; /* Further reduced font size for smaller screens */
+      font-size: 22px; /* Further reduced font size for smaller screens */
+      font-weight: 600;
+      line-height: 1.2;
     }
 
     .subhead {
-      font-size: 0.9rem; /* Further reduced font size for smaller screens */
+      font-size: 16px; /* Further reduced font size for smaller screens */
+      line-height: 1.7;
     }
 
     .discuss-button {
       padding: 6px 12px; /* Further reduced padding for smaller screens */
-      font-size: 0.9rem; /* Further reduced font size for smaller screens */
+      font-size: 12px !important; /* Further reduced font size for smaller screens */
     }
 
     .arrow-right {

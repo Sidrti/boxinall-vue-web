@@ -9,7 +9,7 @@
             </div>
           </div>
         </div>
-        <div class="text-center mt-4">
+        <div class="text-center  button-card  mt-4">
           <button class="btn discuss-button">
             Discuss Your Business Requirement <span class="arrow-right">&#10132;</span>
           </button>
@@ -72,19 +72,25 @@
   }
 
   .stat-number {
-    font-size: 3.5rem;
-    font-weight: bold;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 0.8;
     color: white;
   }
 
   .stat-title {
-    font-size: 1.25rem;
-    opacity: 0.9;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
     color: white;
     margin-top: 10px;
   }
-
+  .button-card{
+    display: flex;
+    justify-content: center;
+  }
   .discuss-button {
+
     background-color: transparent;
     border: 2px solid white;
     color: white;
@@ -94,6 +100,9 @@
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
     font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .discuss-button:hover {
@@ -130,16 +139,22 @@
     }
 
     .stat-number {
-      font-size: 2.5rem;
+      font-size: 30px;
+      line-height: 0.8;
+      font-weight: 700;
     }
 
     .stat-title {
-      font-size: 1rem;
+      font-size: 10px;
+      line-height: 1.4;
+      font-weight: 400;
     }
 
     .discuss-button {
-      font-size: 1rem;
-      padding: 8px 16px;
+      font-size: 14px;
+      font-weight: 400;
+
+
     }
 
     .arrow-right {
