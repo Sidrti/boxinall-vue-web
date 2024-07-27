@@ -17,6 +17,7 @@
       <AIFeatures></AIFeatures>
       <OurService></OurService>
       <FundingRaised></FundingRaised>
+      <ClientReview></ClientReview>
       <WebPortfolio></WebPortfolio>
     </div>
   </template>
@@ -38,6 +39,7 @@
   import FundingRaised from '../../components/Mobile/FundingRaised.vue'
   import OurService from '../../components/Mobile/OurService.vue'
   import StrategicProcessMobile from '../../components/Mobile/StrategicProcessMobile.vue'
+  import ClientReview from '../../components/Mobile/ClientReview.vue'
 
   export default {
     name: 'WebDevelopmentServiceView',
@@ -55,7 +57,8 @@
       ToolsAndFramework,
       AchievementsSlider,
       FundingRaised,
-      OurService
+      OurService,
+      ClientReview
     },
     data() {
       return {
