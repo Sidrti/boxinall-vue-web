@@ -10,6 +10,7 @@ import MobileDevelopmentServiceView from "../views/Services/MobileDevelopmentSer
 import ContactView from "../views/ContactView";
 import CaseStudyView from "../views/CaseStudyView";
 import CaseStudyView2 from "../views/CaseStudyView2";
+import WebDevelopmentServiceView from "@/views/Services/WebDevelopmentServiceView.vue";
 
 Vue.use(VueRouter);
 
@@ -35,11 +36,11 @@ const routes = [
     component: ServiceView,
     // children: [{ path: 'process/:id',component: ServiceDescriptionView }],
   },
-  // {
-  //   path: "/process/website-development",
-  //   name: "web-service-description",
-  //   component: WebDevelopmentServiceView,
-  // },
+  {
+    path: "/process/website-development-test",
+    name: "web-service-description",
+    component: WebDevelopmentServiceView,
+  },
   {
     path: '/process/mobile-app-development-test',
     name: 'mobile-service-description',

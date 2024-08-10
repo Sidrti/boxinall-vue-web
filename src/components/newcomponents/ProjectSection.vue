@@ -1,10 +1,23 @@
-<!-- ProjectsSection.vue -->
 <template>
   <section id="projects" class="portfolio-grid">
     <h2 class="section-title" data-aos="fade-up">Our Projects</h2>
+
+    <!-- Tabs for filtering -->
+    <div class="project-tabs">
+      <button
+        v-for="tab in tabs"
+        :key="tab"
+        @click="selectTab(tab)"
+        :class="{ active: selectedTab === tab }"
+        class="tab-button"
+      >
+        {{ tab }}
+      </button>
+    </div>
+
     <div class="projects-container">
       <div
-        v-for="(project, index) in projects"
+        v-for="(project, index) in filteredProjects"
         :key="index"
         class="project-card"
         :class="{ reverse: project.orientation === 'right' }"
@@ -61,9 +74,22 @@ export default {
   data() {
     return {
       projects: portfolio,
+      tabs: ["All", "Mobile", "Website","Mobile-Website","Wordpress", "Figma"],
+      selectedTab: "All",
     };
   },
+  computed: {
+    filteredProjects() {
+      if (this.selectedTab === "All") {
+        return this.projects;
+      }
+      return this.projects.filter(project => project.type === this.selectedTab.toLowerCase());
+    },
+  },
   methods: {
+    selectTab(tab) {
+      this.selectedTab = tab;
+    },
     viewCaseStudy(link) {
       this.$router.push(link);
     },
@@ -84,6 +110,7 @@ export default {
   padding: 20px 0px;
   border-radius: 25px;
 }
+
 .view-details-btn {
   align-self: flex-start;
   padding: 15px 30px;
@@ -262,6 +289,33 @@ export default {
 .explore-btn:hover {
   background-color: #007bff;
   color: white;
+}
+
+.project-tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.tab-button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.tab-button.active {
+  background-color: #0056b3;
+}
+
+.tab-button:hover {
+  background-color: #0056b3;
 }
 
 @media (max-width: 968px) {
