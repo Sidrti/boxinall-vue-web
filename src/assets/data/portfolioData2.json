@@ -2,7 +2,12 @@
   {
     "title": "UDates- Dating & Chat",
     "description": "A modern dating and chat application built for both Android and iOS platforms. Utilizing React Native for cross-platform development, this app offers a seamless user experience with real-time chat features. The backend is powered by PHP and MySQL, ensuring robust data management and user matching algorithms.",
-    "stack": ["Mobile App", "Android", "iOS"],
+    "stack": [
+      "Mobile App",
+      "Android",
+      "iOS"
+    ],
+    "type": "mobile",
     "image": "/image/pf3.png",
     "smallimage": "/image/pf1.png",
     "link": "/case-study2/dating-application",
@@ -12,7 +17,13 @@
   {
     "title": "Doctor Appointment Design",
     "description": "A comprehensive UI/UX design project for a doctor appointment application. This project encompasses the full design process from product strategy and branding to creating a cohesive design system. The intuitive interface, designed in Figma, aims to simplify the process of booking medical appointments and managing healthcare needs.",
-    "stack": ["Design", "Figma", "UI", "UX"],
+    "stack": [
+      "Design",
+      "Figma",
+      "UI",
+      "UX"
+    ],
+    "type": "figma",
     "image": "/image/pf5.png",
     "smallimage": "/image/pf4.png",
     "link": "/case-study2/doctor-appointment-application",
@@ -22,7 +33,11 @@
   {
     "title": "Real-Estate-Website",
     "description": "A dynamic real estate website built on WordPress, offering a user-friendly platform for property listings and searches. This project combines attractive design with practical functionality, leveraging WordPress's flexibility along with custom HTML and MySQL integration to deliver a comprehensive solution for real estate professionals and clients.",
-    "stack": ["Design", "Wordpress"],
+    "stack": [
+      "Design",
+      "Wordpress"
+    ],
+    "type": "wordpress",
     "image": "/image/pf6.png",
     "smallimage": "/image/pf7.png",
     "link": "/case-study2/real-estate-website",
@@ -32,7 +47,11 @@
   {
     "title": "Event Management App",
     "description": "A sleek and efficient event management application designed with Figma. This UI/UX project focuses on creating an intuitive interface for event planning, ticketing, and attendee management. The design prioritizes user experience, making it easy for organizers to create and manage events, and for attendees to discover and participate in them.",
-    "stack": ["Figma", "UI/UX"],
+    "stack": [
+      "Figma",
+      "UI/UX"
+    ],
+    "type": "figma",
     "image": "/image/pf10.png",
     "smallimage": "/image/pf8.png",
     "link": "/case-study2/event-management-app",
@@ -42,7 +61,11 @@
   {
     "title": "Travel Flight Booking Website",
     "description": "A comprehensive travel and flight booking website that simplifies the process of planning and booking trips. Built with PHP and integrated with MySQL, this platform offers robust search capabilities, secure booking processes, and user account management. The responsive design ensures a smooth experience across all devices.",
-    "stack": ["Website", "PHP"],
+    "stack": [
+      "Website",
+      "PHP"
+    ],
+    "type": "website",
     "image": "/image/pf13.png",
     "smallimage": "/image/pf14.png",
     "link": "/case-study2/travel-booking-system",
@@ -52,7 +75,11 @@
   {
     "title": "98degreenorth",
     "description": "An innovative web and mobile application built with Vue.js, PHP, and MySQL. This project offers a unique service or product (specifics not provided), leveraging modern web technologies to create a responsive and interactive user experience. The combination of a web platform and mobile app ensures accessibility across all devices.",
-    "stack": ["Website", "Mobile app"],
+    "stack": [
+      "Website",
+      "Mobile app"
+    ],
+    "type": "mobile-website",
     "image": "/image/98.png",
     "smallimage": "/image/pf93.jpg",
     "link": "/case-study2/98degreenorth",
@@ -62,7 +89,11 @@
   {
     "title": "Michelin Tyre",
     "description": "A specialized website and mobile application developed for Michelin Tyre, focusing on user account management and possibly e-commerce functionality. Built with Vue.js for a reactive frontend, and supported by PHP and MySQL on the backend, this project likely offers features such as product browsing, order management, and user-specific information related to Michelin products.",
-    "stack": ["Website", "Mobile app"],
+    "stack": [
+      "Website",
+      "Mobile app"
+    ],
+    "type": "mobile-website",
     "image": "/image/pf32.png",
     "smallimage": "/image/pf92.jpg",
     "link": "/case-study2/Michelin-Tyre",
