@@ -74,7 +74,7 @@ export default {
   data() {
     return {
       projects: portfolio,
-      tabs: ["All", "Mobile", "Website","Mobile-Website","Wordpress", "Figma"],
+      tabs: ["All", "Mobile", "Website", "Mobile-Website", "Wordpress", "Figma"],
       selectedTab: "All",
     };
   },
@@ -101,6 +101,7 @@ export default {
 </script>
 
 <style scoped>
+/* Main Styles */
 .section-title {
   font-size: 3rem;
   text-align: center;
@@ -109,52 +110,6 @@ export default {
   background: linear-gradient(45deg, #007bff, #00dbd9);
   padding: 20px 0px;
   border-radius: 25px;
-}
-
-.view-details-btn {
-  align-self: flex-start;
-  padding: 15px 30px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  cursor: pointer;
-  border-radius: 15px;
-  font-size: 16px;
-  font-weight: 500;
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.view-details-btn::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    120deg,
-    transparent,
-    rgba(255, 255, 255, 0.3),
-    transparent
-  );
-  transition: all 0.4s ease;
-}
-
-.view-details-btn:hover {
-  background-color: #0056b3;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
-}
-
-.view-details-btn:hover::before {
-  left: 100%;
-}
-
-.view-details-btn:active {
-  transform: translateY(0);
-  box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
 }
 
 .portfolio-grid {
@@ -167,6 +122,47 @@ export default {
   gap: 4rem;
 }
 
+/* Project Tabs */
+.project-tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+
+.project-tabs::-webkit-scrollbar {
+  display: none; /* WebKit */
+}
+
+.tab-button {
+  min-width: 150px; /* Minimum width to accommodate text */
+  max-width: 200px; /* Maximum width for better alignment */
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  display: inline-block;
+  text-align: center; /* Ensure text is centered */
+}
+
+.tab-button.active {
+  background-color: #0056b3;
+}
+
+.tab-button:hover {
+  background-color: #0056b3;
+}
+
+/* Project Card */
 .project-card {
   display: flex;
   background-color: #1a1a1a;
@@ -230,19 +226,6 @@ export default {
   margin-bottom: 1.5rem;
 }
 
-.tech-tag {
-  background-color: #007bff;
-  color: white;
-  padding: 0.4rem 0.8rem;
-  border-radius: 20px;
-  font-size: 0.9rem;
-  transition: background-color 0.3s ease;
-}
-
-.tech-tag:hover {
-  background-color: #0056b3;
-}
-
 .stackitem {
   color: white;
   font-size: 20px;
@@ -258,66 +241,7 @@ export default {
   gap: 1rem;
 }
 
-.case-study-btn,
-.explore-btn {
-  padding: 0.8rem 1.5rem;
-  border-radius: 25px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  font-weight: 600;
-  flex: 1;
-}
-
-.case-study-btn {
-  background-color: #007bff;
-  color: white;
-  border: none;
-}
-
-.explore-btn {
-  background-color: transparent;
-  color: #007bff;
-  border: 2px solid #007bff;
-}
-
-.case-study-btn:hover,
-.explore-btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 5px 15px rgba(0, 123, 255, 0.3);
-}
-
-.explore-btn:hover {
-  background-color: #007bff;
-  color: white;
-}
-
-.project-tabs {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 2rem;
-}
-
-.tab-button {
-  padding: 10px 20px;
-  margin: 0 10px;
-  border: none;
-  background-color: #007bff;
-  color: white;
-  cursor: pointer;
-  border-radius: 15px;
-  font-size: 16px;
-  font-weight: 500;
-  transition: all 0.3s ease;
-}
-
-.tab-button.active {
-  background-color: #0056b3;
-}
-
-.tab-button:hover {
-  background-color: #0056b3;
-}
-
+/* Responsive Styles */
 @media (max-width: 968px) {
   .project-card,
   .project-card.reverse {
@@ -347,8 +271,17 @@ export default {
     padding: 5%;
   }
 
-  .project-image {
-    height: 200px;
+  .project-tabs {
+    justify-content: flex-start;
+    margin-bottom: 1.5rem;
+    overflow-x: auto;
+  }
+
+  .tab-button {
+    min-width: 150px;
+    max-width: 200px;
+    padding: 8px 16px;
+    font-size: 14px;
   }
 
   .project-title {
@@ -359,8 +292,8 @@ export default {
     font-size: 0.9rem;
   }
 
-  .tech-tag {
-    font-size: 0.8rem;
+  .stackitem {
+    font-size: 18px;
   }
 
   .case-study-btn,
