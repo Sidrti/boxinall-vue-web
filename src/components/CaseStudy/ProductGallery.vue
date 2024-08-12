@@ -1,6 +1,5 @@
 <template>
     <section class="product-gallery">
-      <h1 class="gallery-heading">Our Product Collection</h1>
       <div class="images-container">
         <img v-for="(image, index) in images" :key="index" :src="require(`@/assets/images/casestudy/${image}`)" :alt="`Product Image ${index + 1}`" class="gallery-image" />
       </div>
@@ -26,7 +25,7 @@
   <style scoped>
   .product-gallery {
     padding: 50px 20px;
-    background-color: #f9f9f9;
+    background-color: white;
     text-align: center;
     padding-inline: 180px;
   }
