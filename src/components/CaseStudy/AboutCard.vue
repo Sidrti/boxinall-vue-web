@@ -8,7 +8,7 @@
         data-aos-delay="500"
       >
         <h1 style="color: white">{{ data.herotitle }}</h1>
-        <p>{{ data.heroctaText }}</p>
+        <p >{{ data.heroctaText }}</p>
       </div>
     </div>
 
@@ -158,7 +158,7 @@ export default {
   display: flex;
   flex-direction: column;
   /* gap: 50px; */
-  background-color: #0a0a0a;
+  background-color: white;
   color: #ffffff;
 }
 
@@ -221,13 +221,14 @@ export default {
 
 .heading2 {
   font-size: 2.5rem;
-  color: #ffffff;
+  color: black;
   margin-bottom: 1rem;
 }
 
 .para {
   font-size: 1.1rem;
   line-height: 1.6;
+  color: black;
 }
 
 .grid_wrapper {
@@ -241,12 +242,12 @@ export default {
   padding: 30px;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  background-color: #1a1a1a;
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+;
 }
 
 .indus_service:hover {
@@ -256,17 +257,21 @@ export default {
 
 .industry {
   font-weight: bold;
-  color: #ffffff;
+  color: black;
   margin-bottom: 15px;
   font-size: 1.2rem;
+  opacity: 0.4;
+
 }
 
 .indushead {
   display: block;
-  color: #3498db;
+  color: black;
   text-decoration: none;
   font-size: 1.1rem;
+  font-weight: 600;
   transition: color 0.3s ease;
+  line-height: 1.2;
 }
 
 .indushead:hover {
@@ -274,7 +279,8 @@ export default {
 }
 
 .based_clr {
-  color: #e74c3c;
+  color: #3498db;
+
 }
 
 .services__panel,
