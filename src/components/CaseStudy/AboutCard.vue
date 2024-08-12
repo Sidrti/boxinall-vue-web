@@ -54,149 +54,40 @@
         </div>
       </div>
     </div>
+    <ProductGallery/>
+    <ProductJourney />
+    <ReviewSection/>
+    <OurProcess :services="data.services"/>
+    <ProductJourney2 :journey="data.journey"/>
+    <ProductResults :journey="data.results_product"/>
+    <ConversationRate />
 
-    <div class="wave-divider"></div>
-
-    <div class="container">
-      <div class="services__panel" data-aos="fade-up" data-aos-duration="1200">
-        <h2
-          class="services__title"
-          data-aos="zoom-in-up"
-          data-aos-duration="800"
-        >
-          Our Services Provided
-        </h2>
-        <div class="services__grid">
-          <div
-            v-for="(service, index) in data.services"
-            :key="index"
-            class="service__item"
-            :data-aos="
-              ['zoom-in', 'fade-up', 'flip-left', 'flip-right'][index % 4]
-            "
-            :data-aos-duration="800"
-            :data-aos-delay="100 * (index + 1)"
-          >
-            <div class="service__icon">
-              <i
-                :class="['fas', serviceIcons[index % serviceIcons.length]]"
-              ></i>
-            </div>
-            <h3 class="service__heading">{{ service.title }}</h3>
-            <ul class="service__list">
-              <li v-for="(list, idx) in service.items" :key="idx">
-                {{ list }}
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="skew-divider"></div>
-
-    <div class="container">
-      <div
-        class="challenges__panel"
-        data-aos="fade-up"
-        data-aos-duration="1000"
-      >
-        <h2 class="section__title" data-aos="fade-down" data-aos-duration="800">
-          Our Project Challenges
-        </h2>
-        <div class="challenges__grid">
-          <div
-            v-for="(challenge, index) in data.challenges"
-            :key="index"
-            class="challenge__item"
-            :data-aos="index % 2 === 0 ? 'fade-right' : 'fade-left'"
-            :data-aos-duration="800"
-            :data-aos-delay="100 * (index + 1)"
-          >
-            <div class="challenge__content">
-              <h3 class="challenge__heading">{{ challenge.title }}</h3>
-              <p class="challenge__text">{{ challenge.description }}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="tilt-divider"></div>
-
-    <div class="container">
-      <div class="process__panel" data-aos="fade-up" data-aos-duration="1000">
-        <h2 class="section__title" data-aos="fade-down" data-aos-duration="800">
-          Our Development Process
-        </h2>
-        <div
-          class="process__content"
-          data-aos="zoom-in"
-          data-aos-duration="800"
-          data-aos-delay="100"
-        >
-          <h3 class="process__heading">{{ data.development.subtitle }}</h3>
-          <div class="process__steps">
-            <div
-              v-for="(description, index) in data.development.description"
-              :key="index"
-              class="process__step"
-              :data-aos="'fade-up'"
-              :data-aos-delay="150 * (index + 1)"
-            >
-              <div class="step__number">{{ index + 1 }}</div>
-              <p class="process__text">{{ description }}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="zigzag-divider"></div>
-
-    <div class="results__background">
-      <div class="container">
-        <div class="results__panel" data-aos="fade-up" data-aos-duration="1000">
-          <h2
-            class="section__title"
-            data-aos="fade-down"
-            data-aos-duration="800"
-          >
-            The Results
-          </h2>
-          <div class="results__grid">
-            <div
-              v-for="(result, index) in data.results"
-              :key="index"
-              class="result__item"
-              :data-aos="'zoom-in'"
-              :data-aos-duration="800"
-              :data-aos-delay="200 * (index + 1)"
-            >
-              <div class="result__circle">
-                <div class="result__number">{{ result.number }}</div>
-              </div>
-              <div class="result__text">{{ result.text }}</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- <div class="wave-divider"></div> -->
-    <!-- <div class="skew-divider"></div> -->
-    <!-- <div class="curved-divider"></div> -->
-    <!-- <div class="tilt-divider"></div> -->
-    <!-- <div class="triangle-divider"></div> -->
-    <!-- <div class="zigzag-divider"></div> -->
-    <div class="asymmetrical-divider"></div>
   </section>
 </template>
 
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
+import ProductGallery from '@/components/CaseStudy/ProductGallery.vue';
+import ProductJourney from '@/components/CaseStudy/ProductJourney.vue';
+import ReviewSection from '@/components/CaseStudy/ReviewSection.vue';
+import OurProcess from '@/components/CaseStudy/OurProcess.vue';
+import ProductJourney2 from '@/components/CaseStudy/ProductJourney2.vue';
+import ProductResults from '@/components/CaseStudy/ProductResults.vue';
+import ConversationRate from '@/components/CaseStudy/ConversationRate.vue';
+
 
 export default {
   name: "AboutSection",
+  components: {
+    ProductGallery,
+    ProductJourney,
+    ReviewSection,
+    OurProcess,
+    ProductJourney2,
+    ProductResults,
+    ConversationRate
+  },
   props: {
     data: {
       type: Object,
@@ -261,12 +152,12 @@ export default {
 }
 
 .reveal__section {
-  padding: 0 0 100px 0;
+  /* padding: 0 0 100px 0; */
   max-width: 100%;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  /* gap: 50px; */
   background-color: #0a0a0a;
   color: #ffffff;
 }

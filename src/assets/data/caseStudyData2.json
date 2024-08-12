@@ -38,15 +38,52 @@
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market understanding", "Localization"]
+        "items": [
+          "Market understanding",
+          "Localization"
+        ]
       },
-      { "title": "Product Design", "items": ["User flow", "Designing"] },
-      { "title": "Development", "items": ["Android App", "iOS App"] },
+      {
+        "title": "Product Design",
+        "items": [
+          "User flow",
+          "Designing"
+        ]
+      },
+      {
+        "title": "Development",
+        "items": [
+          "Android App",
+          "iOS App"
+        ]
+      },
       {
         "title": "Deployment",
-        "items": ["Play Store publishing", "App Store publishing"]
+        "items": [
+          "Play Store publishing",
+          "App Store publishing"
+        ]
       }
     ],
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "@/assets/images/casestudy/dominos-screen5.png",
+      "image2": "@/assets/images/casestudy/dominos-screen5.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "@/assets/images/casestudy/dominos-screen5.png"
+    },
     "challenges": [
       {
         "number": 1,
@@ -68,8 +105,14 @@
       ]
     },
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      {
+        "number": "2M",
+        "text": "Downloads"
+      },
+      {
+        "number": "500k",
+        "text": "New Users Acquired"
+      }
     ]
   },
   "real-estate-website": {
@@ -165,8 +208,14 @@
       ]
     },
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      {
+        "number": "2M",
+        "text": "Downloads"
+      },
+      {
+        "number": "500k",
+        "text": "New Users Acquired"
+      }
     ]
   },
   "doctor-appointment-application": {
@@ -220,7 +269,10 @@
       },
       {
         "title": "Challenges",
-        "items": ["Seamless User Experience", "Scalability and Performance"]
+        "items": [
+          "Seamless User Experience",
+          "Scalability and Performance"
+        ]
       },
       {
         "title": "Development",
@@ -254,8 +306,14 @@
       ]
     },
     "results": [
-      { "number": "2M", "text": "Downloads" },
-      { "number": "500k", "text": "New Users Acquired" }
+      {
+        "number": "2M",
+        "text": "Downloads"
+      },
+      {
+        "number": "500k",
+        "text": "New Users Acquired"
+      }
     ]
   },
   "event-management-app": {
@@ -275,7 +333,11 @@
         "text": "App Design, Development, and Deployment",
         "isLink": false
       },
-      { "label": "Business Type", "text": "B2B and B2C", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "B2B and B2C",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -294,16 +356,33 @@
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market research", "Feature prioritization"]
+        "items": [
+          "Market research",
+          "Feature prioritization"
+        ]
       },
-      { "title": "Product Design", "items": ["UX/UI design", "Prototyping"] },
+      {
+        "title": "Product Design",
+        "items": [
+          "UX/UI design",
+          "Prototyping"
+        ]
+      },
       {
         "title": "Development",
-        "items": ["iOS App", "Android App", "Web Portal"]
+        "items": [
+          "iOS App",
+          "Android App",
+          "Web Portal"
+        ]
       },
       {
         "title": "Deployment",
-        "items": ["App Store publishing", "Play Store publishing", "Web launch"]
+        "items": [
+          "App Store publishing",
+          "Play Store publishing",
+          "Web launch"
+        ]
       }
     ],
     "challenges": [
@@ -327,8 +406,14 @@
       ]
     },
     "results": [
-      { "number": "100k", "text": "Downloads in First Month" },
-      { "number": "500+", "text": "Events Managed Successfully" }
+      {
+        "number": "100k",
+        "text": "Downloads in First Month"
+      },
+      {
+        "number": "500+",
+        "text": "Events Managed Successfully"
+      }
     ]
   },
   "travel-booking-system": {
@@ -348,7 +433,11 @@
         "text": "Web and Mobile App Development, API Integration",
         "isLink": false
       },
-      { "label": "Business Type", "text": "B2C and B2B", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "B2C and B2B",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -367,19 +456,32 @@
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Market analysis", "User journey mapping"]
+        "items": [
+          "Market analysis",
+          "User journey mapping"
+        ]
       },
       {
         "title": "Product Design",
-        "items": ["UX/UI design", "Responsive web design"]
+        "items": [
+          "UX/UI design",
+          "Responsive web design"
+        ]
       },
       {
         "title": "Development",
-        "items": ["Web platform", "iOS App", "Android App"]
+        "items": [
+          "Web platform",
+          "iOS App",
+          "Android App"
+        ]
       },
       {
         "title": "Integration",
-        "items": ["GDS integration", "Payment gateway integration"]
+        "items": [
+          "GDS integration",
+          "Payment gateway integration"
+        ]
       }
     ],
     "challenges": [
@@ -403,8 +505,14 @@
       ]
     },
     "results": [
-      { "number": "1M+", "text": "Monthly Active Users" },
-      { "number": "500k", "text": "Bookings in First Year" }
+      {
+        "number": "1M+",
+        "text": "Monthly Active Users"
+      },
+      {
+        "number": "500k",
+        "text": "Bookings in First Year"
+      }
     ]
   },
   "Michelin-Tyre": {
@@ -424,7 +532,11 @@
         "text": "IoT Integration, Mobile App Development, Data Analytics",
         "isLink": false
       },
-      { "label": "Business Type", "text": "B2B and B2C", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "B2B and B2C",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -443,15 +555,25 @@
     "services": [
       {
         "title": "Conceptualization",
-        "items": ["Requirements gathering", "System architecture design"]
+        "items": [
+          "Requirements gathering",
+          "System architecture design"
+        ]
       },
       {
         "title": "Product Design",
-        "items": ["UX/UI design", "IoT sensor design"]
+        "items": [
+          "UX/UI design",
+          "IoT sensor design"
+        ]
       },
       {
         "title": "Development",
-        "items": ["Mobile app", "Web dashboard", "IoT firmware"]
+        "items": [
+          "Mobile app",
+          "Web dashboard",
+          "IoT firmware"
+        ]
       },
       {
         "title": "Integration",
@@ -482,8 +604,14 @@
       ]
     },
     "results": [
-      { "number": "20%", "text": "Increase in Tyre Lifespan" },
-      { "number": "15%", "text": "Improvement in Fuel Efficiency" }
+      {
+        "number": "20%",
+        "text": "Increase in Tyre Lifespan"
+      },
+      {
+        "number": "15%",
+        "text": "Improvement in Fuel Efficiency"
+      }
     ]
   },
   "98degreenorth": {
@@ -503,7 +631,11 @@
         "text": "GPS Integration, Satellite Communication, Environmental Monitoring",
         "isLink": false
       },
-      { "label": "Business Type", "text": "B2B", "isLink": false },
+      {
+        "label": "Business Type",
+        "text": "B2B",
+        "isLink": false
+      },
       {
         "label": "Build your idea",
         "text": "Consult our experts",
@@ -529,7 +661,10 @@
       },
       {
         "title": "Product Design",
-        "items": ["Rugged hardware design", "Intuitive UI/UX"]
+        "items": [
+          "Rugged hardware design",
+          "Intuitive UI/UX"
+        ]
       },
       {
         "title": "Development",
@@ -569,8 +704,14 @@
       ]
     },
     "results": [
-      { "number": "100%", "text": "Success Rate in Test Expeditions" },
-      { "number": "30%", "text": "Increase in Data Collection Efficiency" }
+      {
+        "number": "100%",
+        "text": "Success Rate in Test Expeditions"
+      },
+      {
+        "number": "30%",
+        "text": "Increase in Data Collection Efficiency"
+      }
     ]
   }
 }
