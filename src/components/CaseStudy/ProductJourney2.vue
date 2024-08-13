@@ -1,6 +1,6 @@
 <template>
 
-<div>
+<div class="main">
     <img :src="require(`@/assets/images/casestudy/dominos-banner2.png`)" alt="Image 1" class="image-head" />
     <section class="product-journey">
 
@@ -40,12 +40,16 @@
   </script>
 
   <style scoped>
+  .main{
+    margin-top: 150px;
+  }
   .product-journey {
     padding: 50px 20px;
     background-color: white;
     color: #333;
     text-align: start;
     padding-inline: 180px;
+
   }
 
   .main-heading {
@@ -83,6 +87,9 @@
     .product-journey {
 
     padding-inline: 20px;
+  }
+  .main{
+    margin-top: 10px;
   }
 
   }

@@ -57,4 +57,21 @@ export default {
   transition: background-color 0.3s ease;
 }
 
+/* Mobile-specific styles */
+@media (max-width: 768px) {
+  .content {
+    width: 100%;
+  }
+
+  .heading {
+    font-size: 32px; /* Smaller font size for mobile */
+    margin-bottom: 15px;
+  }
+
+  .cta-button {
+    padding: 15px 20px; /* Adjust button padding for mobile */
+    font-size: 16px; /* Smaller font size for button */
+  }
+}
 </style>
+
