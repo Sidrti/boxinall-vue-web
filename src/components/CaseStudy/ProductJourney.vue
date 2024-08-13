@@ -39,6 +39,7 @@
     flex-wrap: wrap;
     padding-bottom: 100px;
     padding-inline: 180px;
+
   }
 
   .left-section,
