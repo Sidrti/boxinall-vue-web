@@ -65,6 +65,17 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
     "journey": {
       "mainHeading": "Appinventiv's Development Journey with Domino's",
       "contents": [
@@ -73,8 +84,8 @@
         "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
         "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
       ],
-      "image1": "@/assets/images/casestudy/dominos-screen5.png",
-      "image2": "@/assets/images/casestudy/dominos-screen5.png"
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
     },
     "results_product": {
       "mainHeading": "The Results - 23% Increase in Conversion Rate",
@@ -82,7 +93,18 @@
         "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
         "A validation of this was the changed user sentiment in ratings and reviews."
       ],
-      "image1": "@/assets/images/casestudy/dominos-screen5.png"
+      "image1": "dominos-ratings.png"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
     },
     "challenges": [
       {
@@ -180,6 +202,47 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+    },
     "challenges": [
       {
         "number": 1,
@@ -282,6 +345,47 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
     "challenges": [
       {
         "number": 1,
@@ -385,6 +489,47 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
     "challenges": [
       {
         "number": 1,
@@ -484,6 +629,47 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
     "challenges": [
       {
         "number": 1,
@@ -583,6 +769,47 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
     "challenges": [
       {
         "number": 1,
@@ -683,6 +910,47 @@
         ]
       }
     ],
+    "product_journey": {
+      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
+      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
+      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+    },
+    "review": {
+      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "name": "John Doe",
+      "designation": "Product Head - Digital",
+      "image": "client1.png"
+    },
+    "journey": {
+      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "contents": [
+        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
+        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
+        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
+        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+      ],
+      "image1": "dominos-screen5.png",
+      "image2": "dominos-screen6.png"
+    },
+    "results_product": {
+      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "contents": [
+        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
+        "A validation of this was the changed user sentiment in ratings and reviews."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "conversation_rate": {
+      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+    },
+    "productGallery": {
+      "images": [
+        "dominos-screen1.png",
+        "dominos-screen3.png",
+        "dominos-screen4.png",
+        "dominos-screen1.png"
+      ]
+    },
     "challenges": [
       {
         "number": 1,

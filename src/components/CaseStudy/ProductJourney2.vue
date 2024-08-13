@@ -13,8 +13,8 @@
       </div>
       <div class="images-container">
 
-        <img :src="require(`@/assets/images/casestudy/dominos-screen6.png`)" alt="Image 1" class="image" />
-        <img :src="require(`@/assets/images/casestudy/dominos-screen5.png`)" alt="Image 2" class="image" />
+        <img :src="require(`@/assets/images/casestudy/${journey.image1}`)" alt="Image 1" class="image" />
+        <img :src="require(`@/assets/images/casestudy/${journey.image2}`)" alt="Image 2" class="image" />
       </div>
     </section>
 </div>
