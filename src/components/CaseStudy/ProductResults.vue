@@ -8,7 +8,7 @@
       </div>
       <div class="images-container">
 
-        <img :src="require(`@/assets/images/casestudy/dominos-ratings.png`)" alt="Image 1" class="image" />
+        <img  :src="require(`@/assets/images/casestudy/${journey.image1}`)"  alt="Image 1" class="image" />
       </div>
     </section>
   </template>

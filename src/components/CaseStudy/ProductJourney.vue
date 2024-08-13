@@ -2,26 +2,17 @@
     <div class="product-journey-container">
       <div class="left-section">
         <p class="left-section-content">
-          Every Solution Needs a Problem to Begin With - In Case of Domino's
-          Mobile App, It was a Complex User Journey.
+          {{ product_journey.mainHeading }}
         </p>
       </div>
       <div class="right-section">
         <p class="right-section-content">
-          It is not uncommon for a restaurant application to get reviews on food
-          quality, delivery time, etc. It is something that every food business
-          owner is prepared for. What is alarming is when reviews start
-          highlighting issues related to the app experience, difficulty in placing
-          an order, or in-app user journey.
+          {{ product_journey.content1 }}
         </p>
         <br />
         <br />
         <p class="right-section-content">
-          When Domino's came to us, they were
-          facing issues with retaining customers and were seeing a rise in their
-          mobile app's bounce rate. They were looking for ways to redefine their
-          business identity in the market and reinstate their image, through
-          redesigned <span class="highlight">user interface and user experience (UI/UX)</span>.
+          {{ product_journey.content2 }}
         </p>
       </div>
     </div>
@@ -30,6 +21,12 @@
   <script>
   export default {
     name: "ProductJourney",
+    props: {
+      product_journey: {
+        type: Object,
+        required: true
+      }
+    }
   };
   </script>
 

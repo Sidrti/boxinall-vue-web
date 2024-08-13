@@ -54,13 +54,13 @@
         </div>
       </div>
     </div>
-    <ProductGallery/>
-    <ProductJourney />
-    <ReviewSection/>
+    <ProductGallery :gallery="data.productGallery"/>
+    <ProductJourney :product_journey="data.product_journey"/>
+    <ReviewSection :review="data.review"/>
     <OurProcess :services="data.services"/>
     <ProductJourney2 :journey="data.journey"/>
     <ProductResults :journey="data.results_product"/>
-    <ConversationRate />
+    <ConversationRate :data="data.conversation_rate" />
 
   </section>
 </template>

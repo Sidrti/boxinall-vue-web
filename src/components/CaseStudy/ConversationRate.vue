@@ -2,8 +2,7 @@
   <section class="conversation-section">
     <div class="content">
       <h1 class="heading">
-        Boxinall Helped Domino's Increase Conversion Rate by 23% Through a
-        Transformative UI/UX
+       {{data.content}}
       </h1>
       <button class="cta-button">Let's Discuss Your Project Idea</button>
     </div>
@@ -13,6 +12,12 @@
 <script>
 export default {
   name: "ConversationRate",
+  props: {
+    data: {
+      type: Object,
+      required: true
+    }
+  }
 };
 </script>
 

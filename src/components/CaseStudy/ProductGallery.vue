@@ -1,7 +1,7 @@
 <template>
     <section class="product-gallery">
       <div class="images-container">
-        <img v-for="(image, index) in images" :key="index" :src="require(`@/assets/images/casestudy/${image}`)" :alt="`Product Image ${index + 1}`" class="gallery-image" />
+        <img v-for="(image, index) in gallery.images" :key="index" :src="require(`@/assets/images/casestudy/${image}`)" :alt="`Product Image ${index + 1}`" class="gallery-image" />
       </div>
     </section>
   </template>
@@ -9,16 +9,13 @@
   <script>
   export default {
     name: "ProductGallery",
-    data() {
-      return {
-        images: [
-          'dominos-screen1.png',
-          'dominos-screen3.png',
-          'dominos-screen4.png',
-          'dominos-screen1.png'
-        ]
+    props: {
+        gallery: {
+        type: Object,
+        required: true
       }
-    }
+    },
+
   }
   </script>
 
