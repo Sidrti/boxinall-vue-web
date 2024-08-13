@@ -58,6 +58,7 @@
     <ProductJourney :product_journey="data.product_journey"/>
     <ReviewSection :review="data.review"/>
     <OurProcess :services="data.services"/>
+    <ProjectChallenges :challenges="data.project_challenges" />
     <ProductJourney2 :journey="data.journey"/>
     <ProductResults :journey="data.results_product"/>
     <ConversationRate :data="data.conversation_rate" />
@@ -75,6 +76,8 @@ import OurProcess from '@/components/CaseStudy/OurProcess.vue';
 import ProductJourney2 from '@/components/CaseStudy/ProductJourney2.vue';
 import ProductResults from '@/components/CaseStudy/ProductResults.vue';
 import ConversationRate from '@/components/CaseStudy/ConversationRate.vue';
+import ProjectChallenges from '@/components/CaseStudy/ProjectChallenges.vue';
+
 
 
 export default {
@@ -86,7 +89,8 @@ export default {
     OurProcess,
     ProductJourney2,
     ProductResults,
-    ConversationRate
+    ConversationRate,
+    ProjectChallenges
   },
   props: {
     data: {
