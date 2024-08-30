@@ -26,7 +26,7 @@ const routes = [
     component: PortfolioView,
   },
   {
-    path: "/portfolio2",
+    path: '/portfolio2/:tab?',
     name: "portfolio2",
     component: PortfolioView2,
   },

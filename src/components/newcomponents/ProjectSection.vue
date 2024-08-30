@@ -83,20 +83,48 @@ export default {
       if (this.selectedTab === "All") {
         return this.projects;
       }
-      return this.projects.filter(project => project.type === this.selectedTab.toLowerCase());
+      return this.projects.filter(
+        (project) => project.type.toLowerCase() === this.selectedTab.toLowerCase()
+      );
     },
   },
   methods: {
-    selectTab(tab) {
+  selectTab(tab) {
+    if (this.selectedTab !== tab) {
       this.selectedTab = tab;
-    },
-    viewCaseStudy(link) {
-      this.$router.push(link);
-    },
-    exploreProject(link) {
-      window.open(link, "_blank");
-    },
+      this.updateUrl(tab);
+    }
   },
+  updateUrl(tab) {
+    const currentPath = this.$route.path.split('/').pop();
+    if (currentPath !== tab) {
+      this.$router.push({ path: `/portfolio2/${tab}` });
+    }
+  },
+  viewCaseStudy(link) {
+    this.$router.push(link);
+  },
+  exploreProject(link) {
+    window.open(link, "_blank");
+  },
+  setTabFromRoute() {
+    const tabFromRoute = this.$route.path.split('/').pop();
+    if (this.tabs.includes(tabFromRoute)) {
+      this.selectedTab = tabFromRoute;
+    } else {
+      this.selectedTab = "All"; // default to "All" if no valid tab is in the route
+    }
+  }
+}
+,
+  watch: {
+    $route() {
+      this.setTabFromRoute();
+    }
+  },
+  mounted() {
+    this.setTabFromRoute();
+  }
 };
 </script>
 
@@ -121,6 +149,7 @@ export default {
   flex-direction: column;
   gap: 4rem;
 }
+
 .view-details-btn {
   align-self: flex-start;
   padding: 15px 30px;
@@ -166,6 +195,7 @@ export default {
   transform: translateY(0);
   box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
 }
+
 /* Project Tabs */
 .project-tabs {
   display: flex;
@@ -310,40 +340,32 @@ export default {
   }
 }
 
-@media (max-width: 576px) {
-  .portfolio-grid {
-    padding: 5%;
+@media (max-width: 768px) {
+  .project-card {
+    flex-direction: column;
   }
-
-  .project-tabs {
-    justify-content: flex-start;
-    margin-bottom: 1.5rem;
-    overflow-x: auto;
-  }
-
-  .tab-button {
-    min-width: 150px;
-    max-width: 200px;
-    padding: 8px 16px;
+  .view-details-btn {
+    padding: 10px 20px;
     font-size: 14px;
   }
+}
 
+@media (max-width: 480px) {
+  .portfolio-grid {
+    padding: 5% 5%;
+  }
+  .project-card {
+    padding: 15px;
+  }
   .project-title {
     font-size: 1.5rem;
   }
-
   .project-description {
     font-size: 0.9rem;
   }
-
-  .stackitem {
-    font-size: 18px;
-  }
-
-  .case-study-btn,
-  .explore-btn {
-    padding: 0.6rem 1rem;
-    font-size: 0.9rem;
+  .view-details-btn {
+    padding: 8px 15px;
+    font-size: 12px;
   }
 }
 </style>
