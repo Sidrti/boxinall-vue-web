@@ -3,7 +3,6 @@
     <HeroSection @scroll-to-projects="scrollToProjects" />
     <ProjectSection />
     <SkillSection />
-    <AchievementSection />
     <CTASection @contact-us="contactUs" />
   </div>
 </template>
@@ -14,7 +13,6 @@ import "aos/dist/aos.css";
 import HeroSection from "./newcomponents/HeroSection.vue";
 import ProjectSection from "./newcomponents/ProjectSection.vue";
 import SkillSection from "./newcomponents/SkillSection.vue";
-import AchievementSection from "./newcomponents/AchievementSection.vue";
 import CTASection from "./newcomponents/CTASection.vue";
 
 export default {
@@ -22,7 +20,6 @@ export default {
     HeroSection,
     ProjectSection,
     SkillSection,
-    AchievementSection,
     CTASection,
   },
 
