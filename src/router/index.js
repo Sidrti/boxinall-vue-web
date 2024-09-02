@@ -11,6 +11,7 @@ import ContactView from "../views/ContactView";
 import CaseStudyView from "../views/CaseStudyView";
 import CaseStudyView2 from "../views/CaseStudyView2";
 import WebDevelopmentServiceView from "@/views/Services/WebDevelopmentServiceView.vue";
+import IndustryView from  "@/views/Services/Industry/IndustryView.vue"
 
 Vue.use(VueRouter);
 
@@ -46,6 +47,22 @@ const routes = [
     name: 'mobile-service-description',
     component: MobileDevelopmentServiceView,
   },
+  {
+    path: "/process/services/:serviceType",
+    name: "industry-view",
+    component: IndustryView,
+    props: true // Enables passing route params as props
+  },
+  // {
+  //   path: "/process/services/ecommerce-app-development",
+  //   name: "ecommerce-app-development",
+  //   component: IndustryView,
+  // },
+  // {
+  //   path: "/process/services/travel-app-development",
+  //   name: "ecommerce-app-development",
+  //   component: IndustryView,
+  // },
   {
     path: "/process/:id",
     name: "service-description",
