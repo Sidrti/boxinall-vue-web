@@ -1,11 +1,13 @@
 <template>
     <div class="web-development-service-view">
       <ServiceBanner :data="serviceData" />
+      <IndustryStats :data="serviceData"/>
       <OurService :data="serviceData" />
       <DevelopmentMode :data="serviceData" />
       <ToolsAndFramework :data="serviceData" />
       <ClientReview :data="serviceData" />
       <AchievementsSlider :data="serviceData" />
+
     </div>
   </template>
 
@@ -17,16 +19,19 @@
   import ToolsAndFramework from '@/components/Industry/ToolsAndFramework.vue';
   import ClientReview from '@/components/Industry/ClientReview.vue';
   import AchievementsSlider from '@/components/Industry/AchievementsSlider.vue';
+  import IndustryStats from '@/components/Industry/IndustryStats.vue';
 
   export default {
     name: 'IndustryView',
     components: {
       ServiceBanner,
+      IndustryStats,
       OurService,
       DevelopmentMode,
       ToolsAndFramework,
       ClientReview,
-      AchievementsSlider
+      AchievementsSlider,
+
     },
     props: {
       serviceType: {
