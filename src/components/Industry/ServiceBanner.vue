@@ -71,7 +71,7 @@ export default {
   font-weight: 400;
 }
 .funding-button {
-  border: 4px solid black;
+  border: 2px solid black;
   color: black;
   padding: 10px 20px;
   font-size: 16px;

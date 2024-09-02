@@ -63,6 +63,23 @@
                 }
             ]
         },
+        "industryStats": {
+            "title": "Build a strong ground to grow your eCommerce app idea.",
+            "stats": [
+                {
+                    "number": "1200+",
+                    "description": "Ecommerce Experts Under One Roof"
+                },
+                {
+                    "number": "8+",
+                    "description": "Years Developing Technology"
+                },
+                {
+                    "number": "95%",
+                    "description": "Clients Stay With Us"
+                }
+            ]
+        },
         "ourservices": {
             "title": "Capabilities that assure industry-best eCommerce application development services",
             "subTitle": "Our team of highly skilled eCommerce app developers have a varied background in software development, AI/ML, cloud computing, data and cybersecurity services. With this expertise, the team offers top-class eCommerce app development services, helping us become the best eCommerce app development company.",
@@ -91,7 +108,6 @@
             "title": "A time-tested (yet flexible) development process our services include.",
             "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
             "cardList": [
-
                 {
                     "id": 2,
                     "title": "Best development practices",
@@ -369,6 +385,23 @@
                 },
                 {
                     "title": "Shopify"
+                }
+            ]
+        },
+        "industryStats": {
+            "title": "Our Industry Stats",
+            "stats": [
+                {
+                    "number": "1200+",
+                    "description": "Ecommerce Experts Under One Roof"
+                },
+                {
+                    "number": "8+",
+                    "description": "Years Developing Technology"
+                },
+                {
+                    "number": "95%",
+                    "description": "Clients Stay With Us"
                 }
             ]
         },
