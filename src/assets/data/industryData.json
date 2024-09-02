@@ -1,0 +1,613 @@
+{
+    "ecommerce-software-development": {
+        "title1": "eCommerce App",
+        "title2": "Development Services",
+        "subtitle": "We don’t just build apps, we engineer experiences!",
+        "bannerBtnTitle": "Let's Redifine Ecommerce",
+        "bannerImageSrc": "ecommerce-banner.png",
+        "overview": {
+            "title": "We offer cusstom mobile app development across all platforms",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "hashtags": [
+                {
+                    "name": "Android App Development"
+                },
+                {
+                    "name": "Cross Platform App Development"
+                },
+                {
+                    "name": "iOS App development"
+                },
+                {
+                    "name": "30+ Mobile App Delivered"
+                },
+                {
+                    "name": "25+ Clients"
+                },
+                {
+                    "name": "10+ In house Developers"
+                }
+            ],
+            "iconList": [
+                {
+                    "src": "/image/android.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/ios.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/atom.png",
+                    "alt": "Alt"
+                }
+            ],
+            "advantages": [
+                {
+                    "title": "React Native"
+                },
+                {
+                    "title": "Java"
+                },
+                {
+                    "title": "React Js"
+                },
+                {
+                    "title": "Kotlin"
+                },
+                {
+                    "title": "Android Studio"
+                },
+                {
+                    "title": "Objective - C"
+                }
+            ]
+        },
+        "ourservices": {
+            "title": "Capabilities that assure industry-best eCommerce application development services",
+            "subTitle": "Our team of highly skilled eCommerce app developers have a varied background in software development, AI/ML, cloud computing, data and cybersecurity services. With this expertise, the team offers top-class eCommerce app development services, helping us become the best eCommerce app development company.",
+            "servicesList": [
+                {
+                    "id": 1,
+                    "title": "Award-winning team",
+                    "description": "As a premium eCommerce mobile app development company, our expertise is reflected in the digital products and apps developed by our eCommerce app developers that have bagged prestigious awards year-on-year. ",
+                    "imagesrc": "software-developers.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Best development practices",
+                    "description": "Using DevOps and Agile methodologies, we quickly and efficiently cater to our client’s needs, closing gaps and delivering seamless shopping experiences.",
+                    "imagesrc": "business-people.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Transparency is paramount",
+                    "description": "Being the best-in-class eCommerce app development company, we believe that an open communication channel translates into more productive and efficient eCommerce app development services. Therefore, we keep our clients updated about the development at all stages. ",
+                    "imagesrc": "software-developers.png"
+                }
+            ]
+        },
+        "developmentMode": {
+            "title": "A time-tested (yet flexible) development process our services include.",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "cardList": [
+
+                {
+                    "id": 2,
+                    "title": "Best development practices",
+                    "description": "In this step, we also zero in on the best possible . elements to cater to your audience and design thoughtful user journeys that increase conversions.",
+                    "imagesrc": "progressive-web.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Development and Testing",
+                    "description": "In this stage of the development process we develop the apps, create the necessary components and APIs and seamlessly connect the parts together that come alive as a beautiful and engaging eCommerce app. ",
+                    "imagesrc": "android-app.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Deployment and maintenance",
+                    "description": "As part of our eCommerce software development services, we deploy the app or software on its intended platform and based on the feedback from focus groups and general users alike, we update and maintain the app for the best result. ",
+                    "imagesrc": "android-app.png"
+                }
+            ]
+        },
+        "toolsAndFramework": {
+            "title": "A time-tested (yet flexible) development process our services include.",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "techCategories": [
+                {
+                    "id": 1,
+                    "name": "Backend",
+                    "technologies": [
+                        "Php",
+                        "Node.js",
+                        ".Net",
+                        "Python",
+                        "Laravel"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Frontend",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Databases",
+                    "technologies": [
+                        "Mongodb",
+                        "Mysql",
+                        "PostgreSQL",
+                        "Firebase"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Frameworks",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "DevOps",
+                    "technologies": [
+                        "Chef",
+                        "Puppet",
+                        "Terraform",
+                        "Jenkins",
+                        "GitLab",
+                        "Ansible",
+                        "Docker",
+                        "Kubernetes",
+                        "CircleCI",
+                        "Travis CI"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Quality",
+                    "technologies": [
+                        "Selenium",
+                        "Appium",
+                        "JUnit",
+                        "TestNG",
+                        "Cucumber",
+                        "Postman",
+                        "JMeter",
+                        "LoadRunner",
+                        "SonarQube",
+                        "TestRail"
+                    ]
+                }
+            ]
+        },
+        "clientReview": {
+            "title": "What Our Clients Have to Say For Our Services.",
+            "clients": [
+                {
+                    "id": 1,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 2,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We approached Boxinall with a clear vision to build a robust and future-ready platform that could seamlessly integrate with the busy lifestyle of our customers while uplifting their overall experience and giving us a competitive edge. The Boxinall team not only understood our vision but also enhanced the overall solution with their expertise. The end results exceeded our expectations with massive improvements in the user base and digital revenue for different brands."
+                },
+                {
+                    "id": 3,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 4,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                }
+            ]
+        },
+        "process": {
+            "title": "Our App Development Process",
+            "subTitle": "Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
+            "processList": [
+                {
+                    "title": "Define Your Idea",
+                    "description": " Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
+                    "src": "/image/mobile-process1.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Technical Requirement Gathering",
+                    "description": "We send you a business proposal outlining cost estimates, scope of work and much more.",
+                    "src": "/image/mobile-process2.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Business proposal",
+                    "description": " Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
+                    "src": "/image/mobile-process3.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Find the best solution",
+                    "description": "Well crafted proposal on how to reach your goals. ",
+                    "src": "/image/mobile-process4.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "We assign a dedicated Project Manager",
+                    "description": "We assign a dedicated account manager to you.",
+                    "src": "/image/mobile-process5.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Assign a development team",
+                    "description": "Well crafted proposal on how to reach your goals. ",
+                    "src": "/image/mobile-process6.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Create scrum sheet for agile framework (JIRA)",
+                    "description": "We assign a dedicated account manager to you.",
+                    "src": "/image/mobile-process7.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Start Your Project - Wireframing and Prototyping ",
+                    "description": "Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
+                    "src": "/image/mobile-process8.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "UI/UX Design",
+                    "description": "    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
+                    "src": "/image/mobile-process9.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Development ",
+                    "description": "    Select the appropriate technology stack (programming languages, frameworks, etc.). Implement the front-end and back-end functionalities. Integrate APIs and third-party services as needed. Conduct regular code reviews and testing during development.",
+                    "src": "/image/mobile-process10.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Testing and Quality Assurance",
+                    "description": "       Perform functional testing to ensure all features work as expected.  Conduct compatibility testing across different devices and operating systems.  Test the app's performance, security, and usability.  Address any identified bugs or issues..",
+                    "src": "/image/mobile-process11.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Deployment and Release",
+                    "description": "      Prepare the app for deployment to the desired app stores (e.g., Apple App Store, Google Play Store). Create developer accounts and fulfill submission requirements.  Generate release builds and upload the app for review.",
+                    "src": "/image/mobile-process12.png",
+                    "alt": "Alt"
+                }
+            ]
+        },
+        "awards": {
+            "title": "The major awards and recognitions that have been bestowed to Boxinall over the years for Mobile App Development include Our App Development Process include:"
+        }
+    },
+    "travel-software-development": {
+        "title1": "eCommerce App",
+        "title2": "Development Services",
+        "subtitle": "We don’t just build apps, we engineer experiences!",
+        "bannerBtnTitle": "Let's Redifine Ecommerce",
+        "bannerImageSrc": "ecommerce-banner.png",
+        "overview": {
+            "title": "Drive your Business Growth with Creative Digital Experience",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "hashtags": [
+                {
+                    "name": "Custom Website Development"
+                },
+                {
+                    "name": "Website Design and Redesign"
+                },
+                {
+                    "name": "CMS Website Design"
+                },
+                {
+                    "name": "70 + Happy Clients"
+                },
+                {
+                    "name": "1,00   +                  Website Developed"
+                },
+                {
+                    "name": "10 +                  Web Developers"
+                }
+            ],
+            "iconList": [
+                {
+                    "src": "/image/php.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/react.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/wordpress.png",
+                    "alt": "Alt"
+                }
+            ],
+            "advantages": [
+                {
+                    "title": "PHP"
+                },
+                {
+                    "title": "React Js"
+                },
+                {
+                    "title": "Laravel"
+                },
+                {
+                    "title": "Vue.js"
+                },
+                {
+                    "title": "Wordpress"
+                },
+                {
+                    "title": "Shopify"
+                }
+            ]
+        },
+        "ourservices": {
+            "title": "Capabilities that assure industry-best eCommerce application development services",
+            "subTitle": "Our team of highly skilled eCommerce app developers have a varied background in software development, AI/ML, cloud computing, data and cybersecurity services. With this expertise, the team offers top-class eCommerce app development services, helping us become the best eCommerce app development company.",
+            "servicesList": [
+                {
+                    "id": 1,
+                    "title": "Award-winning team",
+                    "description": "As a premium eCommerce mobile app development company, our expertise is reflected in the digital products and apps developed by our eCommerce app developers that have bagged prestigious awards year-on-year. ",
+                    "imagesrc": "software-developers.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Best development practices",
+                    "description": "Using DevOps and Agile methodologies, we quickly and efficiently cater to our client’s needs, closing gaps and delivering seamless shopping experiences.",
+                    "imagesrc": "business-people.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Transparency is paramount",
+                    "description": "Being the best-in-class eCommerce app development company, we believe that an open communication channel translates into more productive and efficient eCommerce app development services. Therefore, we keep our clients updated about the development at all stages. ",
+                    "imagesrc": "software-developers.png"
+                }
+            ]
+        },
+        "developmentMode": {
+            "title": "A time-tested (yet flexible) development process our services include.",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "cardList": [
+                {
+                    "id": 1,
+                    "title": "Discovery",
+                    "description": "Being a top-rated eCommerce application development company, our development process begins with discovering the market fit of your eCommerce app idea. We thoughtfully study the landscape for similar offerings and develop the best technology to satisfy your specific requirements. ",
+                    "imagesrc": "react-native.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Best development practices",
+                    "description": "In this step, we also zero in on the best possible . elements to cater to your audience and design thoughtful user journeys that increase conversions.",
+                    "imagesrc": "progressive-web.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Development and Testing",
+                    "description": "In this stage of the development process we develop the apps, create the necessary components and APIs and seamlessly connect the parts together that come alive as a beautiful and engaging eCommerce app. ",
+                    "imagesrc": "android-app.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Deployment and maintenance",
+                    "description": "As part of our eCommerce software development services, we deploy the app or software on its intended platform and based on the feedback from focus groups and general users alike, we update and maintain the app for the best result. ",
+                    "imagesrc": "android-app.png"
+                }
+            ]
+        },
+        "toolsAndFramework": {
+            "title": "A time-tested (yet flexible) development process our services include.",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "techCategories": [
+                {
+                    "id": 1,
+                    "name": "Backend",
+                    "technologies": [
+                        "Php",
+                        "Node.js",
+                        ".Net",
+                        "Python",
+                        "Laravel"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Frontend",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Databases",
+                    "technologies": [
+                        "Mongodb",
+                        "Mysql",
+                        "PostgreSQL",
+                        "Firebase"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Frameworks",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "DevOps",
+                    "technologies": [
+                        "Chef",
+                        "Puppet",
+                        "Terraform",
+                        "Jenkins",
+                        "GitLab",
+                        "Ansible",
+                        "Docker",
+                        "Kubernetes",
+                        "CircleCI",
+                        "Travis CI"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Quality",
+                    "technologies": [
+                        "Selenium",
+                        "Appium",
+                        "JUnit",
+                        "TestNG",
+                        "Cucumber",
+                        "Postman",
+                        "JMeter",
+                        "LoadRunner",
+                        "SonarQube",
+                        "TestRail"
+                    ]
+                }
+            ]
+        },
+        "clientReview": {
+            "title": "What Our Clients Have to Say For Our Services.",
+            "clients": [
+                {
+                    "id": 1,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 2,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We approached Boxinall with a clear vision to build a robust and future-ready platform that could seamlessly integrate with the busy lifestyle of our customers while uplifting their overall experience and giving us a competitive edge. The Boxinall team not only understood our vision but also enhanced the overall solution with their expertise. The end results exceeded our expectations with massive improvements in the user base and digital revenue for different brands."
+                },
+                {
+                    "id": 3,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 4,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                }
+            ]
+        },
+        "process": {
+            "title": "Our Website Development Process",
+            "subTitle": "Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
+            "processList": [
+                {
+                    "title": "Define Your Idea",
+                    "description": " Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
+                    "src": "/image/mobile-process1.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Technical Requirement Gathering",
+                    "description": "We send you a business proposal outlining cost estimates, scope of work and much more.",
+                    "src": "/image/mobile-process2.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Business proposal",
+                    "description": " Define the app's purpose, target audience, and goals. Conduct market research and competitor analysis. Create a detailed project plan, including milestones and timelines. Identify the app's key features and functionalities. ",
+                    "src": "/image/mobile-process3.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Find the best solution",
+                    "description": "Well crafted proposal on how to reach your goals. ",
+                    "src": "/image/mobile-process4.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Dedicated project manager",
+                    "description": "We assign a dedicated account manager to you.",
+                    "src": "/image/mobile-process5.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Start Your Project - Wireframing and Prototyping ",
+                    "description": "Create wireframes to visualize the app's structure and layout. Develop interactive prototypes for user testing and feedback. ",
+                    "src": "/image/mobile-process6.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "UI/UX Design",
+                    "description": "    Create a visually appealing and intuitive user interface (UI) design.  Develop a consistent and engaging user experience (UX). Design app icons, logos, and other branding elements.",
+                    "src": "/image/mobile-process7.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Development ",
+                    "description": "    Select the appropriate technology stack (programming languages, frameworks, etc.). Implement the front-end and back-end functionalities. Integrate APIs and third-party services as needed. Conduct regular code reviews and testing during development.",
+                    "src": "/image/mobile-process9.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Testing and Quality Assurance",
+                    "description": "       Perform functional testing to ensure all features work as expected.  Conduct compatibility testing across different devices and operating systems.  Test the app's performance, security, and usability.  Address any identified bugs or issues..",
+                    "src": "/image/mobile-process10.png",
+                    "alt": "Alt"
+                },
+                {
+                    "title": "Deployment and Release",
+                    "description": "      Prepare the app for deployment to the desired app stores (e.g., Apple App Store, Google Play Store). Create developer accounts and fulfill submission requirements.  Generate release builds and upload the app for review.",
+                    "src": "/image/mobile-process12.png",
+                    "alt": "Alt"
+                }
+            ]
+        },
+        "awards": {
+            "title": "The major awards and recognitions that have been bestowed to Boxinall over the years for Mobile App Development include Our App Development Process include:"
+        }
+    }
+}
