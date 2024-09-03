@@ -98,9 +98,24 @@ const routes = [
 const router = new VueRouter({
   mode: "history",
   routes,
-  scrollBehavior() {
-    return { x: 0, y: 0 };
+  scrollBehavior(to, from, savedPosition) {
+    // Specify the routes for which you want to maintain scroll position
+    const maintainScrollRoutes = ['portfolio2'];
+
+    if (savedPosition) {
+      // Always return saved position if available
+      return savedPosition;
+    } else if (maintainScrollRoutes.includes(to.name) && maintainScrollRoutes.includes(from.name)) {
+      // Maintain the current scroll position when navigating between these routes
+      return { x: window.scrollX, y: window.scrollY };
+    } else {
+      // Default behavior: scroll to the top of the page
+      return { x: 0, y: 0 };
+    }
   },
+  // scrollBehavior() {
+  //   return { x: 0, y: 0 };
+  // },
 });
 
 export default router;
