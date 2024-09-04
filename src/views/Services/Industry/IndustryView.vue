@@ -1,15 +1,14 @@
 <template>
     <div class="web-development-service-view">
       <ServiceBanner :data="serviceData" />
-      <FeatureSection :data="serviceData" />
-      <IndustryStats :data="serviceData"/>
+      <WebFeatureSection v-if="!isMobile" :data="serviceData" />
+      <MobileFeatureSection v-else :data="serviceData" />
+      <IndustryStats :data="serviceData" />
       <OurService :data="serviceData" />
       <DevelopmentMode :data="serviceData" />
       <ToolsAndFramework :data="serviceData" />
       <ClientReview :data="serviceData" />
       <AchievementsSlider :data="serviceData" />
-
-
     </div>
   </template>
 
@@ -22,7 +21,8 @@
   import ClientReview from '@/components/Industry/ClientReview.vue';
   import AchievementsSlider from '@/components/Industry/AchievementsSlider.vue';
   import IndustryStats from '@/components/Industry/IndustryStats.vue';
-  import FeatureSection from '@/components/Industry/FeatureSection.vue';
+  import WebFeatureSection from '@/components/Industry/WebFeatureSection.vue';
+  import MobileFeatureSection from '@/components/Industry/MobileFeatureSection.vue';
 
   export default {
     name: 'IndustryView',
@@ -34,8 +34,8 @@
       ToolsAndFramework,
       ClientReview,
       AchievementsSlider,
-      FeatureSection
-
+      WebFeatureSection,
+      MobileFeatureSection
     },
     props: {
       serviceType: {
@@ -46,21 +46,16 @@
     data() {
       return {
         json: data,
-        serviceData: {}
+        serviceData: {},
+        isMobile: window.innerWidth <= 768 // Initialize based on the current window size
       };
     },
     mounted() {
       this.loadServiceData();
-      this.updateDeviceType();
       window.addEventListener('resize', this.updateDeviceType);
     },
     beforeDestroy() {
       window.removeEventListener('resize', this.updateDeviceType);
-    },
-    computed: {
-      isMobile() {
-        return window.innerWidth <= 768; // Adjust the width as needed
-      }
     },
     methods: {
       loadServiceData() {
@@ -72,7 +67,7 @@
         }
       },
       updateDeviceType() {
-        this.$forceUpdate(); // Force re-render to update the device type
+        this.isMobile = window.innerWidth <= 768; // Update isMobile based on window size
       }
     },
     watch: {
