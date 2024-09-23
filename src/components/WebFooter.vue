@@ -139,12 +139,12 @@
                                         Policy</a>
                                     <a href="https://boxinallsoftech.com/blog/return-and-refund-policy-for-boxinall-softech/"
                                         class="m-2">Cancellation</a>
-                                    <a href="https://boxinallsoftech.com/#/contact" class="m-2">Contact </a>
+                                    <a href="https://boxinallsoftech.com/contact" class="m-2">Contact </a>
                                 </div>
                             </div>
                             <div class="footer-">
                                 <p>© 2020-2022. All Rights Reserved By <a href="" target="blank">Boxinall
-                                        Softech</a></p>
+                                        Softech Pvt Ltd.</a></p>
                             </div>
                         </div>
                     </div>

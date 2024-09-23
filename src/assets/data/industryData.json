@@ -2,7 +2,7 @@
     "ecommerce-software-development": {
         "title1": "eCommerce App",
         "title2": "Development Services",
-        "subtitle": "We don’t just build apps, we engineer experiences!",
+        "subtitle": "Our focus extends beyond app development; we create immersive experiences!",
         "bannerBtnTitle": "Let's Redifine Ecommerce",
         "bannerImageSrc": "ecommerce-banner.png",
         "overview": {
@@ -67,15 +67,15 @@
             "title": "Build a strong ground to grow your eCommerce app idea.",
             "stats": [
                 {
-                    "number": "1200+",
+                    "number": "30+",
                     "description": "Ecommerce Experts Under One Roof"
                 },
                 {
-                    "number": "8+",
+                    "number": "6+",
                     "description": "Years Developing Technology"
                 },
                 {
-                    "number": "95%",
+                    "number": "93%",
                     "description": "Clients Stay With Us"
                 }
             ]
@@ -87,26 +87,26 @@
                 {
                     "id": 1,
                     "title": "Award-winning team",
-                    "description": "As a premium eCommerce mobile app development company, our expertise is reflected in the digital products and apps developed by our eCommerce app developers that have bagged prestigious awards year-on-year. ",
+                    "description": "As a leading provider of eCommerce mobile app development services, our proficiency is demonstrated through the award-winning digital products and applications created by our skilled eCommerce app developers, consistently recognized for excellence each year.",
                     "imagesrc": "software-developers.png"
                 },
                 {
                     "id": 2,
                     "title": "Best development practices",
-                    "description": "Using DevOps and Agile methodologies, we quickly and efficiently cater to our client’s needs, closing gaps and delivering seamless shopping experiences.",
+                    "description": "By employing DevOps and Agile methodologies, we swiftly and effectively address our clients' requirements, bridging gaps and providing smooth shopping experiences.",
                     "imagesrc": "business-people.png"
                 },
                 {
                     "id": 3,
                     "title": "Transparency is paramount",
-                    "description": "Being the best-in-class eCommerce app development company, we believe that an open communication channel translates into more productive and efficient eCommerce app development services. Therefore, we keep our clients updated about the development at all stages. ",
+                    "description": "By employing DevOps and Agile methodologies, we swiftly and effectively address our clients' requirements, bridging gaps and providing smooth shopping experiences.",
                     "imagesrc": "software-developers.png"
                 }
             ]
         },
         "developmentMode": {
-            "title": "A time-tested (yet flexible) development process our services include.",
-            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "title": "Our services encompass a proven and adaptable development process.",
+            "subTitle": "We integrate our technical knowledge with our clients' creative concepts to provide optimal mobile eCommerce app development solutions.",
             "cardList": [
                 {
                     "id": 2,
@@ -129,8 +129,8 @@
             ]
         },
         "toolsAndFramework": {
-            "title": "A time-tested (yet flexible) development process our services include.",
-            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "title": "Tools and language we use",
+            "subTitle": "",
             "techCategories": [
                 {
                     "id": 1,
@@ -322,11 +322,11 @@
         },
         "featureSection": {
             "title": "Our App Development Process",
-            "subTitle": "Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
+            "subTitle": "Our design methodology adheres to a well-established framework. We start by thoroughly assessing your requirements and then develop a comprehensive planning template.",
             "processList": [
                 {
                     "title": "Microservices-based eCommerce web and app development",
-                    "description": "This involves the development of eCommerce web and app platforms using microservices architecture, allowing for scalability and flexibility."
+                    "description": "This entails creating eCommerce web and application platforms utilizing a microservices architecture, which facilitates both scalability and adaptability."
                 },
                 {
                     "title": "Backend, frontend, & CRM development",
@@ -334,23 +334,23 @@
                 },
                 {
                     "title": "Payment gateways",
-                    "description": "Implementing secure and efficient payment gateways to handle transactions smoothly and securely."
+                    "description": "Establishing reliable and secure payment gateways to facilitate seamless and safe transaction processing."
                 },
                 {
                     "title": "PWA eCommerce",
-                    "description": "Progressive Web Apps (PWA) for eCommerce that provide an app-like experience on the web."
+                    "description": "Progressive Web Apps (PWAs) for eCommerce deliver a web experience that closely resembles that of a native application."
                 },
                 {
-                    "title": "Backend, frontend, & CRM development",
-                    "description": "This includes developing robust backend systems, responsive front-end interfaces, and integrated CRM systems for better customer management."
+                    "title": "E-commerce platform",
+                    "description": "Solutions for e-commerce businesses: store configuration, product catalog management, payment processing, order monitoring, and logistics."
                 },
                 {
-                    "title": "Payment gateways",
-                    "description": "Implementing secure and efficient payment gateways to handle transactions smoothly and securely."
+                    "title": "Order management system (OMS)",
+                    "description": "Retail software solutions: establish your store, manage product listings, handle payment processing, and monitor orders and shipping."
                 },
                 {
-                    "title": "PWA eCommerce",
-                    "description": "Progressive Web Apps (PWA) for eCommerce that provide an app-like experience on the web."
+                    "title": "Supply chain management software",
+                    "description": "Retail software enhances supply chain efficiency, manages shipment tracking, oversees inventory levels, and guarantees prompt delivery."
                 }
             ]
         },
@@ -361,9 +361,9 @@
     "travel-software-development": {
         "title1": "Travel App",
         "title2": "Development Services",
-        "subtitle": "We don’t just build apps, we engineer experiences!",
+        "subtitle": "Enhance the user experience for your clients by collaborating with us to develop high-performing, scalable, and secure travel software applications.",
         "bannerBtnTitle": "Let's Redifine Ecommerce",
-        "bannerImageSrc": "ecommerce-banner.png",
+        "bannerImageSrc": "travel-banner.jpg",
         "overview": {
             "title": "Drive your Business Growth with Creative Digital Experience",
             "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
@@ -423,49 +423,55 @@
             ]
         },
         "industryStats": {
-            "title": "Build a strong ground to grow your eCommerce app idea.",
+            "title": "Establish a solid foundation to develop your Travel application concept.",
             "stats": [
                 {
-                    "number": "1200+",
+                    "number": "30+",
                     "description": "Ecommerce Experts Under One Roof"
                 },
                 {
-                    "number": "8+",
+                    "number": "6+",
                     "description": "Years Developing Technology"
                 },
                 {
-                    "number": "95%",
+                    "number": "93%",
                     "description": "Clients Stay With Us"
                 }
             ]
         },
         "ourservices": {
-            "title": "Capabilities that assure industry-best eCommerce application development services",
-            "subTitle": "Our team of highly skilled eCommerce app developers have a varied background in software development, AI/ML, cloud computing, data and cybersecurity services. With this expertise, the team offers top-class eCommerce app development services, helping us become the best eCommerce app development company.",
+            "title": "Reasons Why Boxinall is the Perfect Travel Technology Partner for You.",
+            "subTitle": "Boxinall stands out as an ideal collaborator for your technological requirements, backed by over 6+ years of experience in delivering innovative solutions across various industries, including Travel. As a highly regarded travel app development firm, we provide comprehensive planning and analysis, smooth implementation, and ongoing support to ensure your travel application remains at the forefront of innovation.",
             "servicesList": [
                 {
                     "id": 1,
-                    "title": "Award-winning team",
-                    "description": "As a premium eCommerce mobile app development company, our expertise is reflected in the digital products and apps developed by our eCommerce app developers that have bagged prestigious awards year-on-year. ",
-                    "imagesrc": "software-developers.png"
+                    "title": "Experienced Team",
+                    "description": "As a renowned travel software development firm with a global presence, we boast a committed team of developers, programmers, and testers. Our professionals are not only exceptionally proficient in creating applications of varying complexities and sizes but are also deeply motivated to deliver optimal outcomes for our clients.",
+                    "imagesrc": "team-2.jpg"
                 },
                 {
                     "id": 2,
-                    "title": "Best development practices",
-                    "description": "Using DevOps and Agile methodologies, we quickly and efficiently cater to our client’s needs, closing gaps and delivering seamless shopping experiences.",
-                    "imagesrc": "business-people.png"
+                    "title": "Safeguarding Client Information and Ensuring Confidentiality.",
+                    "description": "As a renowned travel app development company, we prioritize the integrity of our clients' software products. Our dedication to protecting your software is demonstrated through our rigorous practice of signing comprehensive NDAs, which guarantees the utmost security of your intellectual property and confidential information.",
+                    "imagesrc": "team.jpg"
                 },
                 {
                     "id": 3,
-                    "title": "Transparency is paramount",
-                    "description": "Being the best-in-class eCommerce app development company, we believe that an open communication channel translates into more productive and efficient eCommerce app development services. Therefore, we keep our clients updated about the development at all stages. ",
+                    "title": "On Time Dilivery",
+                    "description": "As a renowned provider of travel and hospitality software development services worldwide, we pride ourselves on our punctuality. Our team is dedicated to maintaining full transparency and ensuring that your project is completed on time, all while adhering to the highest quality standards. You can rely on us to focus on timely delivery while consistently achieving excellence in every facet of your project.",
                     "imagesrc": "software-developers.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Impeccable Experience",
+                    "description": "Boxinall has a distinguished history of achieving outstanding outcomes in the travel technology sector. Our extensive portfolio includes a variety of successful projects, and our team leverages their experience and insights in every partnership. We have enabled a wide range of clients, from emerging startups to well-established companies, to reach their objectives and exceed expectations in the highly competitive travel industry.",
+                    "imagesrc": "team-3.jpg"
                 }
             ]
         },
         "developmentMode": {
-            "title": "A time-tested (yet flexible) development process our services include.",
-            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "title": "Our services encompass a proven and adaptable development process.",
+            "subTitle": "We integrate our technical knowledge with our clients' creative concepts to provide optimal mobile eCommerce app development solutions.",
             "cardList": [
                 {
                     "id": 1,
@@ -494,7 +500,7 @@
             ]
         },
         "toolsAndFramework": {
-            "title": "A time-tested (yet flexible) development process our services include.",
+            "title": "Tools and languages we use",
             "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
             "techCategories": [
                 {
@@ -608,36 +614,28 @@
             ]
         },
         "featureSection": {
-            "title": "Our App Development Process",
-            "subTitle": "Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template.",
+            "title": "Travel Software and Application Development Solutions That Create Impact.",
+            "subTitle": "We specialize in creating tailored travel applications and software equipped with a variety of features designed to facilitate a seamless travel experience.",
             "processList": [
                 {
-                    "title": "Microservices-based eCommerce web and app development",
-                    "description": "This involves the development of eCommerce web and app platforms using microservices architecture, allowing for scalability and flexibility."
+                    "title": "Travel Planning App Development",
+                    "description": " Our team of travel application development specialists offers a comprehensive travel planning app solution that enables users to organize their trips effortlessly, guaranteeing an exceptional travel experience. Through our bespoke travel planning app solutions, clients can design personalized packages and itineraries, reserve flight tickets and accommodations, and oversee reservations and various activities, all from a unified platform."
                 },
                 {
-                    "title": "Backend, frontend, & CRM development",
-                    "description": "This includes developing robust backend systems, responsive front-end interfaces, and integrated CRM systems for better customer management."
+                    "title": "Travel Booking App Development",
+                    "description": "Our travel booking application development services provide extensive solutions for enterprises aiming to capitalize on the thriving travel sector. Featuring user-friendly interfaces, streamlined booking procedures, and integrated payment systems, we develop tailored applications that address the specific requirements of both travelers and businesses. From accommodations to flight reservations, our customized applications ensure a smooth booking experience, thereby enhancing customer satisfaction to an exceptional level."
                 },
                 {
-                    "title": "Payment gateways",
-                    "description": "Implementing secure and efficient payment gateways to handle transactions smoothly and securely."
+                    "title": "Travel CRM Software Development",
+                    "description": "Our travel booking application development services provide extensive solutions for enterprises aiming to capitalize on the thriving travel sector. Featuring user-friendly interfaces, streamlined booking procedures, and integrated payment systems, we develop tailored applications that address the specific requirements of both travelers and businesses. From accommodations to flight reservations, our customized applications ensure a smooth booking experience, thereby enhancing customer satisfaction to an exceptional level."
                 },
                 {
-                    "title": "PWA eCommerce",
-                    "description": "Progressive Web Apps (PWA) for eCommerce that provide an app-like experience on the web."
+                    "title": "Travel Management Software Development",
+                    "description": "Our all-encompassing travel management software solutions deliver an integrated platform for booking, reporting, and efficiently overseeing complete itineraries. Whether users are planning a leisure group excursion or coordinating business travel, our tailored travel management services ensure full transparency of the schedules."
                 },
                 {
-                    "title": "Backend, frontend, & CRM development",
-                    "description": "This includes developing robust backend systems, responsive front-end interfaces, and integrated CRM systems for better customer management."
-                },
-                {
-                    "title": "Payment gateways",
-                    "description": "Implementing secure and efficient payment gateways to handle transactions smoothly and securely."
-                },
-                {
-                    "title": "PWA eCommerce",
-                    "description": "Progressive Web Apps (PWA) for eCommerce that provide an app-like experience on the web."
+                    "title": "Travel Check-in and Boarding Software Development",
+                    "description": "As a frontrunner in travel software development, we create cutting-edge and distinctive mobile check-in and boarding solutions that allow users to perform remote check-ins and obtain e-boarding passes, effectively avoiding lengthy lines at airline counters. Our tailor-made platforms also provide the convenience of seat selection, significantly improving the overall travel experience."
                 }
             ]
         },
