@@ -18,7 +18,7 @@
           <div class="col-lg-7">
             <div class="niwax23form shadow">
               <div class="common-heading text-l">
-                <h2 class="mt0 mb0">Get in touch</h2>
+                <h2 class="mt0 mb0">Get in touch With Boxinall Softech Pvt Ltd.</h2>
                 <p class="mb50 mt10">We will catch you as early as we receive the message</p>
               </div>
               <div class="contact-form-card-pr contact-block-sw m0 iconin">
