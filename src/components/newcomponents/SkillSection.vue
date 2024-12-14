@@ -50,9 +50,9 @@ export default {
 
 .skills-container {
   display: flex;
-  justify-content: center;
+  justify-content: stretch;
   flex-wrap: wrap;
-  gap: 3rem;
+  gap: 0.2rem; /* Adds space between cards */
 }
 
 .skill-item {
@@ -62,8 +62,16 @@ export default {
   background-color: #2a2a2a;
   border-radius: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1.5rem; /* Adds vertical space between rows */
+
+}
+.skill-item:first-child {
+  margin-left: 0; /* No margin on the left for the first item */
 }
 
+.skill-item:last-child {
+  margin-right: 0; /* No margin on the right for the last item */
+}
 .skill-item:hover {
   transform: translateY(-10px);
   box-shadow: 0 10px 20px rgba(0, 123, 255, 0.2);

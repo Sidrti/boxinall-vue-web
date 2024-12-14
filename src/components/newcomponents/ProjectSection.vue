@@ -95,27 +95,38 @@ export default {
       this.updateUrl(tab);
     }
   },
+
+  // Convert tab name to snake case
+  toSnakeCase(tab) {
+    return tab.toLowerCase().replace(/\s+/g, '_');
+  },
+
   updateUrl(tab) {
+    const tabInSnakeCase = this.toSnakeCase(tab);
     const currentPath = this.$route.path.split('/').pop();
-    if (currentPath !== tab) {
-      this.$router.push({ path: `/portfolio/${tab}` });
+    if (currentPath !== tabInSnakeCase) {
+      this.$router.push({ path: `/portfolio/${tabInSnakeCase}` });
     }
   },
+
   viewCaseStudy(link) {
     this.$router.push(link);
   },
+
   exploreProject(link) {
     window.open(link, "_blank");
   },
+
   setTabFromRoute() {
     const tabFromRoute = this.$route.path.split('/').pop();
-    if (this.tabs.includes(tabFromRoute)) {
-      this.selectedTab = tabFromRoute;
+    if (this.tabs.map(this.toSnakeCase).includes(tabFromRoute)) {
+      this.selectedTab = this.tabs.find(tab => this.toSnakeCase(tab) === tabFromRoute);
     } else {
       this.selectedTab = "All"; // default to "All" if no valid tab is in the route
     }
   }
 }
+
 ,
   watch: {
     $route() {

@@ -184,7 +184,12 @@ export default {
   font-family: "Inter", sans-serif;
   font-weight: 700;
   line-height: 1.5;
+  text-align: left; /* Left-align the text */
+  width: 100%; /* Ensure it spans the container width */
 }
+
+
+
 
 .right-section p {
   font-size: 18px;

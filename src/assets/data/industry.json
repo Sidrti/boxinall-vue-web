@@ -2,7 +2,7 @@
     {
         "title": "Ecommerce development",
         "description": "We create mobile applications that benefit organisations by enhancing engagement and operational effectiveness. Hire Boxinall certified mobile app developers,",
-        "to": "process/services/ecommerce-software-development",
+        "to": "/process/services/ecommerce-software-development",
         "subTitleList": [
             {
                 "title": "IPHONE"
@@ -92,7 +92,7 @@
     {
         "title": "Education development",
         "description": "Our skilled team of design strategists visualises original concepts and transforms them into final designs for our clients. They do extensive research and create an understandable visual language. ",
-        "to": "/process/services/Education-app-development",
+        "to": "/process/services/education-app-development",
         "subTitleList": [
             {
                 "title": "Figma"
@@ -117,5 +117,5 @@
             }
         ]
     }
-    
+
 ]
