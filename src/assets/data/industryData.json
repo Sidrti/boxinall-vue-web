@@ -214,7 +214,7 @@
             "clients": [
                 {
                     "id": 1,
-                    "image": "client1.png",
+                    "image": "",
                     "name": "John Doe",
                     "designation": "CEO, Testify",
                     "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
@@ -362,7 +362,7 @@
         "title1": "Travel App",
         "title2": "Development Services",
         "subtitle": "Enhance the user experience for your clients by collaborating with us to develop high-performing, scalable, and secure travel software applications.",
-        "bannerBtnTitle": "Let's Redifine Ecommerce",
+        "bannerBtnTitle": "Let's Redifine Travel Software",
         "bannerImageSrc": "travel-banner.jpg",
         "overview": {
             "title": "Drive your Business Growth with Creative Digital Experience",
@@ -427,7 +427,7 @@
             "stats": [
                 {
                     "number": "30+",
-                    "description": "Ecommerce Experts Under One Roof"
+                    "description": " Experts Under One Roof"
                 },
                 {
                     "number": "6+",
@@ -471,12 +471,12 @@
         },
         "developmentMode": {
             "title": "Our services encompass a proven and adaptable development process.",
-            "subTitle": "We integrate our technical knowledge with our clients' creative concepts to provide optimal mobile eCommerce app development solutions.",
+            "subTitle": "We integrate our technical knowledge with our clients' creative concepts to provide optimal mobile app development solutions.",
             "cardList": [
                 {
                     "id": 1,
                     "title": "Discovery",
-                    "description": "Being a top-rated eCommerce application development company, our development process begins with discovering the market fit of your eCommerce app idea. We thoughtfully study the landscape for similar offerings and develop the best technology to satisfy your specific requirements. ",
+                    "description": "Being a top-rated application development company, our development process begins with discovering the market fit of your app idea. We thoughtfully study the landscape for similar offerings and develop the best technology to satisfy your specific requirements. ",
                     "imagesrc": "react-native.png"
                 },
                 {
@@ -488,20 +488,20 @@
                 {
                     "id": 3,
                     "title": "Development and Testing",
-                    "description": "In this stage of the development process we develop the apps, create the necessary components and APIs and seamlessly connect the parts together that come alive as a beautiful and engaging eCommerce app. ",
+                    "description": "In this stage of the development process we develop the apps, create the necessary components and APIs and seamlessly connect the parts together that come alive as a beautiful and engaging app. ",
                     "imagesrc": "android-app.png"
                 },
                 {
                     "id": 4,
                     "title": "Deployment and maintenance",
-                    "description": "As part of our eCommerce software development services, we deploy the app or software on its intended platform and based on the feedback from focus groups and general users alike, we update and maintain the app for the best result. ",
+                    "description": "As part of our software development services, we deploy the app or software on its intended platform and based on the feedback from focus groups and general users alike, we update and maintain the app for the best result. ",
                     "imagesrc": "android-app.png"
                 }
             ]
         },
         "toolsAndFramework": {
             "title": "Tools and languages we use",
-            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile eCommerce app development solutions.",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile app development solutions.",
             "techCategories": [
                 {
                     "id": 1,
@@ -585,7 +585,7 @@
             "clients": [
                 {
                     "id": 1,
-                    "image": "client1.png",
+                    "image": "",
                     "name": "John Doe",
                     "designation": "CEO, Testify",
                     "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
@@ -642,5 +642,597 @@
         "awards": {
             "title": "The major awards and recognitions that have been bestowed to Boxinall over the years for Mobile App Development include Our App Development Process include:"
         }
+    },
+    "real-estate-development": {
+        "title1": "Real Estate",
+        "title2": "App Development Company",
+        "subtitle": "Enhance the user experience for your clients by collaborating with us to develop high-performing, scalable, and secure travel software applications.",
+        "bannerBtnTitle": "Let's Redifine Real Estate App",
+        "bannerImageSrc": "realestate(1).png",
+        "overview": {
+            "title": "Drive your Business Growth with Creative Digital Experience",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "hashtags": [
+                {
+                    "name": "Custom Website Development"
+                },
+                {
+                    "name": "Website Design and Redesign"
+                },
+                {
+                    "name": "CMS Website Design"
+                },
+                {
+                    "name": "70 + Happy Clients"
+                },
+                {
+                    "name": "1,00   +                  Website Developed"
+                },
+                {
+                    "name": "10 +                  Web Developers"
+                }
+            ],
+            "iconList": [
+                {
+                    "src": "/image/php.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/react.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/wordpress.png",
+                    "alt": "Alt"
+                }
+            ],
+            "advantages": [
+                {
+                    "title": "PHP"
+                },
+                {
+                    "title": "React Js"
+                },
+                {
+                    "title": "Laravel"
+                },
+                {
+                    "title": "Vue.js"
+                },
+                {
+                    "title": "Wordpress"
+                },
+                {
+                    "title": "Shopify"
+                }
+            ]
+        },
+        "industryStats": {
+            "title": "Establish a solid foundation to develop your Real Estate application concept.",
+            "stats": [
+                {
+                    "number": "30+",
+                    "description": "Ecommerce Experts Under One Roof"
+                },
+                {
+                    "number": "6+",
+                    "description": "Years Developing Technology"
+                },
+                {
+                    "number": "93%",
+                    "description": "Clients Stay With Us"
+                }
+            ]
+        },
+        "ourservices": {
+            "title": "Reasons Why Boxinall is the Perfect Real Estate Technology Partner for You.",
+            "subTitle": "Boxinall stands out as an ideal collaborator for your technological requirements, backed by over 6+ years of experience in delivering innovative solutions across various industries, including Real Estate. As a highly regarded travel app development firm, we provide comprehensive planning and analysis, smooth implementation, and ongoing support to ensure your travel application remains at the forefront of innovation.",
+            "servicesList": [
+                {
+                    "id": 1,
+                    "title": "Experienced Team",
+                    "description": "As a renowned travel software development firm with a global presence, we boast a committed team of developers, programmers, and testers. Our professionals are not only exceptionally proficient in creating applications of varying complexities and sizes but are also deeply motivated to deliver optimal outcomes for our clients.",
+                    "imagesrc": "team-2.jpg"
+                },
+                {
+                    "id": 2,
+                    "title": "Safeguarding Client Information and Ensuring Confidentiality.",
+                    "description": "As a renowned Real estate app development company, we prioritize the integrity of our clients' software products. Our dedication to protecting your software is demonstrated through our rigorous practice of signing comprehensive NDAs, which guarantees the utmost security of your intellectual property and confidential information.",
+                    "imagesrc": "team.jpg"
+                },
+                {
+                    "id": 3,
+                    "title": "On Time Dilivery",
+                    "description": "As a renowned provider of Real Estate Mobile app and website development services worldwide, we pride ourselves on our punctuality. Our team is dedicated to maintaining full transparency and ensuring that your project is completed on time, all while adhering to the highest quality standards. You can rely on us to focus on timely delivery while consistently achieving excellence in every facet of your project.",
+                    "imagesrc": "software-developers.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Impeccable Experience",
+                    "description": "Boxinall has a distinguished history of achieving outstanding outcomes in the Real estate technology sector. Our extensive portfolio includes a variety of successful projects, and our team leverages their experience and insights in every partnership. We have enabled a wide range of clients, from emerging startups to well-established companies, to reach their objectives and exceed expectations in the highly competitive Real estate industry.",
+                    "imagesrc": "team-3.jpg"
+                }
+            ]
+        },
+        "developmentMode": {
+            "title": "Our services encompass a proven and adaptable development process.",
+            "subTitle": "We integrate our technical knowledge with our clients' creative concepts to provide optimal mobile Real Estate app development solutions.",
+            "cardList": [
+                {
+                    "id": 1,
+                    "title": "Discovery & Requirements Gathering",
+                    "description": "Being a top-rated Real estate application development company, our development process begins with discovering the market fit of your Realestate app idea. We thoughtfully study the landscape for similar offerings and develop the best technology to satisfy your specific requirements. ",
+                    "imagesrc": "react-native.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Design & Prototyping",
+                    "description": "Create wireframes, mockups, and interactive prototypes for the app’s UI/UX. Design iterations are made based on feedback to ensure usability and alignment with business goals, helping visualize the app before development begins. ",
+                    "imagesrc": "react-native.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Best development practices",
+                    "description": "In this step, we also zero in on the best possible . elements to cater to your audience and design thoughtful user journeys that increase conversions.",
+                    "imagesrc": "progressive-web.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Development and Testing",
+                    "description": "In this stage of the development process we develop the apps, create the necessary components and APIs and seamlessly connect the parts together that come alive as a beautiful and engaging Real estate app. ",
+                    "imagesrc": "android-app.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Deployment and maintenance",
+                    "description": "As part of our Real estate software development services, we deploy the app or software on its intended platform and based on the feedback from focus groups and general users alike, we update and maintain the app for the best result. ",
+                    "imagesrc": "android-app.png"
+                }
+            ]
+        },
+        "toolsAndFramework": {
+            "title": "Tools and languages we use",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile Real estate app development solutions.",
+            "techCategories": [
+                {
+                    "id": 1,
+                    "name": "Backend",
+                    "technologies": [
+                        "Php",
+                        "Node.js",
+                        ".Net",
+                        "Python",
+                        "Laravel"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Frontend",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Databases",
+                    "technologies": [
+                        "Mongodb",
+                        "Mysql",
+                        "PostgreSQL",
+                        "Firebase"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Frameworks",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "DevOps",
+                    "technologies": [
+                        "Chef",
+                        "Puppet",
+                        "Terraform",
+                        "Jenkins",
+                        "GitLab",
+                        "Ansible",
+                        "Docker",
+                        "Kubernetes",
+                        "CircleCI",
+                        "Travis CI"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Quality",
+                    "technologies": [
+                        "Selenium",
+                        "Appium",
+                        "JUnit",
+                        "TestNG",
+                        "Cucumber",
+                        "Postman",
+                        "JMeter",
+                        "LoadRunner",
+                        "SonarQube",
+                        "TestRail"
+                    ]
+                }
+            ]
+        },
+        "clientReview": {
+            "title": "What Our Clients Have to Say For Our Services.",
+            "clients": [
+                {
+                    "id": 1,
+                    "image": "",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 2,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We approached Boxinall with a clear vision to build a robust and future-ready platform that could seamlessly integrate with the busy lifestyle of our customers while uplifting their overall experience and giving us a competitive edge. The Boxinall team not only understood our vision but also enhanced the overall solution with their expertise. The end results exceeded our expectations with massive improvements in the user base and digital revenue for different brands."
+                },
+                {
+                    "id": 3,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 4,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                }
+            ]
+        },
+        "featureSection": {
+            "title": "Real estate Website and Application Development Solutions That Create Impact.",
+            "subTitle": "We specialize in creating tailored Real estate applications and Website equipped with a variety of features designed to facilitate a seamless Real estate experience.",
+            "processList": [
+                {
+                    "title": "Real Estate App Consultation",
+                    "description": " Expert guidance on transforming your real estate business into a digital solution. From app concept ideation to feasibility analysis, receive detailed insights on market trends, user needs, and technology recommendations."
+                },
+                {
+                    "title": "Custom Real Estate App Development",
+                    "description": "Tailored app solutions designed to fit unique business models. Build a custom app with features such as property listings, search filters, virtual tours, and booking integrations that resonate with your brand and audience."
+                },
+                {
+                    "title": "Property Listing & Management Solutions",
+                    "description": "Develop a seamless system for adding, updating, and managing property listings. Empower realtors, agencies, or property managers to update listings with images, descriptions, amenities, and pricing effortlessly."
+                },
+                {
+                    "title": "Augmented Reality (AR) & Virtual Tours",
+                    "description": "Provide immersive property tours through AR and virtual reality, allowing users to explore properties remotely. This solution supports 3D tours, panoramic views, and virtual staging to showcase properties effectively."
+                },
+                {
+                    "title": "Real-Time Chat & Communication Tools",
+                    "description": "Integrated messaging features to facilitate instant communication between buyers, sellers, and agents. Includes chat, voice calls, and video calls, allowing for smooth, efficient interaction within the app."
+                },
+                {
+                    "title": "App Maintenance & Support",
+                    "description": "Continuous app monitoring, updates, and technical support to ensure seamless performance. Maintenance services include bug fixes, feature enhancements, and OS compatibility updates."
+                }
+            ]
+        },
+        "awards": {
+            "title": "The major awards and recognitions that have been bestowed to Boxinall over the years for Mobile App Development include Our App Development Process include:"
+        }
+    },
+    "Education-app-development": {
+        "title1": "Education Mobile app development",
+        "title2": "",
+        "subtitle": "Enhance the user experience for your clients by collaborating with us to develop high-performing, scalable, and secure Education Mobile app Development.",
+        "bannerBtnTitle": "Let's Redifine Education App Development",
+        "bannerImageSrc": "education.png",
+        "overview": {
+            "title": "Drive your Business Growth with Creative Digital Experience",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "hashtags": [
+                {
+                    "name": "Custom Website Development"
+                },
+                {
+                    "name": "Website Design and Redesign"
+                },
+                {
+                    "name": "CMS Website Design"
+                },
+                {
+                    "name": "70 + Happy Clients"
+                },
+                {
+                    "name": "1,00   +                  Website Developed"
+                },
+                {
+                    "name": "10 +                  Web Developers"
+                }
+            ],
+            "iconList": [
+                {
+                    "src": "/image/php.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/react.png",
+                    "alt": "Alt"
+                },
+                {
+                    "src": "/image/wordpress.png",
+                    "alt": "Alt"
+                }
+            ],
+            "advantages": [
+                {
+                    "title": "PHP"
+                },
+                {
+                    "title": "React Js"
+                },
+                {
+                    "title": "Laravel"
+                },
+                {
+                    "title": "Vue.js"
+                },
+                {
+                    "title": "Wordpress"
+                },
+                {
+                    "title": "Shopify"
+                }
+            ]
+        },
+        "industryStats": {
+            "title": "Establish a solid foundation to develop your Education Mobile  application concept.",
+            "stats": [
+                {
+                    "number": "30+",
+                    "description": "Development Experts Under One Roof"
+                },
+                {
+                    "number": "6+",
+                    "description": "Years Developing Technology"
+                },
+                {
+                    "number": "93%",
+                    "description": "Clients Stay With Us"
+                }
+            ]
+        },
+        "ourservices": {
+            "title": "Reasons Why Boxinall is the Perfect Education Mobile app development Technology Partner for You.",
+            "subTitle": "Boxinall stands out as an ideal collaborator for your technological requirements, backed by over 6+ years of experience in delivering innovative solutions across various industries, including Real Estate. As a highly regarded travel app development firm, we provide comprehensive planning and analysis, smooth implementation, and ongoing support to ensure your travel application remains at the forefront of innovation.",
+            "servicesList": [
+                {
+                    "id": 1,
+                    "title": "Experienced Team",
+                    "description": "As a renowned Education Mobile app and software development firm with a global presence, we boast a committed team of developers, programmers, and testers. Our professionals are not only exceptionally proficient in creating applications of varying complexities and sizes but are also deeply motivated to deliver optimal outcomes for our clients.",
+                    "imagesrc": "team-2.jpg"
+                },
+                {
+                    "id": 2,
+                    "title": "Safeguarding Client Information and Ensuring Confidentiality.",
+                    "description": "As a renowned Education app development company, we prioritize the integrity of our clients' software products. Our dedication to protecting your software is demonstrated through our rigorous practice of signing comprehensive NDAs, which guarantees the utmost security of your intellectual property and confidential information.",
+                    "imagesrc": "team.jpg"
+                },
+                {
+                    "id": 3,
+                    "title": "On Time Dilivery",
+                    "description": "As a renowned provider of Education Mobile app and website development services worldwide, we pride ourselves on our punctuality. Our team is dedicated to maintaining full transparency and ensuring that your project is completed on time, all while adhering to the highest quality standards. You can rely on us to focus on timely delivery while consistently achieving excellence in every facet of your project.",
+                    "imagesrc": "software-developers.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Impeccable Experience",
+                    "description": "Boxinall has a distinguished history of achieving outstanding outcomes in the Real estate technology sector. Our extensive portfolio includes a variety of successful projects, and our team leverages their experience and insights in every partnership. We have enabled a wide range of clients, from emerging startups to well-established companies, to reach their objectives and exceed expectations in the highly competitive Education industry.",
+                    "imagesrc": "team-3.jpg"
+                }
+            ]
+        },
+        "developmentMode": {
+            "title": "Our services encompass a proven and adaptable development process.",
+            "subTitle": "We integrate our technical knowledge with our clients' creative concepts to provide optimal mobile app development solutions.",
+            "cardList": [
+                {
+                    "id": 1,
+                    "title": "Discovery & Requirements Gathering",
+                    "description": "Being a top-rated Mobile application development company, our development process begins with discovering the market fit of your Education app idea. We thoughtfully study the landscape for similar offerings and develop the best technology to satisfy your specific requirements. ",
+                    "imagesrc": "react-native.png"
+                },
+                {
+                    "id": 1,
+                    "title": "Design & Prototyping",
+                    "description": "Create wireframes, mockups, and interactive prototypes for the app’s UI/UX. Design iterations are made based on feedback to ensure usability and alignment with business goals, helping visualize the app before development begins. ",
+                    "imagesrc": "react-native.png"
+                },
+                {
+                    "id": 2,
+                    "title": "Best development practices",
+                    "description": "In this step, we also zero in on the best possible . elements to cater to your audience and design thoughtful user journeys that increase conversions.",
+                    "imagesrc": "progressive-web.png"
+                },
+                {
+                    "id": 3,
+                    "title": "Development and Testing",
+                    "description": "In this stage of the development process we develop the apps, create the necessary components and APIs and seamlessly connect the parts together that come alive as a beautiful and engaging Education app. ",
+                    "imagesrc": "android-app.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Deployment and maintenance",
+                    "description": "As part of our software development services, we deploy the app or software on its intended platform and based on the feedback from focus groups and general users alike, we update and maintain the app for the best result. ",
+                    "imagesrc": "android-app.png"
+                }
+            ]
+        },
+        "toolsAndFramework": {
+            "title": "Tools and languages we use",
+            "subTitle": "We combine our technical expertise with our client’s innovative ideas to deliver the best possible mobile app development solutions.",
+            "techCategories": [
+                {
+                    "id": 1,
+                    "name": "Backend",
+                    "technologies": [
+                        "Php",
+                        "Node.js",
+                        ".Net",
+                        "Python",
+                        "Laravel"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Frontend",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Databases",
+                    "technologies": [
+                        "Mongodb",
+                        "Mysql",
+                        "PostgreSQL",
+                        "Firebase"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Frameworks",
+                    "technologies": [
+                        "React",
+                        "Vue",
+                        "CSS",
+                        "HTML5",
+                        "Javascript"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "DevOps",
+                    "technologies": [
+                        "Chef",
+                        "Puppet",
+                        "Terraform",
+                        "Jenkins",
+                        "GitLab",
+                        "Ansible",
+                        "Docker",
+                        "Kubernetes",
+                        "CircleCI",
+                        "Travis CI"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Quality",
+                    "technologies": [
+                        "Selenium",
+                        "Appium",
+                        "JUnit",
+                        "TestNG",
+                        "Cucumber",
+                        "Postman",
+                        "JMeter",
+                        "LoadRunner",
+                        "SonarQube",
+                        "TestRail"
+                    ]
+                }
+            ]
+        },
+        "clientReview": {
+            "title": "What Our Clients Have to Say For Our Services.",
+            "clients": [
+                {
+                    "id": 1,
+                    "image": "",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 2,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We approached Boxinall with a clear vision to build a robust and future-ready platform that could seamlessly integrate with the busy lifestyle of our customers while uplifting their overall experience and giving us a competitive edge. The Boxinall team not only understood our vision but also enhanced the overall solution with their expertise. The end results exceeded our expectations with massive improvements in the user base and digital revenue for different brands."
+                },
+                {
+                    "id": 3,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                },
+                {
+                    "id": 4,
+                    "image": "client1.png",
+                    "name": "John Doe",
+                    "designation": "CEO, Testify",
+                    "review": "We were looking for an agency that would understand the direness of the hourly worker job search cycle situation when we came across Appinventiv. What we liked about the team is how they did not just understand what we were looking for but also gave us ideas on how we could make the process more efficient and simplified for the jobseekers through their empathy mapping skillset."
+                }
+            ]
+        },
+        "featureSection": {
+            "title": "Education Website and Mobile Application Development Solutions That Create Impact.",
+            "subTitle": "We specialize in creating tailored Education Mobile applications and Website development equipped with a variety of features designed to facilitate a seamless experience.",
+            "processList": [
+                {
+                    "title": "Educational App Consultation",
+                    "description": "Provide insights into industry trends, app features, and technology stack to build a successful educational app. This phase identifies key requirements, target audiences, and app objectives."
+                },
+                {
+                    "title": "UI/UX Design for Engaging Learning Experiences",
+                    "description": "Craft intuitive, user-friendly interfaces that focus on visual appeal and smooth navigation, enhancing the learning experience through accessibility, color psychology, and user engagement principles"
+                },
+                {
+                    "title": "Custom eLearning App Development",
+                    "description": "Develop tailored eLearning applications, from K-12 to higher education, that align with the specific curriculum, interactive features, and learning paths required by the client."
+                },
+                {
+                    "title": "Gamification & Interactive Learning Elements",
+                    "description": "Integrate gamified elements such as quizzes, badges, and rewards to make learning fun and interactive. This increases engagement and enhances retention through structured, game-like progression."
+                },
+                {
+                    "title": "Real-Time Analytics and Reporting Tools",
+                    "description": "Add robust analytics to monitor user engagement, learning progress, and performance. Reporting tools provide detailed insights to educators, helping improve the learning approach based on real data."
+                },
+                {
+                    "title": "Offline Access and Downloadable Content",
+                    "description": "Enable users to download lessons, videos, and quizzes for offline access, allowing continued learning without an internet connection."
+                }
+            ]
+        },
+        "awards": {
+            "title": "The major awards and recognitions that have been bestowed to Boxinall over the years for Mobile App Development include Our App Development Process include:"
+      
+      }
     }
+
 }

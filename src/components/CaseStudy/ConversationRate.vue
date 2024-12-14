@@ -4,7 +4,8 @@
       <h1 class="heading">
        {{data.content}}
       </h1>
-      <button class="cta-button">Let's Discuss Your Project Idea</button>
+     
+      <a href="/contact" class="cta-button">Let's Discuss Your Project Idea</a>
     </div>
   </section>
 </template>

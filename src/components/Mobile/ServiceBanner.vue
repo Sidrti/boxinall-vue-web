@@ -6,7 +6,7 @@
                     <div class="bread-titlev2">
                         <h1 class="wow fadeInUp title-text" data-wow-delay=".2s" >Mobile App<br/>Development Services</h1>
                         <h5 class="mt20 wow fadeInUp sub-head" data-wow-delay=".4s" >Embrace the future of app development with our scalable solutions built on disruptive technologies.</h5>
-                        <a v-if="!hideCtc" href="#/contact" class="btn-main bg-btn2 lnk mt20 wow zoomInDown" data-wow-delay=".6s">Get Quote <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                        <a v-if="!hideCtc" href="/contact" class="btn-main bg-btn2 lnk mt20 wow zoomInDown" data-wow-delay=".6s">Get Quote <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                     </div>
                 </div>
             </div>

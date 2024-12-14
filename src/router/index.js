@@ -22,13 +22,13 @@ const routes = [
     component: HomeView,
   },
   {
-    path: "/portfolio",
-    name: "portfolio",
+    path: "/portfolio3",
+    name: "portfolio3",
     component: PortfolioView,
   },
   {
-    path: '/portfolio2/:tab?',
-    name: "portfolio2",
+    path: '/portfolio/:tab?',
+    name: "portfolio",
     component: PortfolioView2,
   },
   {

@@ -6,10 +6,11 @@
           <div class="col-md-6 left-section">
             <div class="text-center">
               <h1 class="heading">{{ data.industryStats.title }}</h1>
-              <button class="btn funding-button">
-                {{ 'Schedule a call' }}
-                <span class="arrow">→</span>
-              </button>
+             
+              <a href="/contact" class="btn funding-button">
+  {{ 'Schedule a call' }}
+  <span class="arrow">→</span>
+</a>
             </div>
           </div>
 

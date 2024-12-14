@@ -20,10 +20,11 @@
             >
               {{ data.subtitle }}
             </h5>
-            <button class="btn funding-button">
-              {{ data.bannerBtnTitle }}
-              <span class="arrow">→</span>
-            </button>
+            
+            <a href="/contact" class="btn funding-button">
+  {{ data.bannerBtnTitle }}
+  <span class="arrow">→</span>
+</a>
              <img
               :src="require(`@/assets/images/banner/${data.bannerImageSrc}`)"
 
