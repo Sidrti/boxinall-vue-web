@@ -99,5 +99,21 @@
     "link": "/case-study2/Michelin-Tyre",
     "orientation": "left",
     "sitelink": "https://indus.swagat.michelin.in/account/login?returnUrl=%2F"
+  },
+  {
+    "title": "Morep - Learn Smarter, Anywhere",
+    "description": "Morep is a comprehensive e-learning app designed to make learning accessible, interactive, and effective. Discover engaging lessons, quizzes, and progress tracking that adapts to your pace, helping you achieve your educational goals anytime, anywhere.",
+    "stack": [
+      "Website",
+      "Mobile app"
+    ],
+    "type": "mobile-website",
+    "image": "/image/morep.jpg",
+    "smallimage": "/image/pf93.jpg",
+    "link": "/case-study2/morep",
+    "orientation": "right",
+    "sitelink": "https://98degreenorth.com/"
   }
+  
+
 ]

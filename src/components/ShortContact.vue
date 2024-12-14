@@ -6,7 +6,7 @@
                     <div class="common-heading">
                         <span>Let's work together</span>
                         <h2>We Love to Listen to Your Requirements</h2>
-                        <a href="#/contact" class="btn-outline">Estimate Project <i
+                        <a href="/contact" class="btn-outline">Estimate Project <i
                                 class="fas fa-chevron-right fa-icon"></i></a>
                         <p class="cta-call">Or call us now <a href="tel:+918279607423"><i class="fas fa-phone-alt"></i>91 827 9607 423</a></p>
                     </div>

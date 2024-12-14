@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Ecommerce development",
+        "description": "We create mobile applications that benefit organisations by enhancing engagement and operational effectiveness. Hire Boxinall certified mobile app developers,",
+        "to": "process/services/ecommerce-software-development",
+        "subTitleList": [
+            {
+                "title": "IPHONE"
+            },
+            {
+                "title": "ANDROID"
+            },
+            {
+                "title": "CROSS PLATFORM"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/android.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/ios.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/atom.png",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Travel Development",
+        "description": "We offer a variety of services. To give the greatest web solution, we at Boxinall go above and beyond to fully comprehend the goals and particular business issues of our clients. ",
+        "to": "/process/services/travel-software-development",
+        "subTitleList": [
+            {
+                "title": "React"
+            },
+            {
+                "title": "vue.js"
+            },
+            {
+                "title": "Wordpress"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/brands.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/react.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/wordpress.png",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Real Estate Development",
+        "description": "We provide a wide variety of software development services that are tailored to your unique business requirements as a custom software development firm. ",
+        "to": "/process/services/real-estate-development",
+        "subTitleList": [
+            {
+                "title": "PHP"
+            },
+            {
+                "title": "Node.js"
+            },
+            {
+                "title": "Java"
+            }
+        ],
+        "iconsList": [
+            {
+                "src": "/image/php.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/node.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/java.png",
+                "alt":"alt"
+            }
+        ]
+    },
+    {
+        "title": "Education development",
+        "description": "Our skilled team of design strategists visualises original concepts and transforms them into final designs for our clients. They do extensive research and create an understandable visual language. ",
+        "to": "/process/services/Education-app-development",
+        "subTitleList": [
+            {
+                "title": "Figma"
+            },
+            {
+                "title": "Abobe XD"
+            }
+
+        ],
+        "iconsList": [
+            {
+                "src": "/image/adobe.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/after.png",
+                "alt":"alt"
+            },
+            {
+                "src": "/image/figma.png",
+                "alt":"alt"
+            }
+        ]
+    }
+    
+]

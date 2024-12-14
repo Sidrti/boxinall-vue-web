@@ -18,7 +18,7 @@
                    facing challenges in the information and technology sector. Our professional team is dedicated 
                    to providing tangible results that help our clients achieve their goals and stay ahead of the 
                    competition</p>
-                <a href="#" class="btn-main bg-btn lnk mt30">Contact Us <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+                <a href="/contact" class="btn-main bg-btn lnk mt30">Contact Us <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
               </div>
             </div>
           </div>

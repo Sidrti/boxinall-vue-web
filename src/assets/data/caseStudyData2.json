@@ -1,9 +1,163 @@
 {
   "dating-application": {
-    "herotitle": "Creating a platform that is more than just an online dating application",
+    "herotitle": "Transforming Connections: Building a Scalable and Secure Dating Platform for Meaningful Relationships",
     "heroctaText": "Case Study",
+    "title": "About the Dating Application",
+    "description": "The goal of Udates was to address common challenges faced by existing dating platforms, such as superficial swiping, fake profiles, and limited user engagement, by creating a robust, trustworthy, and enjoyable experience for singles worldwide.",
+    "details": [
+      {
+        "label": "Industry",
+        "text": "Social Media",
+        "isLink": false,
+        "isColored": true
+      },
+      {
+        "label": "Services",
+        "text": "Website Development, Mobile app Developemnt",
+        "isLink": false
+      },
+      {
+        "label": "Business Type",
+        "text": "Social Media Application",
+        "isLink": false
+      },
+      {
+        "label": "Build your idea",
+        "text": "Consult our experts",
+        "isLink": false,
+        "isColored": true
+      }
+    ],
+    "WebImg": "/image/dating.png",
+    "MobileImg": "/image/dating.png",
+    "helptitle": "How We Developed a Comprehensive Real Estate Website for Dubai",
+    "helpdescription": [
+      "The case study delves into the specific requirements and challenges faced in creating a user-friendly and visually appealing website that caters to the unique needs of the Dubai real estate market.",
+      "It analyzes the design and development process, search functionality, property listings management, localization, and integration with third-party services.",
+      "The study also highlights the outcomes and benefits of the WordPress-based solution, along with lessons learned and recommendations for future real estate website projects."
+    ],
+    "services": [
+      {
+        "title": "Mobile app Features",
+        "items": [
+          "Intelligent Matchmaking",
+          "Profile Customization",
+          "Real-time Chat and Messaging",
+          "Interest-based Groups and Events",
+          "Mobile Responsiveness"
+        ]
+      },
+      {
+        "title": "Challenges",
+        "items": [
+          "Market Research and Feature Identification",
+          "Responsive Design and Performance Optimization",
+          "Localization and Integration"
+        ]
+      },
+      {
+        "title": "Development",
+        "items": [
+          "Comprehensive Dating app Platform",
+          "Downloads",
+          "New Users Acquired"
+        ]
+      }
+    ],
+    "product_journey": {
+      "mainHeading": "Udates is a cutting-edge dating platform designed to bring people together in meaningful ways. Built for both mobile and web users, it combines intuitive design with powerful matching algorithms to offer a seamless and personalized dating experience. The platform is equipped with features like real-time chat, location-based suggestions, and AI-driven matchmaking to ensure users find compatible connections effortlessly.",
+      "content1": "The app’s mobile-first approach ensures that users can interact and explore matches on the go, while the website provides a more comprehensive experience with advanced search filters, profile customization, and detailed analytics. Security and privacy are key priorities, with features like profile verification, encrypted messaging, and customizable privacy settings.",
+      "content2": "Beyond facilitating connections, Udates offers a sense of community through engaging activities like virtual events, speed dating sessions, and interest-based group chats. This positions the platform not just as a dating service but as a space for genuine connections and shared experiences."
+    },
+    "review": {
+      "content": "We partnered with Boxinall Softech to develop a cutting-edge real estate platform, and the experience exceeded our expectations. From the initial discovery phase to the final deployment, their team demonstrated exceptional professionalism, technical expertise, and commitment to delivering a high-quality solution",
+      "name": "Jack Doe",
+      "designation": "CEO",
+      "image": ""
+    },
+    "journey": {
+      "mainHeading": "Boxinall Development Journey with Dating App development",
+      "contents": [
+        "The development process for udates was meticulously planned and executed to deliver a robust, scalable, and user-centric dating platform. It began with comprehensive research and discovery, where we analyzed user behavior, market trends, and competitor offerings to define the core features and functionality. Once the roadmap was established, we moved to the design phase, crafting intuitive user interfaces and prototypes that aligned with the target audience’s preferences and needs.",
+        "The frontend development focused on creating a responsive, visually appealing experience for both mobile and web platforms, while the backend was engineered to handle high volumes of data and interactions seamlessly. Key integrations, such as AI-driven matchmaking algorithms, secure payment gateways, and real-time chat functionality, were implemented to provide a modern and interactive experience. Rigorous testing followed each development stage, ensuring functionality, security, and performance across various devices and environments.",
+        "After deployment, we provided ongoing support and updates to enhance the platform based on user feedback and evolving market demands. This collaborative and iterative approach ensured that [App Name] met the highest standards of usability, reliability, and engagement."
+        
+      ],
+      "image1": "dating(4).png",
+      "image2": "dating(5).png"
+    },
+    "results_product": {
+      "mainHeading": "Users reported higher satisfaction due to intelligent match suggestions, robust security features, and engaging activities. Daily active user rates increased by 40% within the first three months of launch.",
+      "contents": [
+        "The introduction of premium features resulted in a 25% increase in revenue within the first quarter, with positive feedback from users on value-added features.",
+        "The app attracted users from multiple regions, thanks to its multilingual support, location-based matches, and inclusive design approach."
+      ],
+      "image1": "dominos-ratings.png"
+    },
+    "productGallery": {
+      "images": [
+        "dating(1).png",
+        "dating(2).png",
+        "dating(3).png",
+        "dating(4).png"
+      ]
+    },
+    "conversation_rate": {
+      "content": "The platform was designed to handle over 100,000 concurrent users, ensuring smooth operations even during peak hours."
+    },
+    "project_challenges": [
+      {
+        "title": "Scalable Architecture: ",
+        "content": "We needed to design an intelligent and adaptive matching system capable of analyzing user preferences, interests, and location data. Implementing AI-based algorithms required significant research and tuning to ensure accuracy and relevancy in match suggestions."
+      },
+      {
+        "title": "Intuitive Navigation:",
+        "content": "To accommodate a growing user base across mobile and web platforms, we had to ensure the app could handle large volumes of simultaneous activity, including swipes, chats, and real-time notifications. Building a scalable backend architecture with robust database management was critical to achieving this."
+      }
+    ],
+    "challenges": [
+      {
+        "number": 1,
+        "title": "Market Research and Feature Identification",
+        "description": "Conducting thorough research on user needs and preferences in the Dubai market, and identifying key features and functionalities for the website."
+      },
+      {
+        "number": 2,
+        "title": "Responsive Design and Performance Optimization",
+        "description": "Incorporating responsive design principles for optimal user experience across devices, and implementing caching mechanisms and optimization techniques to enhance website speed."
+      },
+      {
+        "number": 3,
+        "title": "Localization and Integration",
+        "description": "Adapting the website to cater to a diverse audience in Dubai, and incorporating APIs and integrations with real estate data providers."
+      }
+    ],
+    "development": {
+      "subtitle": "Developing a Comprehensive Real Estate Platform",
+      "description": [
+        "We created a searchable and categorized database of property listings, allowing users to browse through available properties with detailed information and high-quality images.",
+        "Advanced search filters were implemented to help users find properties matching their specific requirements.",
+        "We integrated maps and geolocation services to help users visualize property locations and nearby amenities.",
+        "Real estate agent profiles were included to help users connect with professionals.",
+        "The website was optimized for mobile devices to ensure a seamless user experience across different screen sizes and platforms."
+      ]
+    },
+    "results": [
+      {
+        "number": "2M",
+        "text": "Downloads"
+      },
+      {
+        "number": "500k",
+        "text": "New Users Acquired"
+      }
+    ]
+  },
+  "morep": {
+    "herotitle": "Development and Launch of Moprep - An Educational E-Learning Mobile App",
+    "heroctaText": "Moprep",
     "title": "About uDates",
-    "description": "With the help of the online dating app uDates, users may find and connect with fascinating locals. It offers potential mates more than just a chatting platform by providing restaurant rewards and event information, if they'd like to meet.",
+    "description": "Morep’s vision was to bridge the gap between classroom learning and independent study, helping students learn anytime and anywhere. To achieve this, the project aimed to develop a mobile app that offered video lectures, practice quizzes, personalized learning paths, and interactive features to keep students engaged",
     "details": [
       {
         "label": "Industry",
@@ -28,9 +182,9 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf3.png",
+    "WebImg": "/image/edu(1).jpg",
     "MobileImg": "/image/pf1.png",
-    "helptitle": "How We Helped Create a Unique Dating App Experience",
+    "helptitle": "How We Helped Create a Educational App Experience",
     "helpdescription": [
       "Our client wanted the dating app to stand out from the competition. The typical experience with these apps is to swipe right and start a conversation, but the goal of uDates was to improve the process of making friends both online and offline.",
       "We were tasked with creating a user interface (UI) for the dating app that distinguishes itself from the competition in terms of theme, look, feel, and functionality."
@@ -67,53 +221,55 @@
     ],
     "product_journey": {
       "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
-      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
-      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+      "content1": "Morep is an innovative e-learning mobile app created with the aim of providing a dynamic and accessible educational experience for students across various subjects and grade levels. Morep focuses on delivering high-quality instructional content through an engaging and interactive platform, enhancing traditional learning methods and supporting self-paced study.",
+      "content2": "The app suggests a baseline diagnostic quiz in subjects like Math, Science, or English to measure the student’s starting level. Based on the results, the app identifies strengths and areas for improvement. AI-driven recommendations are generated, forming a personalized learning path that includes lessons, practice quizzes, and milestones tailored to the student’s level and goals."
     },
     "review": {
-      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "content": "When we approached Boxinall, what we had was a Educational app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
       "name": "John Doe",
       "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "image": ""
     },
     "journey": {
-      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "mainHeading": "Boxinall Development Journey with Moprep",
       "contents": [
-        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
-        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
-        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
-        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+        "Detailed analysis of competitors, audience needs, and educational trends was conducted to identify gaps and opportunities in e-learning.",
+        "Content Creation: Subject matter experts (SMEs) and educators were brought in to create high-quality instructional content aligned with academic standards. This included video lessons, written notes, interactive quizzes, and infographics.",
+"Curriculum Structure: The content was structured into progressive modules covering essential subjects like Mathematics, Science, English, and Social Studies, organized by grade levels and topics.",
+"Engagement-Driven Design: Quizzes, flashcards, and challenges were integrated at the end of each module to encourage active participation and retention",
+        "An AI-powered recommendation engine was implemented to tailor learning paths based on each student's strengths, weaknesses, and pace, adapting over time to reflect their progress and mastery of topics. Progressive Gamification: By incorporating rewards, badges, and level-ups, the app provided incentives for students to reach their goals and actively engage with new content. Parental Dashboard: A separate interface was developed for parents, allowing them to monitor their child’s progress, set learning goals, and review performance analytics. Offline Mode: Recognizing connectivity challenges, key learning materials and quizzes were made downloadable, ensuring that students could study uninterrupted even in low-connectivity areas.",
+        "The app was optimized for low-latency and minimal data usage, considering users who may have limited access to high-speed internet."
       ],
-      "image1": "dominos-screen5.png",
-      "image2": "dominos-screen6.png"
+      "image1": "moprep3 (2).png",
+      "image2": "moprep3 (3).png"
     },
     "results_product": {
-      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "mainHeading": "The Results - 18% Increase in Conversion Rate",
       "contents": [
-        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
-        "A validation of this was the changed user sentiment in ratings and reviews."
+        "The project successfully delivered a user-friendly, visually engaging platform that enhanced user experience, increased engagement, and positioned the client competitively in their market."
+       
       ],
       "image1": "dominos-ratings.png"
     },
     "productGallery": {
       "images": [
-        "dominos-screen1.png",
-        "dominos-screen3.png",
-        "dominos-screen4.png",
-        "dominos-screen1.png"
+        "moprep3 (1).png",
+        "moprep3 (2).png",
+        "moprep3 (3).png",
+        "moprep3 (4).png"
       ]
     },
     "conversation_rate": {
-      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+      "content": "Boxinall Helped Moprep's Increase Conversion Rate by 18% Through a Transformative UI/UX"
     },
     "project_challenges": [
       {
-        "title": "Brand Maintenance",
-        "content": "Losing customers' attention at the back of a poorly designed UX is a matter of concern for all the brands that are present on mobile and when the brand under scrutiny is someone like Domino's that has already created a prominent standing, resolution of issues becomes a matter of urgency so that the brand image is not compromised."
+        "title": "Balancing Engagement with Educational Rigor",
+        "content": "While gamification and interactive elements were essential for maintaining engagement, the team had to ensure these features did not distract from educational goals or trivialize the learning process."
       },
       {
-        "title": "Brand-Aligned Design System Changes",
-        "content": "The problem of Domino's mobile app's design system was a bit too deep-rooted since users were already used to working with the same complex design and at the stage where Domino's is in, it could have proven counterproductive to conduct app-wide redesign."
+        "title": "Developing an Accurate AI-Driven Personalization Engine",
+        "content": "Personalizing the learning journey required an advanced AI that could interpret each student’s strengths and weaknesses in real-time and adapt the learning path accordingly. Building this system was technically complex and required extensive data for testing and refinement."
       }
     ],
     "challenges": [
@@ -176,8 +332,8 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf18.png",
-    "MobileImg": "/image/pf18.png",
+    "WebImg": "/image/realestate.png",
+    "MobileImg": "/image/realestate.png",
     "helptitle": "How We Developed a Comprehensive Real Estate Website for Dubai",
     "helpdescription": [
       "The case study delves into the specific requirements and challenges faced in creating a user-friendly and visually appealing website that caters to the unique needs of the Dubai real estate market.",
@@ -213,54 +369,54 @@
       }
     ],
     "product_journey": {
-      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
-      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
-      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+      "mainHeading": "Our client, approached us to create a dynamic real estate website to connect property buyers, sellers, and renters seamlessly. .",
+      "content1": "We focused on delivering a solution that aligns with the evolving demands of the real estate market, ensuring the website is not only visually appealing but also functionally robust. By integrating cutting-edge technology, we provided users with a modern, interactive platform to explore properties, make informed decisions, and connect with the right agents effortlessly",
+      "content2": "Property Listings: Visually compelling and detailed property pages, including virtual tours and photo galleries The goal was to build a platform that offered user-friendly navigation, advanced property search filters, and engaging visuals to showcase properties effectively"
     },
     "review": {
-      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
-      "name": "John Doe",
-      "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "content": "We partnered with Boxinall Softech to develop a cutting-edge real estate platform, and the experience exceeded our expectations. From the initial discovery phase to the final deployment, their team demonstrated exceptional professionalism, technical expertise, and commitment to delivering a high-quality solution",
+      "name": "Jack Doe",
+      "designation": "CEO",
+      "image": ""
     },
     "journey": {
-      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "mainHeading": "Boxinall Development Journey with AIT Square",
       "contents": [
-        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
-        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
-        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
-        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+        "Our journey began with in-depth discussions with the client to understand their goals, audience, and vision for the platform. We analyzed their competitors and market trends to identify opportunities and features that would set their website apart. Key requirements such as advanced search filters, property management tools, and mobile responsiveness were prioritized.",
+        "We conducted research to identify the best technologies and frameworks suited for scalability and performance. A detailed project roadmap was created, outlining milestones, deliverables, and timelines. This stage included wireframing the user journey, ensuring a logical and intuitive flow for both users and administrators.",
+        "Our design team focused on creating a visually appealing, user-centric interface using Figma. The designs emphasized clean layouts, high-quality visuals, and easy navigation. We incorporated client feedback to finalize the prototype, ensuring it aligned with their brand identity and target audience’s preferences.",
+        "We developed the website using modern frameworks like React.js for a fast and responsive user interface. Features like interactive maps, property comparison, and dynamic filtering were implemented to improve the browsing experience."
       ],
-      "image1": "dominos-screen5.png",
-      "image2": "dominos-screen6.png"
+      "image1": "real(2).png",
+      "image2": "real(2).png"
     },
     "results_product": {
-      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "mainHeading": "Enhanced User Engagement: Advanced search and interactive features boosted user interaction by 40%, leading to higher inquiries and property views.",
       "contents": [
-        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
-        "A validation of this was the changed user sentiment in ratings and reviews."
+        "The admin panel allowed the client to effortlessly manage listings, user profiles, and analytics, saving significant time and resources.",
+        "The responsive design led to a 50% increase in mobile users, ensuring accessibility on-the-go."
       ],
       "image1": "dominos-ratings.png"
     },
     "productGallery": {
       "images": [
-        "dominos-screen1.png",
-        "dominos-screen3.png",
-        "dominos-screen4.png",
-        "dominos-screen1.png"
+        "real.png",
+        "real(1).png",
+        "real(2).png",
+        "real(3).png"
       ]
     },
     "conversation_rate": {
-      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+      "content": "Boxinall Helped AIT Square Increase Conversion Rate by 50% Through a Transformative UI/UX On Mobile"
     },
     "project_challenges": [
       {
-        "title": "Brand Maintenance",
-        "content": "Losing customers' attention at the back of a poorly designed UX is a matter of concern for all the brands that are present on mobile and when the brand under scrutiny is someone like Domino's that has already created a prominent standing, resolution of issues becomes a matter of urgency so that the brand image is not compromised."
+        "title": "Scalable Architecture: ",
+        "content": "The client required a platform capable of managing a growing number of property listings and user accounts without compromising speed or performance."
       },
       {
-        "title": "Brand-Aligned Design System Changes",
-        "content": "The problem of Domino's mobile app's design system was a bit too deep-rooted since users were already used to working with the same complex design and at the stage where Domino's is in, it could have proven counterproductive to conduct app-wide redesign."
+        "title": "Intuitive Navigation:",
+        "content": "With a diverse user base, the interface had to cater to tech-savvy individuals as well as users new to online property platforms"
       }
     ],
     "challenges": [
@@ -330,8 +486,8 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf19.png",
-    "MobileImg": "/image/pf19.png",
+    "WebImg": "/image/doctorj.png",
+    "MobileImg": "/image/doctorj.png",
     "helptitle": "How We Designed a Comprehensive Doctor Appointment Application",
     "helpdescription": [
       "The case study explores the iterative design process, key features of the app, and the challenges faced during the design phase.",
@@ -366,54 +522,54 @@
       }
     ],
     "product_journey": {
-      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
-      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
-      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+      "mainHeading": "In today’s fast-paced world, accessing healthcare services seamlessly has become a necessity. Our client envisioned a mobile app that simplifies the process of booking doctor appointments, providing users with a platform to find, consult, and connect with healthcare professionals effortlessly.",
+      "content1": "The app is designed with both patients and doctors in mind, ensuring smooth navigation, secure communication, and robust functionality. Users can search for doctors by specialty, location, or availability and book appointments instantly",
+      "content2": "Key features include a search engine for specialists, secure payment processing, e-prescriptions, and personalized health dashboards. To cater to a broader audience, the app supports multiple languages and offers real-time notifications for appointment updates, reminders, and test results. Additionally, it integrates with wearable devices to track health data, providing a holistic view of the patient’s health journey."
     },
     "review": {
-      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
-      "name": "John Doe",
-      "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "content": "Working with Boxinall on mobile app development project was a fantastic experience. From the initial planning stages to the final deployment, we collaborated closely to ensure the app met their vision and exceeded expectations.",
+      "name": "Clark",
+      "designation": "Marketing Head",
+      "image": ""
     },
     "journey": {
-      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "mainHeading": "Boxinall Development Journey with Shakhee",
       "contents": [
-        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
-        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
-        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
-        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+        "We began by understanding the client’s vision, business goals, and target audience. This included detailed discussions to identify core features, user needs, and technical requirements. A clear roadmap was created, aligning timelines and milestones with the client's objectives.",
+        "Once the planning was complete, our design team created intuitive wireframes and prototypes to visualize the app’s layout and user flow. The designs were crafted with a focus on user-friendly navigation and appealing aesthetics, ensuring an optimal experience for end-users. Client feedback was integral at this stage, allowing us to refine the designs and align them perfectly with their expectations.",
+        "The development phase involved creating a responsive and visually engaging frontend using [React Native/Flutter/other technology] while building a robust and scalable backend to support data flow and integrations. We implemented APIs for key features such as payment processing, notifications, and third-party services.",
+        "After development, we conducted rigorous testing to ensure the app was bug-free and performed optimally across devices and platforms. Functional, performance, security, and cross-platform tests were performed to ensure reliability. Following the client’s approval, the app was deployed on the App Store and Google Play."
       ],
-      "image1": "dominos-screen5.png",
-      "image2": "dominos-screen6.png"
+      "image1": "doctor(4).png",
+      "image2": "doctor(5).png"
     },
     "results_product": {
-      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "mainHeading": "The intuitive design and smooth navigation led to a significant increase in user satisfaction and app engagement.",
       "contents": [
-        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
-        "A validation of this was the changed user sentiment in ratings and reviews."
+        "Doctors and patients experienced a 70% reduction in scheduling conflicts and delays.",
+        "The app’s robust security measures ensured compliance with data protection regulations, earning user trust."
       ],
       "image1": "dominos-ratings.png"
     },
     "conversation_rate": {
-      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+      "content": "Doctors and patients experienced a 70% reduction in scheduling conflicts and delays."
     },
     "productGallery": {
       "images": [
-        "dominos-screen1.png",
-        "dominos-screen3.png",
-        "dominos-screen4.png",
-        "dominos-screen1.png"
+        "doctor.png",
+        "doctor(1).png",
+        "doctor(2).png",
+        "doctor(3).png"
       ]
     },
     "project_challenges": [
       {
         "title": "Brand Maintenance",
-        "content": "Losing customers' attention at the back of a poorly designed UX is a matter of concern for all the brands that are present on mobile and when the brand under scrutiny is someone like Domino's that has already created a prominent standing, resolution of issues becomes a matter of urgency so that the brand image is not compromised."
+        "content": "Creating a system that accurately reflects doctors' real-time availability while allowing users to book appointments instantly was a complex task. This required integrating advanced calendar APIs and developing custom algorithms to handle overlapping bookings, cancellations, and reschedules seamlessly."
       },
       {
         "title": "Brand-Aligned Design System Changes",
-        "content": "The problem of Domino's mobile app's design system was a bit too deep-rooted since users were already used to working with the same complex design and at the stage where Domino's is in, it could have proven counterproductive to conduct app-wide redesign."
+        "content": "Given the sensitive nature of medical information, ensuring data security and compliance with regulations such as HIPAA (Health Insurance Portability and Accountability Act) was paramount. We implemented robust encryption protocols, secure authentication mechanisms, and end-to-end encrypted communication channels."
       }
     ],
     "challenges": [
@@ -479,8 +635,8 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf10.png",
-    "MobileImg": "/image/pf8.png",
+    "WebImg": "/image/eventj.png",
+    "MobileImg": "/image/eventj.png",
     "helptitle": "How We Transformed Event Management with Our Innovative App",
     "helpdescription": [
       "Event planning has always been a complex task. Our app aims to streamline this process, making it accessible to both professional event planners and individuals.",
@@ -520,54 +676,54 @@
       }
     ],
     "product_journey": {
-      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
-      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
-      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+      "mainHeading": "The Event Management Mobile App is a comprehensive platform designed to streamline the planning and execution of events, making the process seamless for both organizers and attendees. The app enables users to manage events of all sizes, from corporate conferences to private celebrations, with intuitive features tailored to enhance convenience and efficiency.",
+      "content1": "With a user-centric design, the app allows event organizers to create, customize, and promote events while providing attendees with a simple way to register, purchase tickets, and receive updates. The platform also supports real-time engagement through features like live polls, Q&A sessions, and chat functionalities, ensuring an interactive and engaging experience for all participants.",
+      "content2": "Built to cater to modern-day demands, the app integrates tools like calendar synchronization, reminders, and automated notifications to keep users informed and on track. It also includes analytics dashboards for organizers, providing valuable insights into ticket sales, attendee demographics, and engagement metrics to measure the success of events."
     },
     "review": {
       "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
       "name": "John Doe",
       "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "image": ""
     },
     "journey": {
-      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "mainHeading": "Boxinall Development Journey with Event Management App",
       "contents": [
-        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
-        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
-        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
-        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+        "The development of the Event Management Mobile App followed a structured and collaborative process to ensure the delivery of a high-quality product. We began with a discovery phase, engaging with stakeholders to define the app’s objectives, user personas, and key features. Extensive research was conducted to understand the event management industry’s pain points, user behavior, and competitor offerings, which informed the app’s functionality and design.",
+        "In the design phase, wireframes and prototypes were created to visualize the app’s user interface and journey. The design emphasized user-friendliness, intuitive navigation, and a visually appealing aesthetic. Feedback loops with stakeholders ensured that the design aligned with the brand identity and functional goals.",
+        "During the development phase, our team worked in agile sprints, prioritizing modular and scalable coding practices. The frontend was developed with [React Native/Flutter/etc.] to ensure a responsive and engaging user experience, while the backend used [Node.js/Django/etc.] for robust functionality and seamless integrations with third-party services. Features such as ticket booking, payment gateways, and real-time notifications were implemented with a focus on security and performance.",
+        "In the testing and quality assurance phase, the app underwent rigorous functional, usability, and performance testing. This included simulations of high traffic during large-scale events to ensure reliability. Bugs were identified and resolved promptly, and final user testing ensured the app met user expectations."
       ],
-      "image1": "dominos-screen5.png",
-      "image2": "dominos-screen6.png"
+      "image1": "event(4).png",
+      "image2": "event(5).png"
     },
     "results_product": {
-      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "mainHeading": "The Event Management Mobile App revolutionized how events are planned and managed. The user-friendly interface and comprehensive features allowed organizers to streamline workflows, reduce planning time, and enhance attendee satisfaction.",
       "contents": [
-        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
-        "A validation of this was the changed user sentiment in ratings and reviews."
+        "Post-launch analytics showed a 35% increase in attendee engagement during live events, thanks to interactive features like polls and Q&A. Ticket sales saw a 40% rise, attributed to the app's personalized event recommendations and easy booking process.",
+        "The platform’s secure payment integration facilitated transactions across 20+ countries, making it a preferred choice for global events. Additionally, the analytics dashboard empowered organizers to make data-driven decisions, improving event performance and revenue growth."
       ],
       "image1": "dominos-ratings.png"
     },
     "conversation_rate": {
-      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+      "content": "Post-launch analytics showed a 35% increase in attendee engagement during live events"
     },
     "productGallery": {
       "images": [
-        "dominos-screen1.png",
-        "dominos-screen3.png",
-        "dominos-screen4.png",
-        "dominos-screen1.png"
+        "event.png",
+        "event(1).png",
+        "event(2).png",
+        "event(3).png"
       ]
     },
     "project_challenges": [
       {
         "title": "Brand Maintenance",
-        "content": "Losing customers' attention at the back of a poorly designed UX is a matter of concern for all the brands that are present on mobile and when the brand under scrutiny is someone like Domino's that has already created a prominent standing, resolution of issues becomes a matter of urgency so that the brand image is not compromised."
+        "content": "Incorporating diverse features such as event creation, ticket booking, payment processing, and attendee management while ensuring seamless navigation."
       },
       {
         "title": "Brand-Aligned Design System Changes",
-        "content": "The problem of Domino's mobile app's design system was a bit too deep-rooted since users were already used to working with the same complex design and at the stage where Domino's is in, it could have proven counterproductive to conduct app-wide redesign."
+        "content": "Balancing feature richness with performance optimization to provide a smooth user experience."
       }
     ],
     "challenges": [
@@ -630,8 +786,8 @@
         "isColored": true
       }
     ],
-    "WebImg": "/image/pf13.png",
-    "MobileImg": "/image/pf14.png",
+    "WebImg": "/image/travel(6).png",
+    "MobileImg": "/image/travel(6).png",
     "helptitle": "How We Transformed Travel Booking with Our Innovative System",
     "helpdescription": [
       "The travel industry has been rapidly evolving, with customers seeking more convenient and comprehensive booking solutions.",
@@ -670,54 +826,54 @@
       }
     ],
     "product_journey": {
-      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
-      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
-      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+      "mainHeading": "Our client sought to revolutionize travel planning with an integrated mobile app and website designed to simplify every aspect of travel management. From booking flights and accommodations to creating personalized itineraries, the platform offers users a seamless and efficient way to organize their trips.",
+      "content1": "The website serves as a one-stop hub for travelers to browse destinations, compare pricing options, and book services with just a few clicks. The mobile app complements this by providing on-the-go access to bookings, real-time updates, and trip details, ensuring a cohesive user experience across platforms.",
+      "content2": "In addition to core travel management features, the platform offers value-added services like travel insurance, local recommendations, and real-time customer support. It caters to diverse user needs, from solo travelers to families and corporate teams, enhancing convenience and accessibility."
     },
     "review": {
       "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
       "name": "John Doe",
       "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "image": ""
     },
     "journey": {
-      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "mainHeading": "Boxinall Development Journey with Bigvaluetravels",
       "contents": [
-        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
-        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
-        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
-        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+        "The development process for the travel management mobile app and website was a structured and collaborative journey aimed at delivering a seamless, feature-rich solution. We began with extensive research and planning, where we worked closely with the client to define the project scope, user personas, and critical features. This phase involved analyzing competitors, understanding market trends, and aligning the design with the brand’s vision.",
+        "Next, during the design phase, our team created wireframes and prototypes, focusing on user experience (UX) and user interface (UI) design. The goal was to ensure intuitive navigation, visually appealing layouts, and accessibility across devices. Through multiple iterations, incorporating feedback from stakeholders, we finalized a design that reflected the needs of diverse user segments, including leisure travelers and corporate clients.",
+        "The development phase involved building a responsive and scalable platform using modern technologies. For the frontend, we utilized frameworks like React.js, ensuring fast and smooth interactions. The backend was developed with Node.js and cloud infrastructure to handle high volumes of traffic efficiently. Integrating third-party APIs for flights, hotels, and car rentals was a key focus, enabling real-time booking capabilities. Additionally, advanced features like push notifications, secure payment gateways, and multi-language support were seamlessly implemented.",
+        "Finally, the testing and deployment phase ensured the platform met the highest standards of performance, security, and usability. Comprehensive testing, including functional, performance, and security checks, identified and resolved issues before launch. The platform was deployed on robust servers, and a soft launch allowed us to gather user feedback for further refinement. Post-launch, we provided ongoing support and updates to ensure the platform continues to meet evolving user needs. This systematic approach resulted in a high-quality product that exceeded client expectations."
       ],
-      "image1": "dominos-screen5.png",
-      "image2": "dominos-screen6.png"
+      "image1": "travel(4).png",
+      "image2": "travel(5).png"
     },
     "results_product": {
-      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "mainHeading": " A 40% increase in user retention due to intuitive design and personalized recommendations.",
       "contents": [
-        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
-        "A validation of this was the changed user sentiment in ratings and reviews."
+        "Over 30,000 successful bookings within the first three months of launch, highlighting the platform's efficiency.",
+        "Positive feedback from users citing ease of use, reliability, and comprehensive features."
       ],
       "image1": "dominos-ratings.png"
     },
     "conversation_rate": {
-      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+      "content": "A 40% increase in user retention due to intuitive design and personalized recommendations"
     },
     "productGallery": {
       "images": [
-        "dominos-screen1.png",
-        "dominos-screen3.png",
-        "dominos-screen4.png",
-        "dominos-screen1.png"
+        "travel.png",
+        "travel(1).png",
+        "travel(2).png",
+        "travel(3).png"
       ]
     },
     "project_challenges": [
       {
         "title": "Brand Maintenance",
-        "content": "Losing customers' attention at the back of a poorly designed UX is a matter of concern for all the brands that are present on mobile and when the brand under scrutiny is someone like Domino's that has already created a prominent standing, resolution of issues becomes a matter of urgency so that the brand image is not compromised."
+        "content": "Catering to different user segments, including leisure travelers, corporate teams, and travel agencies, required us to design flexible features."
       },
       {
         "title": "Brand-Aligned Design System Changes",
-        "content": "The problem of Domino's mobile app's design system was a bit too deep-rooted since users were already used to working with the same complex design and at the stage where Domino's is in, it could have proven counterproductive to conduct app-wide redesign."
+        "content": "Delivering real-time updates on bookings, delays, or itinerary changes was critical for user trust and satisfaction."
       }
     ],
     "challenges": [
@@ -828,7 +984,7 @@
       "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
       "name": "John Doe",
       "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "image": ""
     },
     "journey": {
       "mainHeading": "Appinventiv's Development Journey with Domino's",
@@ -941,11 +1097,11 @@
     "project_challenges": [
       {
         "title": "Brand Maintenance",
-        "content": "Losing customers' attention at the back of a poorly designed UX is a matter of concern for all the brands that are present on mobile and when the brand under scrutiny is someone like Domino's that has already created a prominent standing, resolution of issues becomes a matter of urgency so that the brand image is not compromised."
+        "content": "Ensuring the website’s design and layout reflected the client’s brand identity while maintaining a user-centric approach."
       },
       {
         "title": "Brand-Aligned Design System Changes",
-        "content": "The problem of Domino's mobile app's design system was a bit too deep-rooted since users were already used to working with the same complex design and at the stage where Domino's is in, it could have proven counterproductive to conduct app-wide redesign."
+        "content": "Developing a platform capable of managing high traffic spikes during peak seasons without compromising performance."
       }
     ],
     "services": [
@@ -981,44 +1137,44 @@
       }
     ],
     "product_journey": {
-      "mainHeading": "Every Solution Needs a Problem to Begin With - In Case of Domino's Mobile App, It was a Complex User Journey.",
-      "content1": "It is not uncommon for a restaurant application to get reviews on food quality, delivery time, etc. It is something that every food business owner is prepared for. What is alarming is when reviews start highlighting issues related to the app experience, difficulty in placing an order, or in-app user journey.",
-      "content2": "When Domino's came to us, they were facing issues with retaining customers and were seeing a rise in their mobile app's bounce rate. They were looking for ways to redefine their business identity in the market and reinstate their image, through redesigned user interface and user experience (UI/UX)."
+      "mainHeading": "Our client, a prominent player in the fashion industry, approached us to create a dynamic eCommerce platform tailored to their growing online audience.",
+      "content1": "The goal was to design a visually appealing and feature-rich website that reflected the brand’s style and made online shopping effortless for their customers. The platform needed to cater to both desktop and mobile users, ensuring seamless browsing and purchasing experiences.",
+      "content2": "The website we developed showcases a comprehensive catalog of clothing, accessories, and footwear with high-quality images and detailed product descriptions. To enhance user engagement, we implemented an advanced search and filtering system, allowing customers to find products by category, price range, size, color, and other attributes"
     },
     "review": {
-      "content": "When we approached Appinventiv, what we had was a Domino's pizza app and website whose conversion rate was dwindling for quite some time. We weren't able to identify the issue, but we needed quick help. The time and effort that the team spent behind our application, not just identified the issue but also eradicated it from scratch.",
+      "content": "Working with Boxinall for the development of our eCommerce website was a fantastic experience. From the initial planning stages to the final launch, their team demonstrated exceptional professionalism, technical expertise, and creativity. They took the time to understand our business needs, target audience, and competitive landscape, ensuring the final product aligned perfectly with our vision.",
       "name": "John Doe",
       "designation": "Product Head - Digital",
-      "image": "client1.png"
+      "image": ""
     },
     "journey": {
-      "mainHeading": "Appinventiv's Development Journey with Domino's",
+      "mainHeading": "Boxinall Development Journey with 98degreenorth",
       "contents": [
-        "We started our development journey by identifying core issues in the Domino's pizza delivery app. The process of problem identification began with us diving into the customers' reviews, trying to get a grasp of the exact issues that they were facing when ordering pizza through the application. After reviewing the comments that the users were making we went on to explore Domino's delivery app ourselves, from a user's point of view..",
-        "After reading into the customers' reviews and exploring the application, we were able to pinpoint the problem area to the design system making the process of placing orders complex. There were also little issues like fetching of location, that were turning off the users.",
-        "Once we identified the issues that the users were facing and the app screens they were leaving the app from, the next stage was to look back at the Domino's delivery app wireframe and redesign the application.",
-        "Since the app and website is about quick selection and easy checkout, we planned our UI design approach in the same way. Using the right combination of font and image sizes, we were able to remove all elements of distraction from the pages, making the flow quick and easy. We also integrated various engaging features in Domino's pizza app such as sorting menus by categories, ordering food online, customizing orders, locating nearest store available for home delivery, making in-app payment, and tracking the Domino's delivery person in real-time."
+        "The development of the fashion eCommerce website followed a structured approach to ensure a seamless, high-quality product. We began with the Discovery and Planning phase, where we collaborated closely with the client to understand their goals, target audience, and unique requirements. This stage involved thorough research on market trends and competitors, resulting in a comprehensive roadmap outlining features, timelines, and deliverables",
+        "Next, our UI/UX Design team created visually captivating wireframes and prototypes that aligned with the client’s brand identity while ensuring user-friendly navigation. Using tools like Figma, we designed layouts optimized for both desktop and mobile users. We shared these designs with the client, incorporating their feedback to ensure a perfect match to their vision.",
+        "The Development Phase involved building the frontend and backend of the platform. For the frontend, we used React.js to create a responsive and interactive interface, while the backend, developed using Node.js, ensured a secure and scalable infrastructure. Key functionalities like advanced search filters, secure payment gateways, and personalized recommendations were integrated seamlessly to enhance the user experience.",
+        "Before launching, the website underwent Rigorous Testing and Quality Assurance to ensure optimal functionality, performance, and security. We conducted cross-browser and cross-device testing, as well as load testing, to prepare the platform for high traffic. Finally, the project was deployed to a secure hosting environment, followed by a soft launch to gather initial feedback. Post-launch, we provided continuous support and updates to keep the platform running smoothly and aligned with evolving user needs."
       ],
-      "image1": "dominos-screen5.png",
-      "image2": "dominos-screen6.png"
+      "image1": "ecommerce(2).png",
+      "image2": "ecommerce(4).png"
     },
     "results_product": {
-      "mainHeading": "The Results - 23% Increase in Conversion Rate",
+      "mainHeading": "The final eCommerce platform exceeded client expectations, delivering a visually stunning and highly functional website that resonated with their target audience. The advanced search and filtering options significantly improved user navigation, while the personalized recommendations boosted customer engagement and sales conversions.",
       "contents": [
-        "The post redesign Domino's pizza online app witnessed a stark increase of 23% in the conversion rate.The users that were once leaving the app without making any order were now spending time within the app to not just make but also track their orders in real time.",
-        "A validation of this was the changed user sentiment in ratings and reviews."
+        "The secure payment gateways and seamless mobile compatibility enhanced user trust and accessibility, leading to a 35% increase in online sales within the first quarter post-launch. Additionally, the multilingual and multicurrency features enabled the client to expand their global reach, capturing new markets and improving customer satisfaction.",
+        "With a scalable architecture, the website effortlessly handled traffic surges during promotional events, ensuring a smooth user experience. This project has positioned the client as a leader in the online fashion retail space, providing a robust foundation for future growth."
       ],
       "image1": "dominos-ratings.png"
     },
     "conversation_rate": {
-      "content": "Boxinall Helped Domino's Increase Conversion Rate by 23% Through a Transformative UI/UX"
+      "content": " leading to a 35% increase in online sales within the first quarter post-launch"
     },
     "productGallery": {
       "images": [
-        "dominos-screen1.png",
-        "dominos-screen3.png",
-        "dominos-screen4.png",
-        "dominos-screen1.png"
+        "ecommerce.png",
+        "ecommerce(1).png",
+        "ecommerce(2).png",
+        "ecommerce(3).png"
       ]
     },
 

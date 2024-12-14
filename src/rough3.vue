@@ -3,9 +3,9 @@
     <!-- Hero Section -->
     <!-- <section class="hero-section">
       <div class="hero-content" data-aos="fade-right" data-aos-duration="1000">
-        <h1 class="hero-title">Innovative Digital Solutions</h1>
+        <h1 class="hero-title">Showcase of Innovation and Excellence</h1>
         <p class="hero-subtitle">
-          Transforming ideas into powerful experiences
+          Explore Our Portfolio of Transformative Projects Across Industries
         </p>
         <button
           @click="scrollToProjects"
@@ -13,7 +13,7 @@
           data-aos="fade-up"
           data-aos-delay="300"
         >
-          View Our Work
+          Discuss Your Project
         </button>
       </div>
       <div class="hero-image" data-aos="fade-left" data-aos-duration="1000">
@@ -131,7 +131,7 @@
         <p class="cta-description">
           Let's collaborate on your next digital project
         </p>
-        <button @click="contactUs" class="cta-button">Get in Touch</button>
+        <button @click="/contact" class="cta-button">Get in Touch</button>
       </div>
     </section>
   </div>
@@ -243,7 +243,7 @@ export default {
   align-items: center;
   justify-content: space-between;
   padding: 0 5%;
-  background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+  background: linear-gradient(135deg, #000, #000);
   overflow: hidden;
 }
 
@@ -379,7 +379,7 @@ export default {
 } */
 
 .skills-section {
-  background-color: #1a1a1a;
+  background-color:;
   padding: 5% 10%;
 }
 

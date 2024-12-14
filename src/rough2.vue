@@ -138,6 +138,18 @@ export default {
           sitelink:
             "https://indus.swagat.michelin.in/account/login?returnUrl=%2F",
         },
+        {
+          title: "Michelin Tyre",
+          description:
+            "A specialized website and mobile application developed for Michelin Tyre, focusing on user account management and possibly e-commerce functionality. Built with Vue.js for a reactive frontend, and supported by PHP and MySQL on the backend, this project likely offers features such as product browsing, order management, and user-specific information related to Michelin products.",
+          stack: ["Website", "Mobile app"],
+          image: "/image/pf32.png",
+          smallimage: "/image/pf92.jpg",
+          link: "/case-study/Michelin-Tyre",
+          orientation: "left",
+          sitelink:
+            "https://indus.swagat.michelin.in/account/login?returnUrl=%2F",
+        },
       ],
     };
   },

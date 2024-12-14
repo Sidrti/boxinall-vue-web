@@ -1,17 +1,17 @@
 <template>
   <section class="hero-section" @click="tryPlayVideo">
     <div class="hero-content" data-aos="fade-right" data-aos-duration="1000">
-      <h1 class="hero-title">Innovative Digital Solutions</h1>
-      <p class="hero-subtitle">Transforming ideas into powerful experiences</p>
+      <h1 class="hero-title">Showcase of Innovation and Excellence</h1>
+      <p class="hero-subtitle">Explore Our Portfolio of Transformative Projects Across Industries</p>
       <!-- <button
         @click="$emit('scroll-to-projects')"
         class="cta-button"
         data-aos="fade-up"
         data-aos-delay="300"
       >
-        View Our Work
+        Discuss Now About Your Project
       </button> -->
-      <div class="mr25"><a href="#/contact" class="btn-main bg-btn4 lnk">View Our Work
+      <div class="mr25"><a href="/contact" class="btn-main bg-btn4 lnk">View Our Work
         <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a></div>
     </div>
     <div class="hero-image" data-aos="fade-left" data-aos-duration="1000">
@@ -50,9 +50,7 @@ export default {
   data() {
     return {
       videos: [
-        "/image/boxinall2.mp4",
         "/image/boxinall.mp4",
-        "/image/boxinall2.mp4",
         "/image/boxinall.mp4",
       ],
       currentVideoIndex: 0,
@@ -137,9 +135,9 @@ export default {
   margin-bottom: 1rem;
   color: white;
   /* background: linear-gradient(45deg, #007bff, #00dbd9); */
-  padding: 20px;
+  padding: 0px;
   border-radius: 25px;
-  text-align: center;
+  text-align: left;
 }
 
 .hero-subtitle {

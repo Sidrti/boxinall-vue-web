@@ -7,7 +7,7 @@
                         <h1 class="" data-aos="fadeIn" :data-aos-delay="200" data-aos-duration="1000">Top Rated Mobile App Development Company</h1>
                         <p class="" data-aos="fadeIn" :data-aos-delay="400" data-aos-duration="1000">Schedule a consultation with our team to discuss your idea. If we believe in It, you could be one of our exclusive clients this month. We can't wait to hear about your vision! </p>
                         <div class="content-sec  d-flex mt30 v-center text-w" data-aos="fadeIn" :data-aos-delay="600" data-aos-duration="1000">
-                            <div class="mr25"><a href="#/contact" class="btn-main bg-btn4 lnk">Let's discuss your idea
+                            <div class="mr25"><a href="/contact" class="btn-main bg-btn4 lnk">Let's discuss your idea
                             <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a></div>
                         </div>
                         <div class="awrd-sec text-w mt40" data-aos="fadeIn" :data-aos-delay="500">
@@ -17,7 +17,7 @@
 
                                 <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/clutch.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
-                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/mobile.png"
+                                <div class="img-badge- margin-right20"><a> <img src="../assets/images/icons/top.png"
                                             alt="niwax mobile app development company" class="img100w"></a> </div>
                                 <div class="img-badge- margin-right20"><a> <img
                                             src="../assets/images/icons/business of apps.png"

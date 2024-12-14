@@ -33,7 +33,7 @@
                                     </a></li> -->
                             </ul>
                         </div>
-                        <a href="#/contact" class="btn-main bg-btn2 lnk mt30">Request A Quote <i
+                        <a href="/contact" class="btn-main bg-btn2 lnk mt30">Request A Quote <i
                                 class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
                     </div>
                 </div>

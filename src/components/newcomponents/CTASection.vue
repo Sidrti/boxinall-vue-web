@@ -5,7 +5,7 @@
       <p class="cta-description">
         Let's collaborate on your next digital project
       </p>
-      <button @click="$emit('contact-us')" class="cta-button">
+      <button @click="$emit('/contact')" class="cta-button">
         Get in Touch
       </button>
     </div>
@@ -20,7 +20,7 @@ export default {
 
 <style scoped>
 .cta-section {
-  background: url("../../assets/images/Boxinall@123.png") center/cover no-repeat;
+  background: url("../../assets/images/banner/banner12.png") center/cover no-repeat;
   padding: 8% 10%;
   object-fit: contain;
   text-align: center;

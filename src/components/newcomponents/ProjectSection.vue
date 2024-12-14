@@ -98,7 +98,7 @@ export default {
   updateUrl(tab) {
     const currentPath = this.$route.path.split('/').pop();
     if (currentPath !== tab) {
-      this.$router.push({ path: `/portfolio2/${tab}` });
+      this.$router.push({ path: `/portfolio/${tab}` });
     }
   },
   viewCaseStudy(link) {
@@ -142,6 +142,7 @@ export default {
 
 .portfolio-grid {
   padding: 5% 10%;
+  background-color: white;
 }
 
 .projects-container {

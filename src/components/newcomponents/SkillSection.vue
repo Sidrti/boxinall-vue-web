@@ -44,7 +44,7 @@ export default {
   border-radius: 25px;
 }
 .skills-section {
-  background-color: #1a1a1a;
+  background-color: #fff;
   padding: 5% 10%;
 }
 
