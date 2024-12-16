@@ -8,7 +8,7 @@ import AboutView from "../views/AboutView";
 import ServiceDescriptionView from "../views/ServiceDescriptionView";
 import MobileDevelopmentServiceView from "../views/Services/MobileDevelopmentServiceView";
 import ContactView from "../views/ContactView";
-import CaseStudyView from "../views/CaseStudyView";
+// import CaseStudyView from "../views/CaseStudyView";
 import CaseStudyView2 from "../views/CaseStudyView2";
 import WebDevelopmentServiceView from "@/views/Services/WebDevelopmentServiceView.vue";
 import IndustryView from  "@/views/Services/Industry/IndustryView.vue"
@@ -83,14 +83,14 @@ const routes = [
     name: "contact",
     component: ContactView,
   },
+  // {
+  //   path: "/case-study/:id",
+  //   name: "case-study",
+  //   component: CaseStudyView,
+  // },
   {
     path: "/case-study/:id",
     name: "case-study",
-    component: CaseStudyView,
-  },
-  {
-    path: "/case-study2/:id",
-    name: "case-study2",
     component: CaseStudyView2,
   },
 ];

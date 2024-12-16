@@ -10,7 +10,7 @@
     "type": "mobile",
     "image": "/image/pf3.png",
     "smallimage": "/image/pf1.png",
-    "link": "/case-study2/dating-application",
+    "link": "/case-study/dating-application",
     "sitelink": "https://play.google.com/store/apps/details?id=com.app.udates&hl=en",
     "orientation": "left"
   },
@@ -26,7 +26,7 @@
     "type": "figma",
     "image": "/image/pf5.png",
     "smallimage": "/image/pf4.png",
-    "link": "/case-study2/doctor-appointment-application",
+    "link": "/case-study/doctor-appointment-application",
     "sitelink": "https://www.figma.com/design/GrvBMZDMscP3AThHJEXWSL/Sakhee-Copy?node-id=0-1&t=fmBdOmst0J0IHHLB-0",
     "orientation": "right"
   },
@@ -40,7 +40,7 @@
     "type": "wordpress",
     "image": "/image/pf6.png",
     "smallimage": "/image/pf7.png",
-    "link": "/case-study2/real-estate-website",
+    "link": "/case-study/real-estate-website",
     "orientation": "left",
     "sitelink": "https://aitsquare.com/"
   },
@@ -54,7 +54,7 @@
     "type": "figma",
     "image": "/image/pf10.png",
     "smallimage": "/image/pf8.png",
-    "link": "/case-study2/event-management-app",
+    "link": "/case-study/event-management-app",
     "orientation": "right",
     "sitelink": "https://www.figma.com/design/vAo6ZzBjRSOM8D6PkzPf5G?fuid=1013042852031927202&prev-plan-id=1303336793008847953&prev-plan-type=team&prev-selected-view=recentsAndSharing&prev-tab=recently-viewed"
   },
@@ -68,7 +68,7 @@
     "type": "website",
     "image": "/image/pf13.png",
     "smallimage": "/image/pf14.png",
-    "link": "/case-study2/travel-booking-system",
+    "link": "/case-study/travel-booking-system",
     "orientation": "left",
     "sitelink": "https://www.bigvaluetravels.com/"
   },
@@ -82,7 +82,7 @@
     "type": "mobile-website",
     "image": "/image/98.png",
     "smallimage": "/image/pf93.jpg",
-    "link": "/case-study2/98degreenorth",
+    "link": "/case-study/98degreenorth",
     "orientation": "right",
     "sitelink": "https://98degreenorth.com/"
   },
@@ -96,7 +96,7 @@
     "type": "mobile-website",
     "image": "/image/pf32.png",
     "smallimage": "/image/pf92.jpg",
-    "link": "/case-study2/Michelin-Tyre",
+    "link": "/case-study/Michelin-Tyre",
     "orientation": "left",
     "sitelink": "https://indus.swagat.michelin.in/account/login?returnUrl=%2F"
   },
@@ -110,10 +110,10 @@
     "type": "mobile-website",
     "image": "/image/morep.jpg",
     "smallimage": "/image/pf93.jpg",
-    "link": "/case-study2/morep",
+    "link": "/case-study/morep",
     "orientation": "right",
     "sitelink": "https://98degreenorth.com/"
   }
-  
+
 
 ]
