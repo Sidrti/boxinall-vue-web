@@ -50,9 +50,10 @@ export default {
 
 .skills-container {
   display: flex;
-  justify-content: stretch;
+  justify-content: space-evenly;
   flex-wrap: wrap;
-  gap: 0.2rem; /* Adds space between cards */
+  gap: 0rem; /* Adds space between cards */
+
 }
 
 .skill-item {
