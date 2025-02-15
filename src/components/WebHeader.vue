@@ -98,8 +98,25 @@
                 </div>
               </div>
             </li>
+            <li class="sbmenu rpdropdown text-start">
+              <router-link to="/" class="menu-links">Industry</router-link>
+              <div class="nx-dropdown menu-dorpdown">
+                <div class="sub-menu-section">
+                  <div class="sub-menu-center-block">
+                    <div class="sub-menu-column smfull">
+                      <ul>
+                        <li class="underline" v-for="item, index in industryList" :data="item" :key="index">
+                        <router-link :to="item.to">{{ item.title }}</router-link>
+                        
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
             <li><router-link class="menu-links" to="/about">About</router-link></li>
-            <li><router-link class="menu-links" to="/Portfolio2">Portfolio</router-link></li>
+            <li><router-link class="menu-links" to="/Portfolio">Portfolio</router-link></li>
 
             <li><a class="menu-links" href="https://boxinallsoftech.com/blog/">Blog</a></li>
             <li><router-link class="btn-outline lnk" to="/contact">Contact Us<i class=""></i></router-link> </li>
