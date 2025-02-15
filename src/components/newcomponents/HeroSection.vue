@@ -51,7 +51,6 @@ export default {
     return {
       videos: [
         "/image/boxinall.mp4",
-        "/image/boxinall.mp4",
       ],
       currentVideoIndex: 0,
       isPlaying: true,
